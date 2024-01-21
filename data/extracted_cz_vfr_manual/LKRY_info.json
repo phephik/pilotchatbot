@@ -1,0 +1,31 @@
+{
+    "icao_code": "LKRY",
+    "name": "Rokycany",
+    "full_address": "Aeroklub Rokycany z.s. Nad Husov\u00fdmi sady 486, 337 01 Rokycany",
+    "city": "Rokycany",
+    "airport_type": "Private domestic aerodrome VFR day",
+    "runways": [
+        {
+            "RWY": "09",
+            "magnetic_direction": "085\u00b0",
+            "rwy_dimensions": "850 x 30"
+        },
+        {
+            "RWY": "27",
+            "magnetic_direction": "265\u00b0",
+            "rwy_dimensions": "850 x 30"
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "49\u00b0 45  07  N",
+            "longitude": "13\u00b0 35  23  E"
+        }
+    ],
+    "elevation_ft": 1329,
+    "elevation_m": 405,
+    "frequency": "119,660",
+    "operating_hours": "2330 ft / 710 m AMSL",
+    "fuel": "NATURAL 95"
+}

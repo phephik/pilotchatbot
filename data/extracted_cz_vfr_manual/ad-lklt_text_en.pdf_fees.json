@@ -1,0 +1,34 @@
+{
+    "operating_fees": [
+        {
+            "type": "Ultralight aircraft",
+            "amount": "350,00",
+            "info": "Aircraft up to 2 t"
+        },
+        {
+            "type": "Aircraft up to 2 t",
+            "amount": "480,00",
+            "info": "Per each additional initiated tonne MTOW 350,00"
+        },
+        {
+            "type": "Extension of AD operating time by 30 minutes",
+            "amount": "800,00",
+            "info": null
+        }
+    ],
+    "parking_fees": [
+        {
+            "type": "Per day",
+            "amount": "400,00",
+            "info": "First three hours of parking free of charge."
+        }
+    ],
+    "passanger_fees": [
+        {
+            "type": "Passenger",
+            "amount": "180,00",
+            "info": null
+        }
+    ],
+    "other_information": "Other charges, current pricelist of aviation gasoline and other information available at www.letnany airport.cz ."
+}

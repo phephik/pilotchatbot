@@ -1,0 +1,61 @@
+{
+    "icao_code": "LKKU",
+    "name": "Kunovice",
+    "full_address": "Na Z\u00e1honech 1177, 686 04 Kunovice",
+    "city": "Kunovice",
+    "airport_type": "Private international aerodrome",
+    "runways": [
+        {
+            "RWY": "02C",
+            "magnetic_direction": "020\u00b0",
+            "rwy_dimensions": "2000 x 30"
+        },
+        {
+            "RWY": "20C",
+            "magnetic_direction": "200\u00b0",
+            "rwy_dimensions": "2000 x 30"
+        },
+        {
+            "RWY": "02R",
+            "magnetic_direction": "020\u00b0",
+            "rwy_dimensions": "1315 x 40"
+        },
+        {
+            "RWY": "20L",
+            "magnetic_direction": "200\u00b0",
+            "rwy_dimensions": "1315 x 40"
+        },
+        {
+            "RWY": "02L",
+            "magnetic_direction": "020\u00b0",
+            "rwy_dimensions": "1315 x 40"
+        },
+        {
+            "RWY": "20R",
+            "magnetic_direction": "200\u00b0",
+            "rwy_dimensions": "1315 x 40"
+        }
+    ],
+    "traffic": "IFR, VFR , test flights, gliders operation, parachute jumping operation",
+    "geocoordinates": [
+        {
+            "latitude": "49\u00b0 01  46  N",
+            "longitude": "17\u00b0 26  23  E"
+        }
+    ],
+    "elevation_ft": 581,
+    "elevation_m": 177,
+    "frequency": {
+        "Kunovice V\u011a\u017d/TOWER": "120,105",
+        "Kunovice INFORMATION": "120,105"
+    },
+    "operating_hours": "MON FRI outside HOL 0700 1500 (0600 1400 during the summer time)",
+    "fuel": [
+        "LL100",
+        "aviation kerosene JET A1",
+        "AEROSHELL FLUID 41",
+        "AEROSHELL TURBINE 500",
+        "ELF 100 AD",
+        "AEROSHELL AVE"
+    ]
+}

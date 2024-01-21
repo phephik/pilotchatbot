@@ -1,0 +1,38 @@
+{
+    "icao_code": "LKMI",
+    "name": "Mikulovice",
+    "full_address": "Mikulovice 163, 790 83 Mikulovice 3",
+    "city": "Mikulovice",
+    "airport_type": "Public domestic aerodrome VFR day, parachute jumping operation",
+    "runways": [
+        {
+            "RWY": "5",
+            "magnetic_direction": "052\u00b0",
+            "rwy_dimensions": "920 x 41"
+        },
+        {
+            "RWY": "23",
+            "magnetic_direction": "232\u00b0",
+            "rwy_dimensions": "920 x 41"
+        }
+    ],
+    "traffic": "Jesen\u00edk RADIO",
+    "geocoordinates": [
+        {
+            "latitude": "50\u00b0 18  06  N",
+            "longitude": "17\u00b0 17  51  E"
+        },
+        {
+            "latitude": "10,5 km GEO 035\u00b0 Jesen\u00edk",
+            "longitude": "2,2 km GEO 320\u00b0 Mikulovice"
+        }
+    ],
+    "elevation_ft": 1375,
+    "elevation_m": 419,
+    "frequency": "123,510",
+    "operating_hours": "SAT, SUN, HOL 0800   1500",
+    "fuel": [
+        "AVGAS 100",
+        "TOTAL AERO D 100"
+    ]
+}

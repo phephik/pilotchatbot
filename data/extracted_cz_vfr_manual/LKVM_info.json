@@ -1,0 +1,56 @@
+{
+    "icao_code": "LKVM",
+    "name": "Vysok\u00e9 M\u00fdto",
+    "full_address": "leti\u0161t\u011b Vo\u0161tice 40, 566 01 Vysok\u00e9 M\u00fdto",
+    "city": "Vysok\u00e9 M\u00fdto",
+    "airport_type": "Public domestic aerodrome / Private international aerodrome VFR day/night",
+    "runways": [
+        {
+            "RWY": "12L",
+            "magnetic_direction": "120\u00b0",
+            "rwy_dimensions": "600 x 18"
+        },
+        {
+            "RWY": "30R",
+            "magnetic_direction": "300\u00b0",
+            "rwy_dimensions": "600 x 18"
+        },
+        {
+            "RWY": "12R",
+            "magnetic_direction": "120\u00b0",
+            "rwy_dimensions": "1200 x 40"
+        },
+        {
+            "RWY": "30L",
+            "magnetic_direction": "300\u00b0",
+            "rwy_dimensions": "1200 x 40"
+        },
+        {
+            "RWY": "14",
+            "magnetic_direction": "135\u00b0",
+            "rwy_dimensions": "1000 x 80"
+        },
+        {
+            "RWY": "32",
+            "magnetic_direction": "315\u00b0",
+            "rwy_dimensions": "1000 x 80"
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "49\u00b0 55  37  N",
+            "longitude": "16\u00b0 11  09  E"
+        }
+    ],
+    "elevation_ft": 988,
+    "elevation_m": 301,
+    "frequency": "130,605",
+    "operating_hours": "MON   FRI 24 HR in advance, SAT, SUN, HOL 48 HR in advance. Visa related services not available.15 APR   15 OCT SAT, SUN, HOL 0700   1400 otherwise O/R",
+    "fuel": [
+        "aviation petrol 100 oct.",
+        "Natural 95",
+        "Aeroshell 100",
+        "Aeroshell W100"
+    ]
+}

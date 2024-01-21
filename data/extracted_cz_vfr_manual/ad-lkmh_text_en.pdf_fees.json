@@ -1,0 +1,59 @@
+{
+    "operating_fees": [
+        {
+            "type": "Landing fees at airport",
+            "amount": "250.0",
+            "info": "Aircraft up to 2 t MTOM"
+        },
+        {
+            "type": "Landing fees at airport",
+            "amount": "250.0",
+            "info": "Aircraft over 2 t MTOM"
+        },
+        {
+            "type": "Landing fees at airport",
+            "amount": "320.0",
+            "info": "Per each tone over 2 t"
+        }
+    ],
+    "parking_fees": [
+        {
+            "type": "Per each tonne and hour",
+            "amount": "12.0",
+            "info": null
+        },
+        {
+            "type": "Long term parking (more than 2 days) per tonne/day",
+            "amount": "80.0",
+            "info": null
+        },
+        {
+            "type": "Aircraft guarding per hour",
+            "amount": "600.0",
+            "info": null
+        },
+        {
+            "type": "Aircraft guarding per day",
+            "amount": "12000.0",
+            "info": "The first two hours of parking free of charge"
+        }
+    ],
+    "passanger_fees": [
+        {
+            "type": "Passengers on departure",
+            "amount": "200.0",
+            "info": null
+        },
+        {
+            "type": "Custom clearance per person",
+            "amount": "200.0",
+            "info": null
+        },
+        {
+            "type": "Immigration clearance per person",
+            "amount": "200.0",
+            "info": null
+        }
+    ],
+    "other_information": "Extension of aerodrome operational hours per each initiated hour 600.00"
+}

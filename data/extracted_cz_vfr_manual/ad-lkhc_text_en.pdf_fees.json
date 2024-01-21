@@ -1,0 +1,23 @@
+{
+    "operating_fees": [
+        {
+            "type": "Landing",
+            "amount": "100,00",
+            "info": "Per aircraft during operational hours"
+        },
+        {
+            "type": "Landing",
+            "amount": "100,00",
+            "info": "Per aircraft outside of operational hours"
+        }
+    ],
+    "parking_fees": [
+        {
+            "type": "Hangar (after agreement)",
+            "amount": "500,00",
+            "info": "Per 24 hours"
+        }
+    ],
+    "passanger_fees": [],
+    "other_information": "Outside operational hours of AD LKHC the arrivals are approved by prior arrangement with AD operator only (check of movement area serviceability). Arrival/departure of aircraft with overall length greater than or equal to 9 m or maximum width of fuselage greater than 2 m is allowed only after agreement with aerodrome operator (provision of rescue and firefighting service)."
+}

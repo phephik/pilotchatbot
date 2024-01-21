@@ -1,0 +1,48 @@
+{
+    "operating_fees": [
+        {
+            "type": "Per aeroplane up to 700 kg MTOW",
+            "amount": "70,00",
+            "info": null
+        },
+        {
+            "type": "Per aeroplane from 701 kg to 1000 kg MTOW",
+            "amount": "120,00",
+            "info": null
+        },
+        {
+            "type": "Per aeroplane from 1001 kg to 2000 kg MTOW",
+            "amount": "230,00",
+            "info": null
+        },
+        {
+            "type": "Per aeroplane from 2001 kg to 3000 kg MTOW",
+            "amount": "320,00",
+            "info": null
+        },
+        {
+            "type": "Per aeroplane from 3001 kg to 4000 kg MTOW",
+            "amount": "400,00",
+            "info": null
+        },
+        {
+            "type": "Per aeroplane from 4001 kg to 5000 kg MTOW",
+            "amount": "580,00",
+            "info": null
+        },
+        {
+            "type": "Per aeroplane over 5001 kg MTOW",
+            "amount": "1200,00",
+            "info": null
+        }
+    ],
+    "parking_fees": [
+        {
+            "type": "Per each initiated hour",
+            "amount": "20,00",
+            "info": "First hour free of charge"
+        }
+    ],
+    "passanger_fees": [],
+    "other_information": "Outside operational hours arrivals are allowed by prior agreement with the aerodrome operator only (check of movement area serviceability). Arrival/departure of an aircraft with length greater than or equal to 9 m or with maximum fuselage width greater than 2 m is permitted only by prior agreement with the aerodrome operator (to arrange rescue and firefighting services)."
+}

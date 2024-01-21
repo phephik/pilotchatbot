@@ -1,0 +1,26 @@
+{
+    "icao_code": "LKCHOC",
+    "name": "Choce\u0148",
+    "full_address": "Peliny 315, 565 01 Choce\u0148",
+    "city": "Choce\u0148",
+    "airport_type": "Public",
+    "runways": [
+        {
+            "RWY": "15",
+            "magnetic_direction": null,
+            "rwy_dimensions": null
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "49\u00b0 58  39  N",
+            "longitude": "16\u00b0 11  07  E"
+        }
+    ],
+    "elevation_ft": 866,
+    "elevation_m": 264,
+    "frequency": "120,685",
+    "operating_hours": "Year round",
+    "fuel": "Natural 95"
+}

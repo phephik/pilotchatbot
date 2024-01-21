@@ -1,0 +1,18 @@
+{
+    "operating_fees": [
+        {
+            "type": "Landing",
+            "amount": "100,00",
+            "info": "Value added tax is not included in rates."
+        }
+    ],
+    "parking_fees": [
+        {
+            "type": "Per hour and tonne of MTOW",
+            "amount": "5,00",
+            "info": "Value added tax is not included in rates."
+        }
+    ],
+    "passanger_fees": [],
+    "other_information": "The arrivals outside operational hours are allowed only after previous agreement with AD operator (check of movement areas serviceability). Arrivals/departures of aeroplanes with total length grater or equal 9 m or maximum fuselage width more than 2 m is cleared only after previous agreement with AD operator (provision of rescue and firefighting service)."
+}

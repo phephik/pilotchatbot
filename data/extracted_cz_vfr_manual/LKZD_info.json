@@ -1,0 +1,31 @@
+{
+    "icao_code": "LKZD",
+    "name": "\u017datec/Macerka",
+    "full_address": "Klub Leteck\u00e9 amat\u00e9rsk\u00e9 asociace CS v \u017datci, spolek Podm\u011bst\u00ed 2173, 438 01 \u017datec",
+    "city": "\u017datec",
+    "airport_type": "Private domestic aerodrome VFR day",
+    "runways": [
+        {
+            "RWY": "29",
+            "magnetic_direction": "289\u00b0",
+            "rwy_dimensions": "1120 x 40"
+        },
+        {
+            "RWY": "11",
+            "magnetic_direction": "109\u00b0",
+            "rwy_dimensions": "1120 x 40"
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "50\u00b0 19  03  N",
+            "longitude": "13\u00b0 30  46  E"
+        }
+    ],
+    "elevation_ft": 883,
+    "elevation_m": 269,
+    "frequency": "122,810",
+    "operating_hours": "After agreement with the head of air traffic",
+    "fuel": "NIL"
+}

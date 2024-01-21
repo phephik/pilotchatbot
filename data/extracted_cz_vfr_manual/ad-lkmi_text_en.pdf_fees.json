@@ -1,0 +1,18 @@
+{
+    "operating_fees": [
+        {
+            "type": "Landing charges",
+            "amount": "100,00",
+            "info": "Per aircraft"
+        }
+    ],
+    "parking_fees": [
+        {
+            "type": "Parking charges",
+            "amount": "10,00",
+            "info": "Per hour"
+        }
+    ],
+    "passanger_fees": [],
+    "other_information": "Providing information to known traffic in English language on request in advance."
+}

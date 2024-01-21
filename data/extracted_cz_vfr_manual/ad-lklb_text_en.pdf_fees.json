@@ -1,0 +1,54 @@
+{
+    "operating_fees": [
+        {
+            "type": "Landing",
+            "amount": "TBD",
+            "info": "After agreement with aerodrome operator depending on the nature of the intended activity."
+        },
+        {
+            "type": "Parking",
+            "amount": "Hangar rate per day 200,00 Apron free of charge per day, charge for long term parking according to an agreement with the aerodrome operator.",
+            "info": null
+        },
+        {
+            "type": "Passenger",
+            "amount": "NIL",
+            "info": "The charge for dispatch of international flight is subject of a settlement with the aerodrome operator."
+        }
+    ],
+    "parking_fees": [
+        {
+            "type": "Landing",
+            "amount": "TBD",
+            "info": "After agreement with aerodrome operator depending on the nature of the intended activity."
+        },
+        {
+            "type": "Parking",
+            "amount": "Hangar rate per day 200,00 Apron free of charge per day, charge for long term parking according to an agreement with the aerodrome operator.",
+            "info": null
+        },
+        {
+            "type": "Passenger",
+            "amount": "NIL",
+            "info": "The charge for dispatch of international flight is subject of a settlement with the aerodrome operator."
+        }
+    ],
+    "passanger_fees": [
+        {
+            "type": "Landing",
+            "amount": "TBD",
+            "info": "After agreement with aerodrome operator depending on the nature of the intended activity."
+        },
+        {
+            "type": "Parking",
+            "amount": "Hangar rate per day 200,00 Apron free of charge per day, charge for long term parking according to an agreement with the aerodrome operator.",
+            "info": null
+        },
+        {
+            "type": "Passenger",
+            "amount": "NIL",
+            "info": "The charge for dispatch of international flight is subject of a settlement with the aerodrome operator."
+        }
+    ],
+    "other_information": "Providing information to known traffic, considering the meteorological situation and further traffic conditions it is necessary to favour the direct approaches and direct departures of ACFT without needless circling flights."
+}

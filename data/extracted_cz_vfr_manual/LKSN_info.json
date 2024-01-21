@@ -1,0 +1,46 @@
+{
+    "icao_code": "LKSN",
+    "name": "Slan\u00fd",
+    "full_address": "P.O. Box 84, 274 01 Slan\u00fd",
+    "city": "Slan\u00fd",
+    "airport_type": "Public domestic aerodrome VFR day",
+    "runways": [
+        {
+            "RWY": "07L",
+            "magnetic_direction": "072\u00b0",
+            "rwy_dimensions": "760 x 23"
+        },
+        {
+            "RWY": "25R",
+            "magnetic_direction": "252\u00b0",
+            "rwy_dimensions": "760 x 23"
+        },
+        {
+            "RWY": "07R",
+            "magnetic_direction": "072\u00b0",
+            "rwy_dimensions": "760 x 40"
+        },
+        {
+            "RWY": "25L",
+            "magnetic_direction": "252\u00b0",
+            "rwy_dimensions": "760 x 40"
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "50\u00b0 13  00  N",
+            "longitude": "14\u00b0 05  19  E"
+        }
+    ],
+    "elevation_ft": 1079,
+    "elevation_m": 329,
+    "frequency": "122,405",
+    "operating_hours": "SAT, SUN, HOL 0700   1400",
+    "fuel": [
+        "AVGAS 100",
+        "Natural 95",
+        "TOTAL AD 100",
+        "Castrol 10W 40 4T"
+    ]
+}

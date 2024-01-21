@@ -1,0 +1,18 @@
+{
+    "operating_fees": [
+        {
+            "type": "Landing",
+            "amount": "50,00",
+            "info": "Per tonne of MTOW"
+        }
+    ],
+    "parking_fees": [
+        {
+            "type": "Hangar",
+            "amount": "100,00",
+            "info": "Per each initiated day"
+        }
+    ],
+    "passanger_fees": [],
+    "other_information": "Value added tax is not included in rates."
+}

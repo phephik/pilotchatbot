@@ -1,0 +1,28 @@
+{
+    "icao_code": "LKCHRI",
+    "name": "Ch\u0159ibsk\u00e1",
+    "full_address": "Doln\u00ed Ch\u0159ibsk\u00e1 310, 407 44 Ch\u0159ibsk\u00e1",
+    "city": "Ch\u0159ibsk\u00e1",
+    "airport_type": "Private SLZ field",
+    "runways": [
+        {
+            "RWY": null,
+            "magnetic_direction": null,
+            "rwy_dimensions": null
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "50\u00b0 51  29  N",
+            "longitude": "14\u00b0 28  01  E"
+        }
+    ],
+    "elevation_ft": 1256,
+    "elevation_m": 383,
+    "frequency": {
+        "ARP": "125,830"
+    },
+    "operating_hours": "Year round",
+    "fuel": "NIL"
+}

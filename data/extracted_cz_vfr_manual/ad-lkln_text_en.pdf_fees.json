@@ -1,0 +1,49 @@
+{
+    "operating_fees": [
+        {
+            "type": "Landing",
+            "amount": "100.0",
+            "info": "Landing fees for aircraft up to MTOW 1 t"
+        },
+        {
+            "type": "Parking",
+            "amount": "250.0",
+            "info": "Parking fees for aircraft up to MTOW 2 t"
+        },
+        {
+            "type": "Passenger",
+            "amount": "200.0",
+            "info": "Passenger fees for flights outside EU and Schengen area"
+        }
+    ],
+    "parking_fees": [
+        {
+            "type": "Parking",
+            "amount": "250.0",
+            "info": "Parking area aircraft up to MTOW 2 t (per initiated day)"
+        },
+        {
+            "type": "Parking",
+            "amount": "150.0",
+            "info": "Parking area aircraft over MTOW 2 t per day and per each initiated tonne"
+        },
+        {
+            "type": "Hangar",
+            "amount": "300.0",
+            "info": "Hangar per each initiated tonne and each initiated day"
+        }
+    ],
+    "passanger_fees": [
+        {
+            "type": "Custom and immigration clearance",
+            "amount": "200.0",
+            "info": "Custom and immigration clearance of passengers for flights outside EU and Schengen area (per passenger)"
+        },
+        {
+            "type": "Security check",
+            "amount": "350.0",
+            "info": "Security check for crew, passengers and baggage (physical check) for flights outside EU and Schengen area (per person)"
+        }
+    ],
+    "other_information": "Payment of landing charges: Landing charges are paid in the air traffic office or at the unit Providing information to known traffic in building of aerodrome control tower."
+}

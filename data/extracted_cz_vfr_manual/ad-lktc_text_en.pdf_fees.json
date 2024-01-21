@@ -1,0 +1,33 @@
+{
+    "operating_fees": [
+        {
+            "type": "Landing fees at airport",
+            "amount": "Up to 500 kg",
+            "info": "200,00"
+        },
+        {
+            "type": "Landing fees at airport",
+            "amount": "Up to 1000 kg",
+            "info": "300,00"
+        },
+        {
+            "type": "Landing fees at airport",
+            "amount": "Up to 2000 kg",
+            "info": "400,00"
+        },
+        {
+            "type": "Landing fees at airport",
+            "amount": "Over 2000 kg",
+            "info": "800,00"
+        }
+    ],
+    "parking_fees": [
+        {
+            "type": "Parking fees at airport",
+            "amount": "Outside parking over 48 hrs (per day)",
+            "info": "500,00"
+        }
+    ],
+    "passanger_fees": [],
+    "other_information": "The application for use of the aerodrome can be obtained by email, phone or before landing on frequency To\u010dn\u00e1 RADIO. If English is necessary, it is possible to receive approval by email at airport@tocna.cz at least 48 hours in advance. Use RWY center for taxiing, not the safety strips. Lipence aircraft model air field with occasional operation of larger models, about 3,5 km from To\u010dn\u00e1 airport in the direction of point Echo. Use extra caution."
+}

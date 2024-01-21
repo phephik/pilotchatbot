@@ -1,0 +1,44 @@
+{
+    "icao_code": "LKDK",
+    "name": "Dv\u016fr Kr\u00e1lov\u00e9",
+    "full_address": "Aeroklub Dv\u016fr Kr\u00e1lov\u00e9 nad Labem, leti\u0161t\u011b, 544 01 Dv\u016fr Kr\u00e1lov\u00e9 nad Labem",
+    "city": "Dv\u016fr Kr\u00e1lov\u00e9",
+    "airport_type": "Public domestic aerodrome VFR day",
+    "runways": [
+        {
+            "RWY": "10L",
+            "magnetic_direction": "098\u00b0",
+            "rwy_dimensions": "846 x 18"
+        },
+        {
+            "RWY": "28R",
+            "magnetic_direction": "278\u00b0",
+            "rwy_dimensions": "846 x 18"
+        },
+        {
+            "RWY": "10R",
+            "magnetic_direction": "098\u00b0",
+            "rwy_dimensions": "846 x 82"
+        },
+        {
+            "RWY": "28L",
+            "magnetic_direction": "278\u00b0",
+            "rwy_dimensions": "846 x 82"
+        }
+    ],
+    "traffic": "Carry out the traffic circuits to the north.",
+    "geocoordinates": [
+        {
+            "latitude": "50\u00b0 24  51  N",
+            "longitude": "15\u00b0 50  13  E"
+        }
+    ],
+    "elevation_ft": 925,
+    "elevation_m": 282,
+    "frequency": "119,610",
+    "operating_hours": "SAT, SUN, HOL 0800   1500",
+    "fuel": [
+        "AVGAS 100LL",
+        "TOTAL AERO D100"
+    ]
+}

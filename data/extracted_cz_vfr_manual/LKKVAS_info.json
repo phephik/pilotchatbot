@@ -1,0 +1,28 @@
+{
+    "icao_code": "LKKVAS",
+    "name": "Kvasiny",
+    "full_address": "Private SLZ fieldKVASINY",
+    "city": "Rychnov nad Kn\u011b\u017enou",
+    "airport_type": "VFR",
+    "runways": [
+        {
+            "RWY": "NIL",
+            "magnetic_direction": "NIL",
+            "rwy_dimensions": "NIL"
+        }
+    ],
+    "traffic": "NIL",
+    "geocoordinates": [
+        {
+            "latitude": "50\u00b0 12 15 N",
+            "longitude": "16\u00b0 16 27 E"
+        }
+    ],
+    "elevation_ft": 1299,
+    "elevation_m": 396,
+    "frequency": {
+        "ARP": "50\u00b0 12 15 N, 16\u00b0 16 27 E"
+    },
+    "operating_hours": "Year round",
+    "fuel": "NIL"
+}

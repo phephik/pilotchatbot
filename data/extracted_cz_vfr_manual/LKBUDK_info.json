@@ -1,0 +1,26 @@
+{
+    "icao_code": "LKBUDK",
+    "name": "Budkovice",
+    "full_address": "Private SLZ field",
+    "city": "Budkovice",
+    "airport_type": "VFR",
+    "runways": [
+        {
+            "RWY": "12",
+            "magnetic_direction": "135",
+            "rwy_dimensions": "870 ft / 265 m"
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "49\u00b0 04  43  N",
+            "longitude": "16\u00b0 21  21  E"
+        }
+    ],
+    "elevation_ft": 870,
+    "elevation_m": 265,
+    "frequency": "RADIO 135,330",
+    "operating_hours": "Year round",
+    "fuel": "NIL"
+}

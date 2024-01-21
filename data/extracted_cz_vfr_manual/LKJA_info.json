@@ -1,0 +1,50 @@
+{
+    "icao_code": "LKJA",
+    "name": "Jarom\u011b\u0159",
+    "full_address": "Aeroklub Jarom\u011b\u0159, z.s. leti\u0161t\u011b Josefov, Novom\u011bstsk\u00e1 361, 551 02 Jarom\u011b\u0159",
+    "city": "Jarom\u011b\u0159",
+    "airport_type": "Public domestic aerodrome VFR day, parachute jumping operation",
+    "runways": [
+        {
+            "RWY": "14R",
+            "magnetic_direction": "142\u00b0",
+            "rwy_dimensions": "940 x 40"
+        },
+        {
+            "RWY": "32L",
+            "magnetic_direction": "322\u00b0",
+            "rwy_dimensions": "940 x 40"
+        },
+        {
+            "RWY": "14L",
+            "magnetic_direction": "142\u00b0",
+            "rwy_dimensions": "940 x 50"
+        },
+        {
+            "RWY": "32R",
+            "magnetic_direction": "322\u00b0",
+            "rwy_dimensions": "940 x 50"
+        }
+    ],
+    "traffic": "Providing information to known traffic",
+    "geocoordinates": [
+        {
+            "latitude": "50\u00b0 19  53  N",
+            "longitude": "15\u00b0 57  14  E"
+        }
+    ],
+    "elevation_ft": 891,
+    "elevation_m": 271,
+    "frequency": {
+        "119,105ARP": "50\u00b0 19  53  N, 15\u00b0 57  14  E",
+        "119,105RWY": "Magnetic direction RWY dimensions Strength TORA TODA ASDA LDA"
+    },
+    "operating_hours": "SAT, SUN, HOL 0700   1400 otherwise O/R",
+    "fuel": [
+        "AVGAS 100 LL",
+        "BA 95 N",
+        "TOTAL 100 D",
+        "TOTAL 100 Mineral",
+        "TOTAL 15W 50"
+    ]
+}

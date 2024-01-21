@@ -1,0 +1,17 @@
+{
+    "operating_fees": [
+        {
+            "type": "Landing charges",
+            "amount": "50,00",
+            "info": "Per tonne of MTOW"
+        },
+        {
+            "type": "Gliders",
+            "amount": null,
+            "info": null
+        }
+    ],
+    "parking_fees": [],
+    "passanger_fees": [],
+    "other_information": "Providing information to known traffic in English O/R."
+}

@@ -1,0 +1,28 @@
+{
+    "icao_code": "LKDETR",
+    "name": "D\u011bt\u0159ichov O\u00e1za",
+    "full_address": "Private SLZ fieldD\u011aT\u0158ICHOV",
+    "city": "D\u011aT\u0158ICHOV",
+    "airport_type": "VFR",
+    "runways": [
+        {
+            "RWY": null,
+            "magnetic_direction": null,
+            "rwy_dimensions": null
+        }
+    ],
+    "traffic": null,
+    "geocoordinates": [
+        {
+            "latitude": "49\u00b0 43  45  N",
+            "longitude": "17\u00b0 07  05  E"
+        }
+    ],
+    "elevation_ft": 751,
+    "elevation_m": 229,
+    "frequency": {
+        "ARP": "125,830"
+    },
+    "operating_hours": "Year round",
+    "fuel": "On request"
+}

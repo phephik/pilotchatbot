@@ -1,0 +1,34 @@
+{
+    "icao_code": "LKSA",
+    "name": "Sta\u0148kov",
+    "full_address": "Aeroklub Sta\u0148kov, z.s. leti\u0161t\u011b, 345 61 Sta\u0148kov",
+    "city": "Sta\u0148kov",
+    "airport_type": "Public domestic aerodrome VFR day, parachute jumping operation",
+    "runways": [
+        {
+            "RWY": "7",
+            "magnetic_direction": "071\u00b0",
+            "rwy_dimensions": "660 x 40"
+        },
+        {
+            "RWY": "25",
+            "magnetic_direction": "251\u00b0",
+            "rwy_dimensions": "660 x 40"
+        }
+    ],
+    "traffic": "Providing information to known traffic",
+    "geocoordinates": [
+        {
+            "latitude": "49\u00b0 34  00  N",
+            "longitude": "13\u00b0 02  55  E"
+        }
+    ],
+    "elevation_ft": 1404,
+    "elevation_m": 428,
+    "frequency": {
+        "RWY": "123,610",
+        "ARP": "49\u00b0 34  00  N, 13\u00b0 02  55  E"
+    },
+    "operating_hours": "SAT, SUN, HOL 0700   1400",
+    "fuel": "Natural 95"
+}

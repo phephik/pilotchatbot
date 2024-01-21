@@ -1,0 +1,35 @@
+{
+    "icao_code": "LKSB",
+    "name": "Stichovice",
+    "full_address": "Aeroklub Prost\u011bjov Stichovice, z.s. Edvarda Valenty 39, 796 03 Prost\u011bjov",
+    "city": "Prost\u011bjov",
+    "airport_type": "Public domestic aerodrome VFR day",
+    "runways": [
+        {
+            "RWY": "14",
+            "magnetic_direction": "135\u00b0",
+            "rwy_dimensions": "880 x 30"
+        },
+        {
+            "RWY": "32",
+            "magnetic_direction": "315\u00b0",
+            "rwy_dimensions": "880 x 30"
+        }
+    ],
+    "traffic": "Reduce flights in the area of Plumlov dam and its neighbourhood.",
+    "geocoordinates": [
+        {
+            "latitude": "49\u00b0 29' 10\" N",
+            "longitude": "17\u00b0 03' 20\" E"
+        }
+    ],
+    "elevation_ft": 837,
+    "elevation_m": 255,
+    "frequency": "120,680",
+    "operating_hours": "SAT, SUN, HOL 0800 - 1500 (0700 - 1400) UTC, other days O/R 24 HR in advance",
+    "fuel": [
+        "BA 95",
+        "Avgas 100 LL",
+        "Aeroshell W100"
+    ]
+}

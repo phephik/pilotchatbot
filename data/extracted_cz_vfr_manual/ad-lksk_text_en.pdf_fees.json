@@ -1,0 +1,23 @@
+{
+    "operating_fees": [
+        {
+            "type": "Landing charges",
+            "amount": "100,00",
+            "info": "Per one landing"
+        }
+    ],
+    "parking_fees": [
+        {
+            "type": "Parking charges",
+            "amount": "100,00",
+            "info": "Out of hangar per each initiated day"
+        },
+        {
+            "type": "Parking charges",
+            "amount": "200,00",
+            "info": "In hangar per each initiated day"
+        }
+    ],
+    "passanger_fees": [],
+    "other_information": "Providing information to known traffic in Czech language only."
+}

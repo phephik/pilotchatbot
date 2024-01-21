@@ -1,0 +1,39 @@
+{
+    "operating_fees": [
+        {
+            "type": "landing",
+            "amount": "$100",
+            "info": "Landing fees at airport"
+        },
+        {
+            "type": "takeoff",
+            "amount": "$80",
+            "info": "Takeoff fees at airport"
+        }
+    ],
+    "parking_fees": [
+        {
+            "type": "short-term",
+            "amount": "$20",
+            "info": "Short-term parking fees at airport"
+        },
+        {
+            "type": "long-term",
+            "amount": "$50",
+            "info": "Long-term parking fees at airport"
+        }
+    ],
+    "passanger_fees": [
+        {
+            "type": "domestic",
+            "amount": "$10",
+            "info": "Passenger fees for domestic flights"
+        },
+        {
+            "type": "international",
+            "amount": "$20",
+            "info": "Passenger fees for international flights"
+        }
+    ],
+    "other_information": "For information on how to pay fees, please visit www.prg.aero"
+}

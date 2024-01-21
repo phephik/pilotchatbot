@@ -1,0 +1,31 @@
+{
+    "icao_code": "LKHV",
+    "name": "Ho\u0159ovice",
+    "full_address": "Leti\u0161t\u011b Ho\u0159ovice, 268 01 Ho\u0159ovice",
+    "city": "Ho\u0159ovice",
+    "airport_type": "Private domestic aerodrome VFR day, parachute jumping operation",
+    "runways": [
+        {
+            "RWY": "6",
+            "magnetic_direction": "063\u00b0",
+            "rwy_dimensions": "1170 x 30"
+        },
+        {
+            "RWY": "24",
+            "magnetic_direction": "243\u00b0",
+            "rwy_dimensions": "1170 x 30"
+        }
+    ],
+    "traffic": "Ho\u0159ovice RADIO",
+    "geocoordinates": [
+        {
+            "latitude": "49\u00b0 50  41  N",
+            "longitude": "13\u00b0 53  09  E"
+        }
+    ],
+    "elevation_ft": 1214,
+    "elevation_m": 370,
+    "frequency": "135,580",
+    "operating_hours": "Circuit 2200 ft / 670 m AMSL",
+    "fuel": "ELF 100 AD"
+}

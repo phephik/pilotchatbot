@@ -1,0 +1,12 @@
+{
+    "operating_fees": [
+        {
+            "type": "Landing fees at airport",
+            "amount": "120,00",
+            "info": "Per tonne of MTOW"
+        }
+    ],
+    "parking_fees": [],
+    "passanger_fees": [],
+    "other_information": "On the concrete area south of THR RWY 02 the possibility of increased movement of people and machinery."
+}

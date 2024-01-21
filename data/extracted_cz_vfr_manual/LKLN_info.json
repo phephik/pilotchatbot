@@ -1,0 +1,34 @@
+{
+    "icao_code": "LKLN",
+    "name": "Plze\u0148/L\u00edn\u011b",
+    "full_address": "leti\u0161t\u011b L\u00edn\u011b, 330 21 L\u00edn\u011b",
+    "city": "Plze\u0148",
+    "airport_type": "Public domestic aerodrome / Private international aerodrome",
+    "runways": [
+        {
+            "RWY": "6",
+            "magnetic_direction": "056\u00b0",
+            "rwy_dimensions": "1450 x 60"
+        },
+        {
+            "RWY": "24",
+            "magnetic_direction": "236\u00b0",
+            "rwy_dimensions": "1450 x 60"
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "49\u00b0 40  31  N",
+            "longitude": "13\u00b0 16  28  E"
+        }
+    ],
+    "elevation_ft": 1188,
+    "elevation_m": 362,
+    "frequency": "129,005",
+    "operating_hours": "MON   SUN, HOL 17 APR   28 AUG 06 00   18 00 UTC 29 AUG   16 APR 06 00 UTC (07 00 UTC SS)",
+    "fuel": [
+        "AVGAS 100LL",
+        "JET A 1"
+    ]
+}

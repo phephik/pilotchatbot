@@ -1,0 +1,24 @@
+{
+    "operating_fees": [
+        {
+            "type": "Landing charges",
+            "amount": "Up to two tonnes of MTOW 100,00",
+            "info": "Exceeding two tonnes per each initiated tonne 100,00"
+        }
+    ],
+    "parking_fees": [
+        {
+            "type": "Passenger",
+            "amount": "NIL",
+            "info": null
+        }
+    ],
+    "passanger_fees": [
+        {
+            "type": "Charges for passenger service",
+            "amount": "NIL",
+            "info": null
+        }
+    ],
+    "other_information": "Arrivals to the aerodrome outside operational hours are permitted only after previous agreement with the aerodrome operator (check of serviceability of movement areas). Providing information to known traffic in english language on request 24H in advance."
+}

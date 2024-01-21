@@ -1,0 +1,17 @@
+{
+    "operating_fees": [
+        {
+            "type": "Landing fees at airport",
+            "amount": "60,00",
+            "info": "Per tonne of MTOW"
+        },
+        {
+            "type": "Parking fees at airport",
+            "amount": "100,00",
+            "info": "Per aircraft and day"
+        }
+    ],
+    "parking_fees": [],
+    "passanger_fees": [],
+    "other_information": "3.1 Landing charges Per tonne of MTOW 60,00 21 APR 22 (1) Sob\u011bslav VFR AD LKSO TEXT 2 VFR Manual Czech Republic3.2 Parking charges Per aircraft and day 100,00 3.3 Charges for passenger service NIL Chapter end"
+}

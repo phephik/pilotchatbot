@@ -1,0 +1,28 @@
+{
+    "icao_code": "LKMIRA",
+    "name": "Miroslav AirCon",
+    "full_address": "Vymazalova 17, 615 00 Brno",
+    "city": "Miroslav",
+    "airport_type": "Public",
+    "runways": [
+        {
+            "RWY": "11",
+            "magnetic_direction": "120",
+            "rwy_dimensions": "665"
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "48\u00b0 55  54  N",
+            "longitude": "16\u00b0 20  23  E"
+        }
+    ],
+    "elevation_ft": 715,
+    "elevation_m": 218,
+    "frequency": {
+        "ARP": "120,665"
+    },
+    "operating_hours": "Year round",
+    "fuel": "NIL"
+}

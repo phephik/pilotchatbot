@@ -1,0 +1,36 @@
+{
+    "icao_code": "LKBREZ",
+    "name": "B\u0159ez\u00ed Falcon",
+    "full_address": "Private SLZ field",
+    "city": "B\u0158EZ\u00cd",
+    "airport_type": "VFR",
+    "runways": [
+        {
+            "RWY": "30",
+            "magnetic_direction": "3",
+            "rwy_dimensions": "only landing allowed"
+        },
+        {
+            "RWY": "12",
+            "magnetic_direction": "3",
+            "rwy_dimensions": "only take off allowed"
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "49\u00b0 20  18  N",
+            "longitude": "16\u00b0 13  58  E"
+        }
+    ],
+    "elevation_ft": 1680,
+    "elevation_m": 512,
+    "frequency": "B\u0158EZ\u00cd RADIO 124,515",
+    "operating_hours": "Do not fly over the built up area of the villages  B\u0159ez\u00ed, B\u0159ezsk\u00e9, Borovn\u00edk, N\u00edhov and adjacent recreational areas.",
+    "fuel": [
+        "AVGAS 100LL",
+        "BA 95",
+        "Total 15W50",
+        "Total 100"
+    ]
+}

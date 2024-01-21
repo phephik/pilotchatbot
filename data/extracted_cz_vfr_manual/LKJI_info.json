@@ -1,0 +1,31 @@
+{
+    "icao_code": "LKJI",
+    "name": "Jihlava",
+    "full_address": "Hen\u010dov 61, 586 01 Jihlava",
+    "city": "Jihlava",
+    "airport_type": "Public domestic aerodrome",
+    "runways": [
+        {
+            "RWY": "10",
+            "magnetic_direction": "102\u00b0",
+            "rwy_dimensions": "920 x 100"
+        },
+        {
+            "RWY": "28",
+            "magnetic_direction": "282\u00b0",
+            "rwy_dimensions": "920 x 100"
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "49\u00b0 25  11  N",
+            "longitude": "15\u00b0 38  08  E"
+        }
+    ],
+    "elevation_ft": 1821,
+    "elevation_m": 555,
+    "frequency": "123,490",
+    "operating_hours": "SAT, SUN, HOL 0700   1400",
+    "fuel": "AVGAS 100, NATURAL 95"
+}

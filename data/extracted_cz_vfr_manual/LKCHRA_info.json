@@ -1,0 +1,28 @@
+{
+    "icao_code": "LKCHRA",
+    "name": "Chr\u00e1\u0161\u0165any",
+    "full_address": "Chr\u00e1\u0161\u0165any, Czech Republic",
+    "city": "Chr\u00e1\u0161\u0165any",
+    "airport_type": "Private",
+    "runways": [
+        {
+            "RWY": "SLZ",
+            "magnetic_direction": "132",
+            "rwy_dimensions": "210"
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "50\u00b0 03  31  N",
+            "longitude": "14\u00b0 55  23  E"
+        }
+    ],
+    "elevation_ft": 879,
+    "elevation_m": 268,
+    "frequency": {
+        "CHOTO RADIO": "132,210"
+    },
+    "operating_hours": "Year round",
+    "fuel": "NIL"
+}

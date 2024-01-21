@@ -1,0 +1,41 @@
+{
+    "icao_code": "LKSZ",
+    "name": "Sazen\u00e1",
+    "full_address": "Sazen\u00e1, Czech Republic",
+    "city": "Sazen\u00e1",
+    "airport_type": "Public domestic aerodrome",
+    "runways": [
+        {
+            "RWY": "33L",
+            "magnetic_direction": "325\u00b0",
+            "rwy_dimensions": "1315 x 93"
+        },
+        {
+            "RWY": "15R",
+            "magnetic_direction": "145\u00b0",
+            "rwy_dimensions": "1315 x 93"
+        },
+        {
+            "RWY": "33R",
+            "magnetic_direction": "325\u00b0",
+            "rwy_dimensions": "840 x 30"
+        },
+        {
+            "RWY": "15L",
+            "magnetic_direction": "145\u00b0",
+            "rwy_dimensions": "840 x 30"
+        }
+    ],
+    "traffic": "VFR day/night, parachute jumping operation",
+    "geocoordinates": [
+        {
+            "latitude": "50\u00b0 19  29  N",
+            "longitude": "14\u00b0 15  32  E"
+        }
+    ],
+    "elevation_ft": 765,
+    "elevation_m": 233,
+    "frequency": "119,640",
+    "operating_hours": "SAT, SUN, HOL 0700   1500, otherwise O/R",
+    "fuel": "TOTAL AERO D100"
+}

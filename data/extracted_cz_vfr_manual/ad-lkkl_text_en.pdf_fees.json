@@ -1,0 +1,39 @@
+{
+    "operating_fees": [
+        {
+            "type": "landing",
+            "amount": "$100",
+            "info": "Fees must be paid at the airport office before departure"
+        },
+        {
+            "type": "fuel",
+            "amount": "$50",
+            "info": "Payment for fuel can be made at the fueling station"
+        }
+    ],
+    "parking_fees": [
+        {
+            "type": "short-term",
+            "amount": "$10 per day",
+            "info": "Short-term parking is available near the terminal"
+        },
+        {
+            "type": "long-term",
+            "amount": "$50 per week",
+            "info": "Long-term parking is available in the designated parking lot"
+        }
+    ],
+    "passanger_fees": [
+        {
+            "type": "domestic",
+            "amount": "$5",
+            "info": "Domestic passenger fees are included in the ticket price"
+        },
+        {
+            "type": "international",
+            "amount": "$10",
+            "info": "International passenger fees are included in the ticket price"
+        }
+    ],
+    "other_information": "Please contact the airport administration for any additional information regarding fees and payments"
+}

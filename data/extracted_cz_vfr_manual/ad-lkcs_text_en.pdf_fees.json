@@ -1,0 +1,54 @@
+{
+    "operating_fees": [
+        {
+            "type": "Landing fees",
+            "amount": "250,00",
+            "info": null
+        },
+        {
+            "type": "Parking fees",
+            "amount": "18,00",
+            "info": "First hour free of charge."
+        },
+        {
+            "type": "Passenger fees",
+            "amount": "350",
+            "info": "per person"
+        }
+    ],
+    "parking_fees": [
+        {
+            "type": "Landing fees",
+            "amount": "250,00",
+            "info": null
+        },
+        {
+            "type": "Parking fees",
+            "amount": "18,00",
+            "info": "First hour free of charge."
+        },
+        {
+            "type": "Passenger fees",
+            "amount": "350",
+            "info": "per person"
+        }
+    ],
+    "passanger_fees": [
+        {
+            "type": "Landing fees",
+            "amount": "250,00",
+            "info": null
+        },
+        {
+            "type": "Parking fees",
+            "amount": "18,00",
+            "info": "First hour free of charge."
+        },
+        {
+            "type": "Passenger fees",
+            "amount": "350",
+            "info": "per person"
+        }
+    ],
+    "other_information": "All mentioned rates are in CZK without value added tax. Landing charges Each initiated tonne of MTOW 250,00 Parking charges Each initiated hour and tonne of MTOW 18,00 First hour free of charge. Charges for passenger service AD used by passengers for departure 350 CZK per person. Besides of published charges an extra charge is accounted for covering of extra operational costs for each initiated hour of operation of the aerodrome outside published operational hours. Extension of aeodrome operational hours per each initiated hour 21 000 CZK. It is not applied to commercial air transport flights after agreement with the aerodrome operator."
+}

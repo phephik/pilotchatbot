@@ -1,0 +1,31 @@
+{
+    "icao_code": "LKBR",
+    "name": "Broumov",
+    "full_address": "leti\u0161t\u011b, 550 01 Broumov",
+    "city": "Broumov",
+    "airport_type": "Public domestic aerodrome VFR day",
+    "runways": [
+        {
+            "RWY": "14",
+            "magnetic_direction": "137\u00b0",
+            "rwy_dimensions": "920 x 18"
+        },
+        {
+            "RWY": "32",
+            "magnetic_direction": "317\u00b0",
+            "rwy_dimensions": "920 x 18"
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "50\u00b0 33  43  N",
+            "longitude": "16\u00b0 20  34  E"
+        }
+    ],
+    "elevation_ft": 1342,
+    "elevation_m": 409,
+    "frequency": "123,490",
+    "operating_hours": "SAT, SUN, HOL 0700   1400",
+    "fuel": "natural 95"
+}

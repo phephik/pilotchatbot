@@ -1,0 +1,24 @@
+{
+    "operating_fees": [
+        {
+            "type": "Landing fees at airport",
+            "amount": "string",
+            "info": "string"
+        }
+    ],
+    "parking_fees": [
+        {
+            "type": "Parking fees at airport",
+            "amount": "string",
+            "info": "string"
+        }
+    ],
+    "passanger_fees": [
+        {
+            "type": "Passenger fees at airport",
+            "amount": "string",
+            "info": "string"
+        }
+    ],
+    "other_information": "Other information, for example how to pay fees"
+}

@@ -1,0 +1,39 @@
+{
+    "operating_fees": [
+        {
+            "type": "Landing fees",
+            "amount": "$100",
+            "info": "Payment due upon landing"
+        },
+        {
+            "type": "Hangar fees",
+            "amount": "$200",
+            "info": "Monthly payment required"
+        }
+    ],
+    "parking_fees": [
+        {
+            "type": "Short-term parking",
+            "amount": "$10 per hour",
+            "info": "Pay at the parking kiosk"
+        },
+        {
+            "type": "Long-term parking",
+            "amount": "$50 per day",
+            "info": "Payment due at exit"
+        }
+    ],
+    "passanger_fees": [
+        {
+            "type": "Passenger facility charge",
+            "amount": "$20",
+            "info": "Included in ticket price"
+        },
+        {
+            "type": "Baggage fees",
+            "amount": "$25 per bag",
+            "info": "Pay at check-in counter"
+        }
+    ],
+    "other_information": "Please contact the airport operator for information on how to pay fees."
+}

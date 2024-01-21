@@ -1,0 +1,23 @@
+{
+    "operating_fees": [
+        {
+            "type": "Landing charges",
+            "amount": "100,00",
+            "info": "Aircraft (without MTOW limitation)"
+        },
+        {
+            "type": "Parking charges",
+            "amount": "50,00",
+            "info": "At apron (without MTOW limitation)"
+        }
+    ],
+    "parking_fees": [
+        {
+            "type": "Parking charges",
+            "amount": "50,00",
+            "info": "At apron (without MTOW limitation)"
+        }
+    ],
+    "passanger_fees": [],
+    "other_information": "The above mentioned price is for parking for a maximum of 1 day during the airport's operating hours. Long term parking on the aprons is not permitted."
+}

@@ -1,0 +1,41 @@
+{
+    "icao_code": "LKPN",
+    "name": "Podho\u0159any",
+    "full_address": "Nov\u00fd Dv\u016fr 137, 538 03 Podho\u0159any u Ronova",
+    "city": "Podho\u0159any",
+    "airport_type": "Public domestic aerodrome VFR day, parachute jumping operation",
+    "runways": [
+        {
+            "RWY": "7",
+            "magnetic_direction": "069\u00b0",
+            "rwy_dimensions": "730 x 75"
+        },
+        {
+            "RWY": "25",
+            "magnetic_direction": "249\u00b0",
+            "rwy_dimensions": "730 x 75"
+        },
+        {
+            "RWY": "13",
+            "magnetic_direction": "127\u00b0",
+            "rwy_dimensions": "640 x 92"
+        },
+        {
+            "RWY": "31",
+            "magnetic_direction": "307\u00b0",
+            "rwy_dimensions": "640 x 92"
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "49\u00b0 56' 21'' N",
+            "longitude": "15\u00b0 32' 59'' E"
+        }
+    ],
+    "elevation_ft": 1250,
+    "elevation_m": 381,
+    "frequency": "123.59",
+    "operating_hours": "SAT, SUN, HOL 0700 - 1400",
+    "fuel": "TOTAL AERO D 100"
+}

@@ -1,0 +1,28 @@
+{
+    "operating_fees": [
+        {
+            "type": "Landing charges",
+            "amount": "Per aircraft up to 2500 kg 100,00",
+            "info": null
+        },
+        {
+            "type": "Landing charges",
+            "amount": "Per aircraft above 2500 kg 250,00",
+            "info": null
+        }
+    ],
+    "parking_fees": [
+        {
+            "type": "Apron",
+            "amount": "Per hour and tonne of MTOW 5,00",
+            "info": null
+        },
+        {
+            "type": "In hangar",
+            "amount": "Per hour and tonne of MTOW 15,00",
+            "info": null
+        }
+    ],
+    "passanger_fees": [],
+    "other_information": "Value added tax is not included in the rates. 3.1 Landing charges Per aircraft up to 2500 kg 100,00 Per aircraft above 2500 kg 250,00 3.2 Parking charges Apron (per hour and tonne of MTOW) 5,00 In hangar (per hour and tonne of MTOW) 15,00 3.3 Charges for passenger service NIL Chapter end Intentionally left blank"
+}

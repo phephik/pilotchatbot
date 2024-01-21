@@ -1,0 +1,26 @@
+{
+    "icao_code": "LKSLUS",
+    "name": "Leti\u0161t\u011b Slu\u0161ovice",
+    "full_address": "Neubuz 138, 763 15 Slu\u0161ovice",
+    "city": "Slu\u0161ovice",
+    "airport_type": "Private",
+    "runways": [
+        {
+            "RWY": "VFR",
+            "magnetic_direction": "SLZ",
+            "rwy_dimensions": "ADC"
+        }
+    ],
+    "traffic": "Occasional parachute operation.",
+    "geocoordinates": [
+        {
+            "latitude": "49\u00b0 15  32  N",
+            "longitude": "17\u00b0 48  48  E"
+        }
+    ],
+    "elevation_ft": 1165,
+    "elevation_m": 355,
+    "frequency": "RADIO 120,005",
+    "operating_hours": "Year round",
+    "fuel": "NIL"
+}

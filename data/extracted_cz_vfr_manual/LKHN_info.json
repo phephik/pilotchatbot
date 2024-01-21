@@ -1,0 +1,35 @@
+{
+    "icao_code": "LKHN",
+    "name": "Hranice",
+    "full_address": "2,5 km W Hranice",
+    "city": "Hranice",
+    "airport_type": "Public domestic aerodrome VFR day, parachute jumping operation",
+    "runways": [
+        {
+            "RWY": "5",
+            "magnetic_direction": "054\u00b0",
+            "rwy_dimensions": "735 x 150"
+        },
+        {
+            "RWY": "23",
+            "magnetic_direction": "234\u00b0",
+            "rwy_dimensions": "735 x 150"
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "49\u00b0 32  46  N",
+            "longitude": "17\u00b0 42  16  E"
+        }
+    ],
+    "elevation_ft": 797,
+    "elevation_m": 243,
+    "frequency": "123,510",
+    "operating_hours": "SAT, SUN, HOL 0700   1400",
+    "fuel": [
+        "NATURAL 95",
+        "TOTAL AERO D100",
+        "TOTAL AERO DM 15W50"
+    ]
+}

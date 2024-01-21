@@ -1,0 +1,33 @@
+{
+    "operating_fees": [
+        {
+            "type": "Landing",
+            "amount": "34,00",
+            "info": "RWY is unserviceable after prolonged rains."
+        },
+        {
+            "type": "Parking",
+            "amount": "6,00",
+            "info": "Snow clearance of movement area is not provided."
+        },
+        {
+            "type": "Parking",
+            "amount": "100,00",
+            "info": "Outside operational hours arrivals are allowed only after previous agreement with the aerodrome operator (check of movement areas serviceability)."
+        }
+    ],
+    "parking_fees": [
+        {
+            "type": "Parking",
+            "amount": "6,00",
+            "info": "Snow clearance of movement area is not provided."
+        },
+        {
+            "type": "Parking",
+            "amount": "100,00",
+            "info": "Outside operational hours arrivals are allowed only after previous agreement with the aerodrome operator (check of movement areas serviceability)."
+        }
+    ],
+    "passanger_fees": [],
+    "other_information": "Providing information to known traffic in English language O/R in advance. Obstacle chimney 1,7 km GEO 088\u00b0 ELEV 418 m, superelevation 116 m. Outside operational hours arrivals are allowed only after previous agreement with the aerodrome operator (check of movement areas serviceability)."
+}

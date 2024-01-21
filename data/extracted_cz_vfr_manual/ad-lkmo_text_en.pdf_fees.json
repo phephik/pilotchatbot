@@ -1,0 +1,33 @@
+{
+    "operating_fees": [
+        {
+            "type": "Landing",
+            "amount": "100,00",
+            "info": "Snow clearance is not provided."
+        },
+        {
+            "type": "Parking",
+            "amount": "100,00",
+            "info": "The manoeuvring area could be unserviceable after prolonged rains and melting snow."
+        },
+        {
+            "type": "Passenger",
+            "amount": "NIL",
+            "info": "Arrival of aircraft without two way radio communication is possible with agreement of AD operator only."
+        }
+    ],
+    "parking_fees": [
+        {
+            "type": "Parking area (per day)",
+            "amount": "100,00",
+            "info": "Arrival/departure of an aircraft with total length greater than or equal to 9 m or with maximum fuselage width greater than 2 m is permitted only by prior agreement with the aerodrome operator (to arrange rescue and firefighting services)."
+        },
+        {
+            "type": "Hangar (per day)",
+            "amount": "200,00",
+            "info": "NIL"
+        }
+    ],
+    "passanger_fees": [],
+    "other_information": "Charges for aerodromes: Landing charges Per tonne of MTOW 100,00, Parking charges Parking area (per day) 100,00 Hangar (per day) 200,00, Charges for passenger service NIL"
+}

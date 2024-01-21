@@ -1,0 +1,47 @@
+{
+    "icao_code": "LKTA",
+    "name": "T\u00e1bor",
+    "full_address": "3 km SE T\u00e1bor",
+    "city": "T\u00e1bor",
+    "airport_type": "Public domestic aerodromeVFR day/night, parachute jumping operation",
+    "runways": [
+        {
+            "RWY": "11",
+            "magnetic_direction": "113\u00b0",
+            "rwy_dimensions": "1100 x 30"
+        },
+        {
+            "RWY": "29",
+            "magnetic_direction": "293\u00b0",
+            "rwy_dimensions": "1100 x 30"
+        },
+        {
+            "RWY": "16",
+            "magnetic_direction": "156\u00b0",
+            "rwy_dimensions": "850 x 100"
+        },
+        {
+            "RWY": "34",
+            "magnetic_direction": "336\u00b0",
+            "rwy_dimensions": "850 x 100"
+        }
+    ],
+    "traffic": "T\u00e1bor RADIO",
+    "geocoordinates": [
+        {
+            "latitude": "49\u00b0 23  28  N",
+            "longitude": "14\u00b0 42  30  E"
+        }
+    ],
+    "elevation_ft": 1440,
+    "elevation_m": 439,
+    "frequency": "122,610",
+    "operating_hours": "SAT, SUN, HOL 0700 1400, otherwise O/R",
+    "fuel": [
+        "AVGAS 100 LL",
+        "NATURAL BA 95",
+        "AEROSCHELL 100/100 W AD",
+        "TOTAL D 100",
+        "SAE 15W 40"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "icao_code": "LKCH",
+    "name": "Chomutov",
+    "full_address": "Aeroklub Chomutov, Otvice \u010d.p. 258, 431 11 Jirkov (P.O.Box 26, 430 01   n\u00e1hradn\u00ed adresa)",
+    "city": "Chomutov",
+    "airport_type": "Public domestic aerodrome / Private international aerodrome",
+    "runways": [
+        {
+            "RWY": "4",
+            "magnetic_direction": "038\u00b0",
+            "rwy_dimensions": "1200 x 40"
+        },
+        {
+            "RWY": "22",
+            "magnetic_direction": "218\u00b0",
+            "rwy_dimensions": "1200 x 40"
+        },
+        {
+            "RWY": "14",
+            "magnetic_direction": "139\u00b0",
+            "rwy_dimensions": "830 x 40"
+        },
+        {
+            "RWY": "32",
+            "magnetic_direction": "319\u00b0",
+            "rwy_dimensions": "830 x 40"
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "50\u00b0 28  08  N",
+            "longitude": "13\u00b0 28  05  E"
+        }
+    ],
+    "elevation_ft": 1132,
+    "elevation_m": 345,
+    "frequency": "123,605",
+    "operating_hours": "SAT, SUN, HOL 0700   1400",
+    "fuel": [
+        "aviation petrol AVGAS 100",
+        "ELF 100 AD"
+    ]
+}

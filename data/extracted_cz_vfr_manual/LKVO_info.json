@@ -1,0 +1,48 @@
+{
+    "icao_code": "LKVO",
+    "name": "PRAHA/Vodochody",
+    "full_address": "2 km SW from Odolena Voda",
+    "city": "PRAHA/Vodochody",
+    "airport_type": "Private international aerodrome IFR, VFRARP",
+    "runways": [
+        {
+            "RWY": "10",
+            "magnetic_direction": "100\u00b0",
+            "rwy_dimensions": "2500 x 45"
+        },
+        {
+            "RWY": "28",
+            "magnetic_direction": "280\u00b0",
+            "rwy_dimensions": "2500 x 45"
+        },
+        {
+            "RWY": "11",
+            "magnetic_direction": "100\u00b0",
+            "rwy_dimensions": "1800 x 50"
+        },
+        {
+            "RWY": "29",
+            "magnetic_direction": "280\u00b0",
+            "rwy_dimensions": "1800 x 50"
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "50\u00b0 13  00  N",
+            "longitude": "14\u00b0 23  44  E"
+        }
+    ],
+    "elevation_ft": 919,
+    "elevation_m": 280,
+    "frequency": {
+        "Vodochody RADIM": "123,030",
+        "Vodochody V\u011a\u017d/TOWER": "133,080",
+        "Vodochody RADAR": "127,480"
+    },
+    "operating_hours": "MON   FRI 0630   1400 (0530   1300)",
+    "fuel": [
+        "Jet A 1",
+        "AVGAS 100 LL"
+    ]
+}

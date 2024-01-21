@@ -1,0 +1,26 @@
+{
+    "icao_code": "LKKOTV",
+    "name": "Kotvrdovice",
+    "full_address": "Lesn\u00ed 8, 67801 Blansko",
+    "city": "Czech Republic",
+    "airport_type": "VFR",
+    "runways": [
+        {
+            "RWY": "28",
+            "magnetic_direction": "186",
+            "rwy_dimensions": "2500m x 45m"
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "49\u00b0 21  51  N",
+            "longitude": "16\u00b0 47  03  E"
+        }
+    ],
+    "elevation_ft": 1860,
+    "elevation_m": 567,
+    "frequency": "RADIO123,480",
+    "operating_hours": "Year round",
+    "fuel": "NIL"
+}

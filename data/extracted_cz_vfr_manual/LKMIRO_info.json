@@ -1,0 +1,29 @@
+{
+    "icao_code": "LKMIRO",
+    "name": "Miroslav",
+    "full_address": "Tyr\u0161ova 31, 671 72 Miroslav",
+    "city": "Miroslav",
+    "airport_type": "Public",
+    "runways": [
+        {
+            "RWY": "N/A",
+            "magnetic_direction": "N/A",
+            "rwy_dimensions": "N/A"
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "48\u00b0 55 53 N",
+            "longitude": "16\u00b0 17 55 E"
+        }
+    ],
+    "elevation_ft": 780,
+    "elevation_m": 238,
+    "frequency": {
+        "ARP": "125,830",
+        "Group": "125,830"
+    },
+    "operating_hours": "Year round",
+    "fuel": "NIL"
+}

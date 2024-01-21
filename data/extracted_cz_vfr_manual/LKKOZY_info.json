@@ -1,0 +1,28 @@
+{
+    "icao_code": "LKKOZY",
+    "name": "Kozmice",
+    "full_address": "K v\u00e1penici 543/26, 747 11 Kozmice",
+    "city": "Kozmice",
+    "airport_type": "Private",
+    "runways": [
+        {
+            "RWY": "29",
+            "magnetic_direction": "49\u00b0 54  48  N",
+            "rwy_dimensions": "18\u00b0 09  51  E"
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "49\u00b0 54  48  N",
+            "longitude": "18\u00b0 09  51  E"
+        }
+    ],
+    "elevation_ft": 885,
+    "elevation_m": 270,
+    "frequency": {
+        "ARP": "125,830"
+    },
+    "operating_hours": "Year round",
+    "fuel": "NIL"
+}

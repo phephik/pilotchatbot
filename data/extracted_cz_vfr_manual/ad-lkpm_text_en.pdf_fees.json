@@ -1,0 +1,22 @@
+{
+    "operating_fees": [
+        {
+            "type": "Landing fees at airport",
+            "amount": "200,00",
+            "info": null
+        },
+        {
+            "type": "Parking fees at airport",
+            "amount": "20,00",
+            "info": null
+        },
+        {
+            "type": "Passenger fees at airport",
+            "amount": null,
+            "info": "NIL"
+        }
+    ],
+    "parking_fees": null,
+    "passanger_fees": null,
+    "other_information": "Providing information to known traffic in Czech language only."
+}

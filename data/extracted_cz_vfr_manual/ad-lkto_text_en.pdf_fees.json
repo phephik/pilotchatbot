@@ -1,0 +1,17 @@
+{
+    "operating_fees": [
+        {
+            "type": "Business flights",
+            "amount": "100,00",
+            "info": null
+        },
+        {
+            "type": "Ultralight aircraft",
+            "amount": "50,00",
+            "info": null
+        }
+    ],
+    "parking_fees": [],
+    "passanger_fees": [],
+    "other_information": "Providing information to known traffic in English language on request in advance. Arrivals to AD LKTO outside operational hours are permitted only after prior agreement of AD operator (check of serviceability of movement areas)."
+}

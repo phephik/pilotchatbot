@@ -1,0 +1,31 @@
+{
+    "icao_code": "LKNACH",
+    "name": "N\u00c1CHOD",
+    "full_address": "Vysokov 165, 547 01 N\u00e1chod",
+    "city": "N\u00e1chod",
+    "airport_type": "Private",
+    "runways": [
+        {
+            "RWY": "13",
+            "magnetic_direction": "NIL",
+            "rwy_dimensions": "NIL"
+        },
+        {
+            "RWY": "31",
+            "magnetic_direction": "NIL",
+            "rwy_dimensions": "NIL"
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "50\u00b0 24  47  N",
+            "longitude": "16\u00b0 07  18  E"
+        }
+    ],
+    "elevation_ft": 1443,
+    "elevation_m": 440,
+    "frequency": "130,560",
+    "operating_hours": "Year round",
+    "fuel": "NIL"
+}

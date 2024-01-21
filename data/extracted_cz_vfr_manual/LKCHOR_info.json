@@ -1,0 +1,34 @@
+{
+    "icao_code": "LKCHOR",
+    "name": "Chornice VFR SLZ",
+    "full_address": "Jev\u00ed\u010dsk\u00e1 41, 569 42 Chornice",
+    "city": "Chornice",
+    "airport_type": "Unidirectional SLZ field",
+    "runways": [
+        {
+            "RWY": "10",
+            "magnetic_direction": "NIL",
+            "rwy_dimensions": "NIL"
+        },
+        {
+            "RWY": "28",
+            "magnetic_direction": "NIL",
+            "rwy_dimensions": "NIL"
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "49\u00b0 41  08  N",
+            "longitude": "16\u00b0 43  53  E"
+        }
+    ],
+    "elevation_ft": 1129,
+    "elevation_m": 344,
+    "frequency": {
+        "ARP": "125,830",
+        "Group frequency": "NIL"
+    },
+    "operating_hours": "Year round",
+    "fuel": "NIL"
+}

@@ -1,0 +1,26 @@
+{
+    "icao_code": "LKSTET",
+    "name": "\u0160t\u011bt\u00ed VFR SLZ",
+    "full_address": "Private SLZ field",
+    "city": "\u0160t\u011bt\u00ed",
+    "airport_type": "VFR",
+    "runways": [
+        {
+            "RWY": null,
+            "magnetic_direction": null,
+            "rwy_dimensions": null
+        }
+    ],
+    "traffic": "\u0160T\u011aT\u00cd RADIO 125,830",
+    "geocoordinates": [
+        {
+            "latitude": "50\u00b0 27  54  N",
+            "longitude": "14\u00b0 24  22  E"
+        }
+    ],
+    "elevation_ft": 787,
+    "elevation_m": 240,
+    "frequency": "\u0160T\u011aT\u00cd RADIO 125,830",
+    "operating_hours": "Year round",
+    "fuel": "NIL"
+}

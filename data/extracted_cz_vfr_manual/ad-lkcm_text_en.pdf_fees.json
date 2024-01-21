@@ -1,0 +1,48 @@
+{
+    "operating_fees": [
+        {
+            "type": "Single engine aircraft",
+            "amount": "150,00",
+            "info": null
+        },
+        {
+            "type": "Multi engine aircraft",
+            "amount": "250,00",
+            "info": null
+        },
+        {
+            "type": "Ultralight aircraft",
+            "amount": "100,00",
+            "info": null
+        },
+        {
+            "type": "Helicopters",
+            "amount": "250,00",
+            "info": null
+        }
+    ],
+    "parking_fees": [
+        {
+            "type": "Per each hour open area",
+            "amount": "10,00",
+            "info": null
+        },
+        {
+            "type": "Per each hour hangar",
+            "amount": "20,00",
+            "info": null
+        },
+        {
+            "type": "Per 24 hours open area",
+            "amount": "150,00",
+            "info": null
+        },
+        {
+            "type": "Per 24 hours hangar",
+            "amount": "200,00",
+            "info": null
+        }
+    ],
+    "passanger_fees": [],
+    "other_information": "Arrival/departure of an aircraft with total length greater than or equal to 9 m or with maximum fuselage width greater than 2 m is permitted only by prior agreement with the aerodrome operator (to arrange rescue and firefighting services). Providing information to known traffic in English is on request in advance."
+}

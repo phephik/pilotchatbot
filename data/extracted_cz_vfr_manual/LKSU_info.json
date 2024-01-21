@@ -1,0 +1,45 @@
+{
+    "icao_code": "LKSU",
+    "name": "\u0160umperk",
+    "full_address": "Nov\u00fd Mal\u00edn 524, 788 03 Nov\u00fd Mal\u00edn",
+    "city": "\u0160umperk",
+    "airport_type": "Public domestic aerodrome VFR day, parachute jumping operation",
+    "runways": [
+        {
+            "RWY": "24",
+            "magnetic_direction": "235\u00b0",
+            "rwy_dimensions": "700 x 90"
+        },
+        {
+            "RWY": "6",
+            "magnetic_direction": "055\u00b0",
+            "rwy_dimensions": "700 x 90"
+        },
+        {
+            "RWY": "18",
+            "magnetic_direction": "180\u00b0",
+            "rwy_dimensions": "680 x 18"
+        },
+        {
+            "RWY": "36",
+            "magnetic_direction": "000\u00b0",
+            "rwy_dimensions": "680 x 18"
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "49\u00b0 57  38  N",
+            "longitude": "17\u00b0 01  04  E"
+        }
+    ],
+    "elevation_ft": 1099,
+    "elevation_m": 335,
+    "frequency": "122.605",
+    "operating_hours": "SAT, SUN, HOL 0700   1400",
+    "fuel": [
+        "NATURAL 95",
+        "AVGAS 100",
+        "SHELL W 100"
+    ]
+}

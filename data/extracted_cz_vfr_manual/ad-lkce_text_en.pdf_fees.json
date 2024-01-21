@@ -1,0 +1,28 @@
+{
+    "operating_fees": [
+        {
+            "type": "Per aeroplane non commercial flight",
+            "amount": "50,00",
+            "info": ""
+        },
+        {
+            "type": "Per aeroplane commercial flight",
+            "amount": "200,00",
+            "info": ""
+        }
+    ],
+    "parking_fees": [
+        {
+            "type": "Per day when parking longer than 6 hours parking stand",
+            "amount": "100,00",
+            "info": ""
+        },
+        {
+            "type": "Per day when parking longer than 6 hours hangar",
+            "amount": "200,00",
+            "info": ""
+        }
+    ],
+    "passanger_fees": [],
+    "other_information": "Outside the operational hours arrivals and departures from/to LKCE are permitted only by prior consultation with the aerodrome operator. Arrival/departure of an aircraft with length greater or equal than 9 m or with maximum fuselage width greater than 2 m is permitted only by prior agreement with the aerodrome operator (to arrange rescue and firefighting services)."
+}

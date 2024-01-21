@@ -1,0 +1,29 @@
+{
+    "operating_fees": [
+        {
+            "type": "Landing charges",
+            "amount": "50,00",
+            "info": "Domestic flights (per tonne of MTOW)"
+        },
+        {
+            "type": "Domestic flights night operation",
+            "amount": "500,00",
+            "info": "for each hour including hour initiated"
+        }
+    ],
+    "parking_fees": [
+        {
+            "type": "Parking charges",
+            "amount": "5,00",
+            "info": "Per hour and tonne of MTOW"
+        }
+    ],
+    "passanger_fees": [
+        {
+            "type": "Charges for passenger service",
+            "amount": "40,00",
+            "info": "Domestic flights (per passenger)"
+        }
+    ],
+    "other_information": "The charge for dispatch of international flight is 300,00 CZK."
+}

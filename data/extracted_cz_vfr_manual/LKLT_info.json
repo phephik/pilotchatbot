@@ -1,0 +1,52 @@
+{
+    "icao_code": "LKLT",
+    "name": "Let\u0148any",
+    "full_address": "H\u016flkova 1075/35, 197 00 Praha 9",
+    "city": "Praha",
+    "airport_type": "Public domestic aerodrome / Private international aerodrome VFR day",
+    "runways": [
+        {
+            "RWY": "05L",
+            "magnetic_direction": "046\u00b0",
+            "rwy_dimensions": "860 x 23"
+        },
+        {
+            "RWY": "23R",
+            "magnetic_direction": "226\u00b0",
+            "rwy_dimensions": "860 x 23"
+        },
+        {
+            "RWY": "05R",
+            "magnetic_direction": "051\u00b0",
+            "rwy_dimensions": "800 x 25"
+        },
+        {
+            "RWY": "23L",
+            "magnetic_direction": "231\u00b0",
+            "rwy_dimensions": "800 x 25"
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "50\u00b0 07  53  N",
+            "longitude": "14\u00b0 31  32  E"
+        }
+    ],
+    "elevation_ft": 912,
+    "elevation_m": 278,
+    "frequency": {
+        "Kbely TWR": "120,880",
+        "Let\u0148any RADIO": "120,335"
+    },
+    "operating_hours": "MON-SUN 0700-1700 UTC (01 MAY-01 OCT), MON-SUN 0800-1600 UTC (02 OCT-30 APR)",
+    "fuel": [
+        "AVGAS 100 LL",
+        "Natural BA 95 MOGAS",
+        "JET A1",
+        "AVGAS 91UL",
+        "TOTAL 100 D",
+        "Aeroshell 15W50",
+        "Aeroshell Sportplus 4"
+    ]
+}

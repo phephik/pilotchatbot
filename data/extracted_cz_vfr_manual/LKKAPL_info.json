@@ -1,0 +1,28 @@
+{
+    "icao_code": "LKKAPL",
+    "name": "Kaplice",
+    "full_address": "Lineck\u00e1 829, 382 41 Kaplice",
+    "city": "Kaplice",
+    "airport_type": "Private",
+    "runways": [
+        {
+            "RWY": "26",
+            "magnetic_direction": "",
+            "rwy_dimensions": ""
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "48\u00b0 43  08  N",
+            "longitude": "14\u00b0 27  01  E"
+        }
+    ],
+    "elevation_ft": 2100,
+    "elevation_m": 640,
+    "frequency": {
+        "ARP": "125,830"
+    },
+    "operating_hours": "Year round",
+    "fuel": "NIL"
+}

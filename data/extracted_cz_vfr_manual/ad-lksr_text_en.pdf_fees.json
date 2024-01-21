@@ -1,0 +1,29 @@
+{
+    "operating_fees": [
+        {
+            "type": "Landing fees at airport",
+            "amount": "200,00",
+            "info": "Arrivals outside operational hours shall be arranged with AD operator in advance."
+        },
+        {
+            "type": "Snow clearance",
+            "amount": "Not provided",
+            "info": "Snow clearance is not provided in winter."
+        }
+    ],
+    "parking_fees": [
+        {
+            "type": "Parking fees at airport",
+            "amount": "2,00",
+            "info": "First hour free of charge"
+        }
+    ],
+    "passanger_fees": [
+        {
+            "type": "Charges for passenger service",
+            "amount": "40,00",
+            "info": "Parachutist per jump"
+        }
+    ],
+    "other_information": "Providing information to known traffic in Czech language only. Providing information to known traffic in English language O/R."
+}

@@ -1,0 +1,31 @@
+{
+    "icao_code": "LKZN",
+    "name": "Znojmo",
+    "full_address": "Leti\u0161t\u011b Znojmo, spol. s r.o. U \u010cerven\u00e9ho Dvora 86, Suchohrdly",
+    "city": "Znojmo",
+    "airport_type": "Private domestic aerodrome VFR day",
+    "runways": [
+        {
+            "RWY": "08",
+            "magnetic_direction": "080\u00b0",
+            "rwy_dimensions": "860 x 18"
+        },
+        {
+            "RWY": "26",
+            "magnetic_direction": "260\u00b0",
+            "rwy_dimensions": "860 x 18"
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "48\u00b0 49  04  N",
+            "longitude": "16\u00b0 03  57  E"
+        }
+    ],
+    "elevation_ft": 827,
+    "elevation_m": 252,
+    "frequency": "130,590",
+    "operating_hours": "Znojmo RADIO",
+    "fuel": "NIL"
+}

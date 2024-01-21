@@ -1,0 +1,36 @@
+{
+    "icao_code": "LKKY",
+    "name": "Kyjov",
+    "full_address": "Aeroklub Kyjov z.s. Leti\u0161t\u011b Kyjov 696 04 Svatobo\u0159ice Mist\u0159\u00edn \u010d.p. 1181",
+    "city": "Kyjov",
+    "airport_type": "Public domestic aerodrome VFR day, parachute jumping operation",
+    "runways": [
+        {
+            "RWY": "15",
+            "magnetic_direction": "146\u00b0",
+            "rwy_dimensions": "1000 x 125"
+        },
+        {
+            "RWY": "33",
+            "magnetic_direction": "326\u00b0",
+            "rwy_dimensions": "1000 x 125"
+        }
+    ],
+    "traffic": "Kyjov RADIO",
+    "geocoordinates": [
+        {
+            "latitude": "48\u00b0 58  48  N",
+            "longitude": "17\u00b0 07  29  E"
+        }
+    ],
+    "elevation_ft": 686,
+    "elevation_m": 209,
+    "frequency": "130,610",
+    "operating_hours": "SAT, SUN, HOL 0700 1500 otherwise O/R",
+    "fuel": [
+        "Natural 95",
+        "AEROSHELL 100",
+        "ELF 100 AD",
+        "M7 ADX"
+    ]
+}

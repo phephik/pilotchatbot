@@ -1,0 +1,37 @@
+{
+    "icao_code": "LKKA",
+    "name": "K\u0159i\u017eanov",
+    "full_address": "leti\u0161t\u011b, 594 51 K\u0159i\u017eanov",
+    "city": "K\u0159i\u017eanov",
+    "airport_type": "Public domestic aerodrome VFR day",
+    "runways": [
+        {
+            "RWY": "13",
+            "magnetic_direction": "129\u00b0",
+            "rwy_dimensions": "702 x 100"
+        },
+        {
+            "RWY": "31",
+            "magnetic_direction": "309\u00b0",
+            "rwy_dimensions": "702 x 100"
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "49\u00b0 22  06  N",
+            "longitude": "16\u00b0 06  58  E"
+        }
+    ],
+    "elevation_ft": 1834,
+    "elevation_m": 559,
+    "frequency": "133,155",
+    "operating_hours": "SAT, SUN, HOL 0700 1400, and at time of aeroclub operation",
+    "fuel": [
+        "AVGAS 100",
+        "Natural 95",
+        "TOTAL AERO D 100",
+        "SHELL AERO 15W30",
+        "W15W 50"
+    ]
+}

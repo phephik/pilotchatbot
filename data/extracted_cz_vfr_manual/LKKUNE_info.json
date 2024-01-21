@@ -1,0 +1,31 @@
+{
+    "icao_code": "LKKUNE",
+    "name": "Kun\u011btice",
+    "full_address": "Leti\u0161t\u011b Kun\u011btice, s.r.o., Pardubick\u00e1 326, 537 01, Chrudim",
+    "city": "Chrudim",
+    "airport_type": "Private",
+    "runways": [
+        {
+            "RWY": "05",
+            "magnetic_direction": "50\u00b0 04  06  N, 15\u00b0 48  44  E",
+            "rwy_dimensions": "ELEV   718 ft / 219 m"
+        },
+        {
+            "RWY": "23",
+            "magnetic_direction": "50\u00b0 04  06  N, 15\u00b0 48  44  E",
+            "rwy_dimensions": "ELEV   718 ft / 219 m"
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "50\u00b0 04  06  N",
+            "longitude": "15\u00b0 48  44  E"
+        }
+    ],
+    "elevation_ft": 718,
+    "elevation_m": 219,
+    "frequency": "124,980",
+    "operating_hours": "Year round",
+    "fuel": "NIL"
+}

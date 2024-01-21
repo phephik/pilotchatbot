@@ -1,0 +1,22 @@
+{
+    "operating_fees": [
+        {
+            "type": "Landing fees",
+            "amount": "50.0",
+            "info": null
+        },
+        {
+            "type": "Parking fees",
+            "amount": "10.0",
+            "info": "Per hour and tonne of MTOW"
+        },
+        {
+            "type": "Passenger fees",
+            "amount": null,
+            "info": "NIL"
+        }
+    ],
+    "parking_fees": null,
+    "passanger_fees": null,
+    "other_information": "Providing information to know traffic only in Czech language."
+}

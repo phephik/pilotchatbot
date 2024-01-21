@@ -1,0 +1,29 @@
+{
+    "operating_fees": [
+        {
+            "type": "Ultralight aircraft",
+            "amount": "50,00",
+            "info": null
+        },
+        {
+            "type": "Aeroplanes per each initiated tonne",
+            "amount": "300,00",
+            "info": null
+        }
+    ],
+    "parking_fees": [
+        {
+            "type": "In and out of hangar per 24 hours",
+            "amount": "100,00",
+            "info": null
+        }
+    ],
+    "passanger_fees": [
+        {
+            "type": "Passenger",
+            "amount": "50,00",
+            "info": null
+        }
+    ],
+    "other_information": "Arrival/departure of an aircraft with total length greater than or equal to 9 m or with maximum fuselage width greater than 2 m is permitted only by prior agreement with the aerodrome operator (to arrange rescue and firefighting services)."
+}

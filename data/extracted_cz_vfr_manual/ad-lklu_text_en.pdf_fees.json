@@ -1,0 +1,24 @@
+{
+    "operating_fees": [
+        {
+            "type": "Landing charges",
+            "amount": "50,00",
+            "info": "Per aircraft"
+        }
+    ],
+    "parking_fees": [
+        {
+            "type": "Parking charges",
+            "amount": "For every additional hour 5,00",
+            "info": "The first 2 hours free of charge."
+        }
+    ],
+    "passanger_fees": [
+        {
+            "type": "Charges for passenger service",
+            "amount": "50,00",
+            "info": "Passenger"
+        }
+    ],
+    "other_information": "Outside the operating hours, arrivals and departures are permitted only after prior consultation with the AD operator."
+}

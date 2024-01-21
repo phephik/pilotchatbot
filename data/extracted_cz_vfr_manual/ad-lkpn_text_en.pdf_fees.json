@@ -1,0 +1,12 @@
+{
+    "operating_fees": [
+        {
+            "type": "Landing fees at airport",
+            "amount": "50,00",
+            "info": "Per aircraft"
+        }
+    ],
+    "parking_fees": [],
+    "passanger_fees": [],
+    "other_information": "Charges for passenger service NIL"
+}

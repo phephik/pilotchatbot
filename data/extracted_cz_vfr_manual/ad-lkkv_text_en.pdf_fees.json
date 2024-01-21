@@ -1,0 +1,37 @@
+{
+    "operating_fees": [
+        {
+            "type": "Landing",
+            "amount": "600,00",
+            "info": "Aircraft up to 2t MTOW including (flat rate)"
+        },
+        {
+            "type": "Landing",
+            "amount": "26,6",
+            "info": "Aircraft over 2t MTOW according to formula. Price in CZK = Training flights from applicable landing charge."
+        },
+        {
+            "type": "Parking",
+            "amount": "14,00",
+            "info": "Apron per hour and tonne of MTOW in time 0400 1800 (0300 1700)"
+        },
+        {
+            "type": "Parking",
+            "amount": "7,00",
+            "info": "Apron per hour and tonne of MTOW in time 1800 0400 (1700 0300)"
+        },
+        {
+            "type": "Passenger",
+            "amount": "350,00",
+            "info": "Domestic flights per passenger"
+        },
+        {
+            "type": "Passenger",
+            "amount": "350,00",
+            "info": "International flights per passenger"
+        }
+    ],
+    "parking_fees": [],
+    "passanger_fees": [],
+    "other_information": "The aerodrome operator provides other conditions and possibility of application of discounted landing charges rates for training flights. Besides of published charges an extra charge is accounted for covering of extra operational costs for each initiated hour of operation of the aerodrome outside published operational hours. The charge is accounted from time stated in order. a) for flights of aircraft requiring fire fighting category 4 5 000,00 b) for flights of aircraft requiring fire fighting category 5 7 7 500,00 It is not applied to scheduled flights after agreement with the aerodrome operator."
+}

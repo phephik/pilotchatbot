@@ -1,0 +1,29 @@
+{
+    "icao_code": "LKNAPA",
+    "name": "Napajedla VFR",
+    "full_address": "Private SLZ fieldNAPAJEDLA",
+    "city": "Napajedla",
+    "airport_type": "VFR",
+    "runways": [
+        {
+            "RWY": "Taxi only on RWY.",
+            "magnetic_direction": null,
+            "rwy_dimensions": null
+        }
+    ],
+    "traffic": "VOC",
+    "geocoordinates": [
+        {
+            "latitude": "49\u00b0 11  56  N",
+            "longitude": "13\u00b0 36  00  E"
+        }
+    ],
+    "elevation_ft": 1761,
+    "elevation_m": 537,
+    "frequency": {
+        "ARP": "125,830",
+        "group_frequency": "125,830"
+    },
+    "operating_hours": "Year round",
+    "fuel": "NIL"
+}

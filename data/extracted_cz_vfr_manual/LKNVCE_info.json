@@ -1,0 +1,28 @@
+{
+    "icao_code": "LKNVCE",
+    "name": "Nov\u00e1 V\u010delnice",
+    "full_address": "Private SLZ fieldV\u010cELNICE",
+    "city": "Nov\u00e1 V\u010delnice",
+    "airport_type": "VFR",
+    "runways": [
+        {
+            "RWY": "36",
+            "magnetic_direction": "N",
+            "rwy_dimensions": "1771 ft / 540 m"
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "49\u00b0 16  02  N",
+            "longitude": "15\u00b0 04  40  E"
+        }
+    ],
+    "elevation_ft": 1771,
+    "elevation_m": 540,
+    "frequency": {
+        "ARP": "125,830"
+    },
+    "operating_hours": "Year round",
+    "fuel": "NIL"
+}

@@ -1,0 +1,37 @@
+{
+    "icao_code": "LKLU",
+    "name": "Luha\u010dovice",
+    "full_address": "Luha\u010dovice 1114, P.O.Box 51, 763 26 Luha\u010dovice",
+    "city": "Luha\u010dovice",
+    "airport_type": "Public domestic aerodrome VFR day",
+    "runways": [
+        {
+            "RWY": "2",
+            "magnetic_direction": "018\u00b0",
+            "rwy_dimensions": "570 x 23"
+        },
+        {
+            "RWY": "20",
+            "magnetic_direction": "198\u00b0",
+            "rwy_dimensions": "570 x 23"
+        }
+    ],
+    "traffic": "Luha\u010dovice RADIO",
+    "geocoordinates": [
+        {
+            "latitude": "49\u00b0 05  32  N",
+            "longitude": "17\u00b0 43  29  E"
+        }
+    ],
+    "elevation_ft": 1127,
+    "elevation_m": 344,
+    "frequency": "125,285",
+    "operating_hours": "15 APR   15 OCT  SAT, SUN, HOL",
+    "fuel": [
+        "AVGAS 100LL",
+        "BA95",
+        "TOTAL DM15W 50",
+        "TOTAL D100",
+        "TOTAL Aero100"
+    ]
+}

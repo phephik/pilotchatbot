@@ -1,0 +1,28 @@
+{
+    "icao_code": "LKDOUD",
+    "name": "Doudleby",
+    "full_address": "Doudleby 22, 370 07 \u010cesk\u00e9 Bud\u011bjovice",
+    "city": "\u010cesk\u00e9 Bud\u011bjovice",
+    "airport_type": "Private",
+    "runways": [
+        {
+            "RWY": "13",
+            "magnetic_direction": "48\u00b0",
+            "rwy_dimensions": "1541 ft / 470 m"
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "48\u00b0 53  06  N",
+            "longitude": "14\u00b0 29  11  E"
+        }
+    ],
+    "elevation_ft": 1541,
+    "elevation_m": 470,
+    "frequency": {
+        "ARP": "125,830"
+    },
+    "operating_hours": "Year round",
+    "fuel": "NIL"
+}

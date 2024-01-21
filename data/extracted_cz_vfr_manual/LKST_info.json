@@ -1,0 +1,44 @@
+{
+    "icao_code": "LKST",
+    "name": "Strakonice",
+    "full_address": "Aeroklub Strakonice, z.s. V Lipk\u00e1ch 96, 386 01 Strakonice",
+    "city": "Strakonice",
+    "airport_type": "Public domestic aerodrome VFR day, parachute jumping operation",
+    "runways": [
+        {
+            "RWY": "13",
+            "magnetic_direction": "129\u00b0",
+            "rwy_dimensions": "780 x 25"
+        },
+        {
+            "RWY": "31",
+            "magnetic_direction": "309\u00b0",
+            "rwy_dimensions": "780 x 25"
+        },
+        {
+            "RWY": "3",
+            "magnetic_direction": "030\u00b0",
+            "rwy_dimensions": "900 x 100"
+        },
+        {
+            "RWY": "21",
+            "magnetic_direction": "210\u00b0",
+            "rwy_dimensions": "900 x 100"
+        }
+    ],
+    "traffic": "Strakonice RADIO",
+    "geocoordinates": [
+        {
+            "latitude": "49\u00b0 15  06  N",
+            "longitude": "13\u00b0 53  34  E"
+        }
+    ],
+    "elevation_ft": 1378,
+    "elevation_m": 420,
+    "frequency": "118,760",
+    "operating_hours": "SAT, SUN,HOL 0700   1400 otherwise O/R",
+    "fuel": [
+        "aviation petrol AVGAS 100",
+        "Natural 95"
+    ]
+}

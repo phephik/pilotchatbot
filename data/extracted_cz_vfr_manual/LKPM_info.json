@@ -1,0 +1,41 @@
+{
+    "icao_code": "LKPM",
+    "name": "P\u0159\u00edbram",
+    "full_address": "Skalka 39, 261 01 Dr\u00e1sov",
+    "city": "P\u0159\u00edbram",
+    "airport_type": "Public domestic aerodrome VFR day, parachute jumping operation",
+    "runways": [
+        {
+            "RWY": "06R",
+            "magnetic_direction": "055\u00b0",
+            "rwy_dimensions": "1380 x 30"
+        },
+        {
+            "RWY": "24L",
+            "magnetic_direction": "235\u00b0",
+            "rwy_dimensions": "1380 x 30"
+        },
+        {
+            "RWY": "06L",
+            "magnetic_direction": "055\u00b0",
+            "rwy_dimensions": "1000 x 18"
+        },
+        {
+            "RWY": "24R",
+            "magnetic_direction": "235\u00b0",
+            "rwy_dimensions": "1000 x 18"
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "49\u00b0 43  12  N",
+            "longitude": "14\u00b0 06  01  E"
+        }
+    ],
+    "elevation_ft": 1529,
+    "elevation_m": 466,
+    "frequency": "118,755",
+    "operating_hours": "MON-FRI 0600-1600, SAT-SUN-HOL 0800-1600, otherwise O/R",
+    "fuel": "AVGAS 100 LL, JET A1, BA 95 Natural, TOTAL AERO D100, AERO SHELL W 100"
+}

@@ -1,0 +1,28 @@
+{
+    "operating_fees": [
+        {
+            "type": "Landing fees at airport",
+            "amount": "25,00",
+            "info": "Single engine aircraft up to 2500 kg and ultralight aircraft"
+        },
+        {
+            "type": "Landing fees at airport",
+            "amount": "100,00",
+            "info": "Single engine aircraft over MTOW 2500 kg and multi engine aircraft"
+        }
+    ],
+    "parking_fees": [
+        {
+            "type": "First day when parking longer than 4 HR",
+            "amount": "25,00",
+            "info": null
+        },
+        {
+            "type": "Every next initiated day",
+            "amount": "50,00",
+            "info": null
+        }
+    ],
+    "passanger_fees": [],
+    "other_information": "Outside operational hours arrivals are permitted only after previous agreement with the aerodrome operator (checking of RWY and movement area serviceability). Providing information to known traffic in English or German language on request in advance. Radio navigation aids VOR/DME OKG 115,700 MHz 520 m GEO 260\u00b0 from ARP. Arrival/departure of an aircraft with total length greater than or equal to 9 m or with maximum fuselage width greater than 2 m is permitted only by prior agreement with the aerodrome operator (to arrange rescue and firefighting services)."
+}

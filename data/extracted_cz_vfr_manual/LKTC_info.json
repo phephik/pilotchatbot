@@ -1,0 +1,31 @@
+{
+    "icao_code": "LKTC",
+    "name": "To\u010dn\u00e1",
+    "full_address": "Radlick\u00e1 2, 150 00 Praha 5",
+    "city": "Praha",
+    "airport_type": "Private domestic aerodrome VFR day",
+    "runways": [
+        {
+            "RWY": "09",
+            "magnetic_direction": "087\u00b0",
+            "rwy_dimensions": "870 x 30"
+        },
+        {
+            "RWY": "27",
+            "magnetic_direction": "267\u00b0",
+            "rwy_dimensions": "870 x 30"
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "49\u00b0 59  07  N",
+            "longitude": "14\u00b0 25  32  E"
+        }
+    ],
+    "elevation_ft": 1027,
+    "elevation_m": 313,
+    "frequency": "123,410",
+    "operating_hours": "O/R",
+    "fuel": "Mobile JET II"
+}

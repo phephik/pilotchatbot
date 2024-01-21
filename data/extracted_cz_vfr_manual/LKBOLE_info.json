@@ -1,0 +1,33 @@
+{
+    "icao_code": "LKBOLE",
+    "name": "Boleradice",
+    "full_address": "Boleradice 107, 691 12 Boleradice",
+    "city": "Boleradice",
+    "airport_type": "Private",
+    "runways": [
+        {
+            "RWY": "27",
+            "magnetic_direction": "NIL",
+            "rwy_dimensions": "NIL"
+        },
+        {
+            "RWY": "09",
+            "magnetic_direction": "NIL",
+            "rwy_dimensions": "NIL"
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "48\u00b0 57 43 N",
+            "longitude": "16\u00b0 49 54 E"
+        }
+    ],
+    "elevation_ft": 650,
+    "elevation_m": 198,
+    "frequency": {
+        "ARP": "125.83"
+    },
+    "operating_hours": "Year round",
+    "fuel": "NIL"
+}

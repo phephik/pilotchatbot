@@ -1,0 +1,24 @@
+{
+    "operating_fees": [
+        {
+            "type": "Landing fees at airport",
+            "amount": "150,00",
+            "info": "Per each initiated tonne of MTOW"
+        }
+    ],
+    "parking_fees": [
+        {
+            "type": "Parking fees at airport",
+            "amount": "No charge up to three hours, than per aircraft per day",
+            "info": "200,00"
+        }
+    ],
+    "passanger_fees": [
+        {
+            "type": "Passenger fees at airport",
+            "amount": "NIL",
+            "info": null
+        }
+    ],
+    "other_information": "Chapter end"
+}

@@ -1,0 +1,65 @@
+{
+    "icao_code": "LKMB",
+    "name": "Mlad\u00e1 Boleslav",
+    "full_address": "Regnerova 1306, 293 01 Mlad\u00e1 Boleslav",
+    "city": "Mlad\u00e1 Boleslav",
+    "airport_type": "Public domestic aerodrome VFR day, parachute jumping operation",
+    "runways": [
+        {
+            "RWY": "04L",
+            "magnetic_direction": "039\u00b0",
+            "rwy_dimensions": "775 x 20"
+        },
+        {
+            "RWY": "22R",
+            "magnetic_direction": "219\u00b0",
+            "rwy_dimensions": "775 x 20"
+        },
+        {
+            "RWY": "04R",
+            "magnetic_direction": "039\u00b0",
+            "rwy_dimensions": "775 x 20"
+        },
+        {
+            "RWY": "22L",
+            "magnetic_direction": "219\u00b0",
+            "rwy_dimensions": "775 x 20"
+        },
+        {
+            "RWY": "16L",
+            "magnetic_direction": "158\u00b0",
+            "rwy_dimensions": "900 x 20"
+        },
+        {
+            "RWY": "34R",
+            "magnetic_direction": "338\u00b0",
+            "rwy_dimensions": "900 x 20"
+        },
+        {
+            "RWY": "16R",
+            "magnetic_direction": "158\u00b0",
+            "rwy_dimensions": "900 x 20"
+        },
+        {
+            "RWY": "34L",
+            "magnetic_direction": "338\u00b0",
+            "rwy_dimensions": "900 x 20"
+        }
+    ],
+    "traffic": "Boleslav RADIO",
+    "geocoordinates": [
+        {
+            "latitude": "50\u00b0 23  54  N",
+            "longitude": "14\u00b0 53  54  E"
+        }
+    ],
+    "elevation_ft": 765,
+    "elevation_m": 233,
+    "frequency": "123,610ARP",
+    "operating_hours": "0700 1600",
+    "fuel": [
+        "AVGAS 100 LL",
+        "Natural 95",
+        "Jet A1"
+    ]
+}

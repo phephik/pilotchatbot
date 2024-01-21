@@ -1,0 +1,26 @@
+{
+    "icao_code": "LKCAST",
+    "name": "\u010c\u00e1stkovice VFR SLZ",
+    "full_address": "Private SLZ field, \u010c\u00c1STKOVICE, Nov\u00e1 Cerekev 224, 394 15 Nov\u00e1 Cerekev",
+    "city": "Nov\u00e1 Cerekev",
+    "airport_type": "Private",
+    "runways": [
+        {
+            "RWY": null,
+            "magnetic_direction": null,
+            "rwy_dimensions": null
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "49\u00b0 24  33  N",
+            "longitude": "15\u00b0 08  39  E"
+        }
+    ],
+    "elevation_ft": 1925,
+    "elevation_m": 587,
+    "frequency": "120,330",
+    "operating_hours": "Year round",
+    "fuel": "NIL"
+}

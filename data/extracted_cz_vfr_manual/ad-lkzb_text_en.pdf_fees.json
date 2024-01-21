@@ -1,0 +1,32 @@
+{
+    "operating_fees": [
+        {
+            "type": "Landing fees at airport",
+            "amount": "50.0",
+            "info": "Unserviceability of RWY can be expected after long lasting rain."
+        },
+        {
+            "type": "Snow clearance is not provided",
+            "amount": "NIL",
+            "info": "The aerodrome is located under MTMA \u010c\u00e1slav."
+        },
+        {
+            "type": "Traffic circuits RWY 33",
+            "amount": "NIL",
+            "info": "The traffic circuit altitude is 2618 ft/793 m AMSL."
+        },
+        {
+            "type": "Pilots in command are required to reduce flights over the town Zbraslavice",
+            "amount": "NIL",
+            "info": "Arrivals and departures with two way radio communication only."
+        },
+        {
+            "type": "The road in the vicinity of THR RWY 15 shall be overflied during take offs and landings",
+            "amount": "NIL",
+            "info": "Arrival of aircraft outside operational hours is allowed only by prior agreement with AD operator (check on the serviceability of movement areas)."
+        }
+    ],
+    "parking_fees": [],
+    "passanger_fees": [],
+    "other_information": "There is operation of the air school CZ/ATO 012 at AD."
+}

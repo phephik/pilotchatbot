@@ -1,0 +1,34 @@
+{
+    "icao_code": "LKJC",
+    "name": "Ji\u010d\u00edn",
+    "full_address": "Vok\u0161ice 25, 506 01 Podhrad\u00ed",
+    "city": "Ji\u010d\u00edn",
+    "airport_type": "Public domestic aerodrome",
+    "runways": [
+        {
+            "RWY": "12",
+            "magnetic_direction": "123\u00b0",
+            "rwy_dimensions": "1000 x 100"
+        },
+        {
+            "RWY": "30",
+            "magnetic_direction": "303\u00b0",
+            "rwy_dimensions": "1000 x 100"
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "50\u00b0 25  48  N",
+            "longitude": "15\u00b0 19  59  E"
+        }
+    ],
+    "elevation_ft": 863,
+    "elevation_m": 263,
+    "frequency": "118,080",
+    "operating_hours": "SAT, SUN, HOL 0800   1500",
+    "fuel": [
+        "AVGAS 100 LL",
+        "Natural 95"
+    ]
+}

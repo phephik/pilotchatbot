@@ -1,0 +1,39 @@
+{
+    "operating_fees": [
+        {
+            "type": "landing",
+            "amount": "$100",
+            "info": "Payment due upon arrival"
+        },
+        {
+            "type": "takeoff",
+            "amount": "$50",
+            "info": "Payment due before departure"
+        }
+    ],
+    "parking_fees": [
+        {
+            "type": "short-term",
+            "amount": "$10/hour",
+            "info": "Payment due upon exit"
+        },
+        {
+            "type": "long-term",
+            "amount": "$20/day",
+            "info": "Payment due upon exit"
+        }
+    ],
+    "passanger_fees": [
+        {
+            "type": "domestic",
+            "amount": "$5",
+            "info": "Payment due at check-in"
+        },
+        {
+            "type": "international",
+            "amount": "$10",
+            "info": "Payment due at check-in"
+        }
+    ],
+    "other_information": "Please pay all fees at the airport office before departure."
+}

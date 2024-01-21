@@ -1,0 +1,12 @@
+{
+    "operating_fees": [
+        {
+            "type": "Landing fees at airport",
+            "amount": "50.0",
+            "info": null
+        }
+    ],
+    "parking_fees": null,
+    "passanger_fees": null,
+    "other_information": null
+}

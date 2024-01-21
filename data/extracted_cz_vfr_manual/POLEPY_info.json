@@ -1,0 +1,33 @@
+{
+    "icao_code": "POLEPY",
+    "name": "Polepy VFR SLZ",
+    "full_address": "Hru\u0161ovany 91, 411 45 Polepy",
+    "city": "Polepy",
+    "airport_type": "Private SLZ field",
+    "runways": [
+        {
+            "RWY": "19",
+            "magnetic_direction": "NIL",
+            "rwy_dimensions": "RWY 19 only for take off."
+        },
+        {
+            "RWY": "24",
+            "magnetic_direction": "NIL",
+            "rwy_dimensions": "RWY 24 only for take off."
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "50\u00b0 31 14 N",
+            "longitude": "14\u00b0 16 20 E"
+        }
+    ],
+    "elevation_ft": 696,
+    "elevation_m": 212,
+    "frequency": {
+        "ARP": "50\u00b0 31 14 N, 14\u00b0 16 20 E"
+    },
+    "operating_hours": "Year round",
+    "fuel": "Aeroshell"
+}

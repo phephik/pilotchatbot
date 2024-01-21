@@ -1,0 +1,28 @@
+{
+    "icao_code": "LKCHOV",
+    "name": "Chot\u011b\u0161ov VFR SLZ",
+    "full_address": "leti\u0161t\u011b Chot\u011b\u0161ov, 332 14",
+    "city": "Chot\u011b\u0161ov",
+    "airport_type": "Public SLZ field",
+    "runways": [
+        {
+            "RWY": "27",
+            "magnetic_direction": "W",
+            "rwy_dimensions": "Unidirectional sport flying equipment field"
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "49\u00b0 39  06  N",
+            "longitude": "13\u00b0 11  23  E"
+        }
+    ],
+    "elevation_ft": 1207,
+    "elevation_m": 368,
+    "frequency": {
+        "ARP": "125,830"
+    },
+    "operating_hours": "Year round",
+    "fuel": "NIL"
+}

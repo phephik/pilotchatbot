@@ -1,0 +1,34 @@
+{
+    "icao_code": "LKPC",
+    "name": "Panensk\u00fd T\u00fdnec",
+    "full_address": "1,5 km NE Panensk\u00fd T\u00fdnec",
+    "city": "Panensk\u00fd T\u00fdnec",
+    "airport_type": "Public domestic aerodrome VFR day, parachute jumping operation",
+    "runways": [
+        {
+            "RWY": "09",
+            "magnetic_direction": "084\u00b0",
+            "rwy_dimensions": "2505 x 30"
+        },
+        {
+            "RWY": "27",
+            "magnetic_direction": "264\u00b0",
+            "rwy_dimensions": "2505 x 30"
+        }
+    ],
+    "traffic": "Aeroplanes and ultralight aircraft always carry out the circuits to the north. The shape of the circuit is chosen in order to avoid overflying of villages Vrbno and Telce. Altitudinal restrictions result from location of the aerodrome LKPC under TMA Praha. Outside operational hours arrivals/departures to/from the aerodrome LKPC are permitted only after previous arrangement with the aerodrome operator (checking of serviceability of manoeuvring areas).",
+    "geocoordinates": [
+        {
+            "latitude": "50\u00b0 18  23  N",
+            "longitude": "13\u00b0 56  06  E"
+        }
+    ],
+    "elevation_ft": 1207,
+    "elevation_m": 368,
+    "frequency": "T\u00fdnec RADIO 118,580",
+    "operating_hours": "SAT, SUN, HOL 0800   1500",
+    "fuel": [
+        "AVGAS 100LL",
+        "TOTAL D100"
+    ]
+}

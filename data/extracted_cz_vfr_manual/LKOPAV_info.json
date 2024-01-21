@@ -1,0 +1,26 @@
+{
+    "icao_code": "LKOPAV",
+    "name": "Opava VFR SLZ",
+    "full_address": "Private SLZ fieldOPAVA",
+    "city": "Opava",
+    "airport_type": "VFR",
+    "runways": [
+        {
+            "RWY": null,
+            "magnetic_direction": null,
+            "rwy_dimensions": null
+        }
+    ],
+    "traffic": null,
+    "geocoordinates": [
+        {
+            "latitude": "49\u00b0 56  26  N",
+            "longitude": "17\u00b0 59  10  E"
+        }
+    ],
+    "elevation_ft": 872,
+    "elevation_m": 266,
+    "frequency": "125,830",
+    "operating_hours": "Year round",
+    "fuel": "True"
+}

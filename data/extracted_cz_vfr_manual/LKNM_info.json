@@ -1,0 +1,47 @@
+{
+    "icao_code": "LKNM",
+    "name": "Nov\u00e9 M\u011bsto",
+    "full_address": "Nov\u00e9 M\u011bsto nad Metuj\u00ed",
+    "city": "Nov\u00e9 M\u011bsto nad Metuj\u00ed",
+    "airport_type": "Public domestic aerodrome",
+    "runways": [
+        {
+            "RWY": "36",
+            "magnetic_direction": "356\u00b0",
+            "rwy_dimensions": "874 x 30"
+        },
+        {
+            "RWY": "18",
+            "magnetic_direction": "176\u00b0",
+            "rwy_dimensions": "874 x 30"
+        },
+        {
+            "RWY": "26",
+            "magnetic_direction": "256\u00b0",
+            "rwy_dimensions": "927 x 30"
+        },
+        {
+            "RWY": "08",
+            "magnetic_direction": "076\u00b0",
+            "rwy_dimensions": "927 x 30"
+        }
+    ],
+    "traffic": "VFR day/night, parachute jumping operation",
+    "geocoordinates": [
+        {
+            "latitude": "50\u00b0 21  51  N",
+            "longitude": "16\u00b0 06  49  E"
+        }
+    ],
+    "elevation_ft": 1001,
+    "elevation_m": 305,
+    "frequency": "123,405",
+    "operating_hours": "SAT, SUN, HOL 0700 1500, otherwise O/R",
+    "fuel": [
+        "aviation petrol AVGAS 100LL",
+        "ELF 100 AD",
+        "SHELL 100 M",
+        "TOTAL AERO 100",
+        "D100"
+    ]
+}

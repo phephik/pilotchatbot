@@ -1,0 +1,27 @@
+{
+    "operating_fees": [
+        {
+            "type": "Ultralight aircraft",
+            "amount": "100,00",
+            "info": null
+        },
+        {
+            "type": "Aircraft up to 600 kg of MTOW",
+            "amount": "100,00",
+            "info": null
+        },
+        {
+            "type": "Aircraft up to 2 tonnes of MTOW",
+            "amount": "200,00",
+            "info": null
+        },
+        {
+            "type": "Aircraft over 2 tonnes of MTOW",
+            "amount": "300,00",
+            "info": null
+        }
+    ],
+    "parking_fees": [],
+    "passanger_fees": [],
+    "other_information": "3.1 Landing charges Ultralight aircraft 100,00 Aircraft up to 600 kg of MTOW 100,00 Aircraft up to 2 tonnes of MTOW 200,00 Aircraft over 2 tonnes of MTOW 300,00 3.2 Parking charges NIL 3.3 Charges for passenger service NIL Chapter end"
+}

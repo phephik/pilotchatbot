@@ -1,0 +1,39 @@
+{
+    "operating_fees": [
+        {
+            "type": "Landing",
+            "amount": "$100",
+            "info": "Payment can be made at the airport office"
+        },
+        {
+            "type": "Handling",
+            "amount": "$50",
+            "info": "Payment can be made at the airport office"
+        }
+    ],
+    "parking_fees": [
+        {
+            "type": "Short-term",
+            "amount": "$10/hour",
+            "info": "Payment can be made at the parking meter"
+        },
+        {
+            "type": "Long-term",
+            "amount": "$20/day",
+            "info": "Payment can be made at the parking meter"
+        }
+    ],
+    "passanger_fees": [
+        {
+            "type": "Security Fee",
+            "amount": "$5",
+            "info": "Included in the ticket price"
+        },
+        {
+            "type": "Facility Fee",
+            "amount": "$10",
+            "info": "Payment can be made at the airport office"
+        }
+    ],
+    "other_information": "Please note that all fees are subject to change without notice"
+}

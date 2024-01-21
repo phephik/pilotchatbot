@@ -1,0 +1,31 @@
+{
+    "icao_code": "LKMR",
+    "name": "Mari\u00e1nsk\u00e9 L\u00e1zn\u011b",
+    "full_address": "5 km SSE from centre of the town Mari\u00e1nsk\u00e9 L\u00e1zn\u011b",
+    "city": "Mari\u00e1nsk\u00e9 L\u00e1zn\u011b",
+    "airport_type": "Public domestic aerodrome VFR day, parachute jumping operation",
+    "runways": [
+        {
+            "RWY": "15",
+            "magnetic_direction": "147\u00b0",
+            "rwy_dimensions": "1035 x 50"
+        },
+        {
+            "RWY": "33",
+            "magnetic_direction": "327\u00b0",
+            "rwy_dimensions": "1035 x 50"
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "49\u00b0 55  22  N",
+            "longitude": "12\u00b0 43  29  E"
+        }
+    ],
+    "elevation_ft": 1768,
+    "elevation_m": 539,
+    "frequency": "120,900",
+    "operating_hours": "SAT, SUN, HOL 0700 1400",
+    "fuel": "NIL"
+}

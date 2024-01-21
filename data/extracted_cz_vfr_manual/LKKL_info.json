@@ -1,0 +1,31 @@
+{
+    "icao_code": "LKKL",
+    "name": "Kladno",
+    "full_address": "Leti\u0161t\u011b Kladno, Velk\u00e1 Dobr\u00e1 580, 273 61 Velk\u00e1 Dobr\u00e1",
+    "city": "Kladno",
+    "airport_type": "Public domestic aerodrome",
+    "runways": [
+        {
+            "RWY": "12",
+            "magnetic_direction": "124\u00b0",
+            "rwy_dimensions": "980 x 30"
+        },
+        {
+            "RWY": "30",
+            "magnetic_direction": "304\u00b0",
+            "rwy_dimensions": "980 x 30"
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "50\u00b0 06  46  N",
+            "longitude": "14\u00b0 05  23  E"
+        }
+    ],
+    "elevation_ft": 1419,
+    "elevation_m": 433,
+    "frequency": "123,480",
+    "operating_hours": "SAT, SUN, HOL 0800 1500, otherwise O/R",
+    "fuel": "aviation petrol AVGAS, JET A1 on request, Aeroshell, TOTAL"
+}
