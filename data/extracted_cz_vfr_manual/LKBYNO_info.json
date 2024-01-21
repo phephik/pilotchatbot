@@ -1,0 +1,28 @@
+{
+    "icao_code": "LKBYNO",
+    "name": "Bynovec",
+    "full_address": "Bynovec 11, 407 14 Arnoltice",
+    "city": "Arnoltice",
+    "airport_type": "Private",
+    "runways": [
+        {
+            "RWY": "28",
+            "magnetic_direction": "280",
+            "rwy_dimensions": "Unidirectional"
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "50\u00b0 49  19  N",
+            "longitude": "14\u00b0 16  17  E"
+        }
+    ],
+    "elevation_ft": 1266,
+    "elevation_m": 386,
+    "frequency": {
+        "RADIO": "120,330"
+    },
+    "operating_hours": "Year round",
+    "fuel": "NIL"
+}

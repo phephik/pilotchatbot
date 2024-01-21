@@ -1,0 +1,28 @@
+{
+    "icao_code": "LKKOST",
+    "name": "Kostomlaty",
+    "full_address": "9 kv\u011btna 153, 289 21 Kostomlaty nad Labem",
+    "city": "Kostomlaty",
+    "airport_type": "Private SLZ field",
+    "runways": [
+        {
+            "RWY": null,
+            "magnetic_direction": null,
+            "rwy_dimensions": null
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "50\u00b0 12  29  N",
+            "longitude": "14\u00b0 55  43  E"
+        }
+    ],
+    "elevation_ft": 700,
+    "elevation_m": 213,
+    "frequency": {
+        "ARP": "125,830"
+    },
+    "operating_hours": "Year round",
+    "fuel": "NIL"
+}

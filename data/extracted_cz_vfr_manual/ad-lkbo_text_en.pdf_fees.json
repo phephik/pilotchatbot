@@ -1,0 +1,34 @@
+{
+    "operating_fees": [
+        {
+            "type": "Landing fees",
+            "amount": "TBD",
+            "info": "Contact airport for more information"
+        },
+        {
+            "type": "Runway fees",
+            "amount": "TBD",
+            "info": "Contact airport for more information"
+        }
+    ],
+    "parking_fees": [
+        {
+            "type": "Short-term parking",
+            "amount": "TBD",
+            "info": "Contact airport for more information"
+        },
+        {
+            "type": "Long-term parking",
+            "amount": "TBD",
+            "info": "Contact airport for more information"
+        }
+    ],
+    "passanger_fees": [
+        {
+            "type": "Passenger service fee",
+            "amount": "TBD",
+            "info": "Contact airport for more information"
+        }
+    ],
+    "other_information": "Contact airport for more information on how to pay fees"
+}

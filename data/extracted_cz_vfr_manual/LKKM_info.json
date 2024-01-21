@@ -1,0 +1,36 @@
+{
+    "icao_code": "LKKM",
+    "name": "Krom\u011b\u0159\u00ed\u017e",
+    "full_address": "Na Hr\u00e1zi 1148/6, 767 01 Krom\u011b\u0159\u00ed\u017e",
+    "city": "Krom\u011b\u0159\u00ed\u017e",
+    "airport_type": "Private domestic aerodrome VFR day, parachute jumping operation",
+    "runways": [
+        {
+            "RWY": "2",
+            "magnetic_direction": "019\u00b0",
+            "rwy_dimensions": "775 x 30"
+        },
+        {
+            "RWY": "20",
+            "magnetic_direction": "199\u00b0",
+            "rwy_dimensions": "775 x 30"
+        }
+    ],
+    "traffic": "Providing information to known traffic",
+    "geocoordinates": [
+        {
+            "latitude": "49\u00b0 17  08  N",
+            "longitude": "17\u00b0 24  57  E"
+        }
+    ],
+    "elevation_ft": 617,
+    "elevation_m": 188,
+    "frequency": "122,205",
+    "operating_hours": "All day operation",
+    "fuel": [
+        "unleaded gasoline BA 95",
+        "AeroShell  100W",
+        "W15W 50",
+        "Oil Sport Plus"
+    ]
+}

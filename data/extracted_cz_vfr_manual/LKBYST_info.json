@@ -1,0 +1,28 @@
+{
+    "icao_code": "LKBYST",
+    "name": "Byst\u0159ice nad Pern\u0161tejnem",
+    "full_address": "Zahradn\u00ed 568, 593 01 Byst\u0159ice nad Pern\u0161tejnem",
+    "city": "Byst\u0159ice nad Pern\u0161tejnem",
+    "airport_type": "Public SLZ field",
+    "runways": [
+        {
+            "RWY": null,
+            "magnetic_direction": null,
+            "rwy_dimensions": null
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "49\u00b0 31  22  N",
+            "longitude": "16\u00b0 13  56  E"
+        }
+    ],
+    "elevation_ft": 1942,
+    "elevation_m": 592,
+    "frequency": {
+        "ARP": "125,830"
+    },
+    "operating_hours": "Year round",
+    "fuel": "NIL"
+}

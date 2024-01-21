@@ -1,0 +1,62 @@
+{
+    "operating_fees": [
+        {
+            "type": "Landing charges",
+            "amount": "360,00",
+            "info": "Aircraft up to 100 t MTOW"
+        },
+        {
+            "type": "Landing charges",
+            "amount": "150,00",
+            "info": "Aircraft from 101 t up to 200 t MTOW (per each next tonne over 100 t MTOW)"
+        },
+        {
+            "type": "Landing charges",
+            "amount": "90,00",
+            "info": "Aircraft over 200 t MTOW (per each next tonne over 200 t MTOW)"
+        },
+        {
+            "type": "Training flights",
+            "amount": "180 CZK x MTOW",
+            "info": "Aircraft up to 15 t MTOW"
+        },
+        {
+            "type": "Training flights",
+            "amount": "180 CZK x 15 t + 150 CZK x (MTOW 15t)",
+            "info": "Aircraft from 15 up to 100 t MTOW"
+        },
+        {
+            "type": "Training flights",
+            "amount": "180 CZK x 15 t + 150 CZK x 85 t + 120 CZK x (MTOW 100 t)",
+            "info": "Aircraft over 100 t MTOW"
+        },
+        {
+            "type": "Training flights",
+            "amount": "125 CZK x MTOW (1 OCT 30 APR) / 150 CZK x MTOW (1 MAY 30 SEP)",
+            "info": "Aircraft up to 3t MTOW (at MNM 300 full landing + touch and go per calendar year)"
+        },
+        {
+            "type": "Training flights",
+            "amount": "100 CZK x MTOW (1 OCT 30 APR) / 125 CZK x MTOW (1 MAY 30 SEP)",
+            "info": "Aircraft up to 3t MTOW (at MNM 600 full landing + touch and go per calendar year)"
+        },
+        {
+            "type": "Training flights",
+            "amount": "Each fifth landing free of charge",
+            "info": "For aircraft over 15 t MTOW"
+        },
+        {
+            "type": "Training flights",
+            "amount": "200 CZK / full landing, touch and go or overflight",
+            "info": "Charge for usage of lighting systems for night training flights"
+        },
+        {
+            "type": "Parking charges apron (per hour and tonne of MTOW)",
+            "amount": "17,00",
+            "info": "First two hours free of charge for ACFT with seating kapacity equal or grater than 200"
+        }
+    ],
+    "parking_fees": [],
+    "passanger_fees": [],
+    "other_information": "Start up and ATC clearances are issued on frequency MOSNOV TOWER/MOSNOV DELIVERY (according to current ATIS information). Pilots in command are requested to report position; confirm ATIS information and read back its QNH; inform about de icing intention, if it should be done after engine start up. After push back and/or taxi approval pilot in command has to establish radio contact on the frequency MOSNOV TWR. 23 MAR 23 (1) OSTRAVA/Mo\u0161nov VFR AD LKMT TEXT 5 VFR Manual Czech Republic1.7.8 VFR entry/exit significant points to/from CTR and holding points VFR entry/exit significant points to/from CTR and holding points Designation Location Coordinates NOVEMBER Hrabyn\u011b 49 52 59 N 018 03 17 E entry WHISKY Vrchy (church) 49 44 57 N 017 52 19 E entry TANGO B\u011blot\u00edn 49 35 06 N 017 47 59 E entry SIERRA Hodslavice 49 32 20 N 018 01 25 E entry ECHO Fr\u00fddek M\u00edstek (reservoir dam) 49 39 48 N 018 19 13 E entry FOXTROT \u0160enov (church) 49 47 10 N 018 22 29 E entry ALFA P\u0159\u00edbor 49 39 00 N 018 08 28 E holding BRAVO Stud\u00e9nka (railway crossing) 49 42 17 N 018 03 04 E holding 2 ADDITIONAL INFORMATION NIL 3 CHARGES FOR AERODROMES 3.1 Landing charges Aircraft up to 100 t MTOW 360,00 Aircraft from 101 t up to 200 t MTOW (per each next tonne over 100 t MTOW)150,00 Aircraft over 200 t MTOW (per each next tonne over 200 t MTOW) 90,00 Training flights Aircraft up to 15 t MTOW 180 CZK x MTOW Training flights Aircraft from 15 up to 100 t MTOW180 CZK x 15 t + 150 CZK x (MTOW 15t) Training flights Aircraft over 100 t MTOW180 CZK x 15 t + 150 CZK x 85 t + 120 CZK x (MTOW 100 t) Training flights Aircraft up to 3t MTOW (at MNM 300 full landing + touch and go per calendar year) 125 CZK x MTOW (1 OCT 30 APR) / 150 CZK x MTOW (1 MAY 30 SEP) Training flights Aircraft up to 3t MTOW (at MNM 600 full landing + touch and go per calendar year) 100 CZK x MTOW (1 OCT 30 APR) / 125 CZK x MTOW (1 MAY 30 SEP) AD operator shall be asked for an allotment of this rate. Training flights For aircraft over 15 t MTOW each fifth landing free of charge. Training flights Charge for usage of lighting systems for night training flights is 200 CZK / full landing, touch and go or overflight. Discount is not provided to training flights at the time between 2200 0400 (2100 0300). 23 MAR 23 (1) OSTRAVA/Mo\u0161nov VFR AD LKMT TEXT 6 VFR Manual Czech Republic3.2 Parking charges apron (per hour and tonne of MTOW) 17,00 First two hours free of charge for ACFT with seating kapacity equal or grater than 200. 3.3 Charges for passenger service Domestic flights (per passenger) 490,00 International flights (per passenger) 490,00 Transfer (per passenger) 300,00 Chapter end"
+}

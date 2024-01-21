@@ -1,0 +1,26 @@
+{
+    "icao_code": "LKLETO",
+    "name": "Letovice",
+    "full_address": "\u010capkova 4, 679 61 Letovice",
+    "city": "Letovice",
+    "airport_type": "Public SLZ field",
+    "runways": [
+        {
+            "RWY": null,
+            "magnetic_direction": null,
+            "rwy_dimensions": null
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "49\u00b0 32  48  N",
+            "longitude": "16\u00b0 35  55  E"
+        }
+    ],
+    "elevation_ft": 1246,
+    "elevation_m": 380,
+    "frequency": "118,740",
+    "operating_hours": "Year round",
+    "fuel": "NIL"
+}

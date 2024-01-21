@@ -1,0 +1,45 @@
+{
+    "icao_code": "LKBU",
+    "name": "Bubovice",
+    "full_address": "Bubovick\u00e1 4, 267 18 Bubovice",
+    "city": "Bubovice",
+    "airport_type": "Public domestic aerodrome VFR day",
+    "runways": [
+        {
+            "RWY": "10R",
+            "magnetic_direction": "102\u00b0",
+            "rwy_dimensions": "730 x 23"
+        },
+        {
+            "RWY": "28L",
+            "magnetic_direction": "282\u00b0",
+            "rwy_dimensions": "730 x 23"
+        },
+        {
+            "RWY": "10L",
+            "magnetic_direction": "102\u00b0",
+            "rwy_dimensions": "720 x 30"
+        },
+        {
+            "RWY": "28R",
+            "magnetic_direction": "282\u00b0",
+            "rwy_dimensions": "720 x 30"
+        }
+    ],
+    "traffic": "Aeroplanes, ultralight aeroplanes, helicopters, powered gliders",
+    "geocoordinates": [
+        {
+            "latitude": "49\u00b0 58  28  N",
+            "longitude": "14\u00b0 10  41  E"
+        }
+    ],
+    "elevation_ft": 1398,
+    "elevation_m": 426,
+    "frequency": "134,305",
+    "operating_hours": "0730 - 1430 SAT,SUN,HOL, otherwise O/R 24 HR in advance",
+    "fuel": [
+        "aviation petrol AVGAS 100 LL",
+        "ELF 100 AD",
+        "ELF 100 Mineral"
+    ]
+}

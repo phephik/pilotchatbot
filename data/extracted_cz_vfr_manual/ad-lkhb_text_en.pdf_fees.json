@@ -1,0 +1,54 @@
+{
+    "operating_fees": [
+        {
+            "type": "Landing fees at airport",
+            "amount": "100,00",
+            "info": null
+        },
+        {
+            "type": "Parking fees at airport",
+            "amount": "100,00",
+            "info": null
+        },
+        {
+            "type": "Passenger fees at airport",
+            "amount": "100,00",
+            "info": null
+        }
+    ],
+    "parking_fees": [
+        {
+            "type": "Landing fees at airport",
+            "amount": "100,00",
+            "info": null
+        },
+        {
+            "type": "Parking fees at airport",
+            "amount": "100,00",
+            "info": null
+        },
+        {
+            "type": "Passenger fees at airport",
+            "amount": "100,00",
+            "info": null
+        }
+    ],
+    "passanger_fees": [
+        {
+            "type": "Landing fees at airport",
+            "amount": "100,00",
+            "info": null
+        },
+        {
+            "type": "Parking fees at airport",
+            "amount": "100,00",
+            "info": null
+        },
+        {
+            "type": "Passenger fees at airport",
+            "amount": "100,00",
+            "info": null
+        }
+    ],
+    "other_information": null
+}

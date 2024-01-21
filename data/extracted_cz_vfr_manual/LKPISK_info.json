@@ -1,0 +1,26 @@
+{
+    "icao_code": "LKPISK",
+    "name": "P\u00edsek Kra\u0161ovice",
+    "full_address": "Private SLZ field",
+    "city": "P\u00edsek",
+    "airport_type": "VFR",
+    "runways": [
+        {
+            "RWY": "07",
+            "magnetic_direction": "NIL",
+            "rwy_dimensions": "NIL"
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "49\u00b0 20  22  N",
+            "longitude": "14\u00b0 06  50  E"
+        }
+    ],
+    "elevation_ft": 1351,
+    "elevation_m": 412,
+    "frequency": "P\u00cdSEK RADIO 119,415",
+    "operating_hours": "Year round",
+    "fuel": "NIL"
+}

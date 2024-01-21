@@ -1,0 +1,34 @@
+{
+    "operating_fees": [
+        {
+            "type": "Landing fees at airport",
+            "amount": "200,00",
+            "info": "Aircraft up to MTOW 1,5 t"
+        },
+        {
+            "type": "Aircraft per each additional initiated tonne of MTOW",
+            "amount": "100,00",
+            "info": null
+        }
+    ],
+    "parking_fees": [
+        {
+            "type": "Per each additional hour",
+            "amount": "5,00",
+            "info": "First hour free of charge"
+        },
+        {
+            "type": "Hangar by arrangement with Aeroclub Fr\u00fddlant n. Ostravic\u00ed",
+            "amount": null,
+            "info": null
+        }
+    ],
+    "passanger_fees": [
+        {
+            "type": "Charges for passenger service",
+            "amount": "50,00",
+            "info": null
+        }
+    ],
+    "other_information": "Chapter end Intentionally left blank"
+}

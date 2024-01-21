@@ -1,0 +1,50 @@
+{
+    "icao_code": "LKKO",
+    "name": "Kol\u00edn VFR AD",
+    "full_address": "Leti\u0161t\u011b Kol\u00edn, P.O. Box 59, 280 00 Kol\u00edn",
+    "city": "Kol\u00edn",
+    "airport_type": "Public domestic aerodrome",
+    "runways": [
+        {
+            "RWY": "03R",
+            "magnetic_direction": "026\u00b0",
+            "rwy_dimensions": "900 x 35"
+        },
+        {
+            "RWY": "21L",
+            "magnetic_direction": "206\u00b0",
+            "rwy_dimensions": "900 x 35"
+        },
+        {
+            "RWY": "03L",
+            "magnetic_direction": "026\u00b0",
+            "rwy_dimensions": "900 x 110"
+        },
+        {
+            "RWY": "21R",
+            "magnetic_direction": "206\u00b0",
+            "rwy_dimensions": "900 x 110"
+        }
+    ],
+    "traffic": "VFR day/night, parachute jumping operation",
+    "geocoordinates": [
+        {
+            "latitude": "50\u00b0 00  07  N",
+            "longitude": "15\u00b0 10  24  E"
+        }
+    ],
+    "elevation_ft": 925,
+    "elevation_m": 282,
+    "frequency": {
+        "Kol\u00edn RADIO": "129,155",
+        "Aeroklub Kol\u00edn": "+420 321 720 844",
+        "MTWR \u010c\u00e1slav": "+420 973 376 952",
+        "Jaroslav J\u00edra": "+420 777 854 674",
+        "Miroslav Lacina": "+420 602 141 599"
+    },
+    "operating_hours": "SAT, SUN, HOL 0600   1600, otherwise O/R",
+    "fuel": [
+        "aviation petrol AVGAS 100L",
+        "ELF 100 AD"
+    ]
+}

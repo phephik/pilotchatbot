@@ -1,0 +1,36 @@
+{
+    "icao_code": "LKBO",
+    "name": "Bohu\u0148ovice",
+    "full_address": "Leti\u0161t\u011b Olomoucka, a.s. leti\u0161t\u011b Bohu\u0148ovice, 783 14 Bohu\u0148ovice 662",
+    "city": "Bohu\u0148ovice",
+    "airport_type": "Private domestic aerodrome VFR day, parachute jumping operation",
+    "runways": [
+        {
+            "RWY": "7",
+            "magnetic_direction": "074\u00b0",
+            "rwy_dimensions": "830 x 18"
+        },
+        {
+            "RWY": "25",
+            "magnetic_direction": "254\u00b0",
+            "rwy_dimensions": "830 x 18"
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "49\u00b0 40  14  N",
+            "longitude": "17\u00b0 17  42  E"
+        }
+    ],
+    "elevation_ft": 774,
+    "elevation_m": 236,
+    "frequency": "118,280",
+    "operating_hours": "Operational hours not specified, only O/R",
+    "fuel": [
+        "aviation petrol 78 oct.",
+        "aviation petrol 95 oct.",
+        "aviation petrol 100 oct.",
+        "aviation kerosene JET A1"
+    ]
+}

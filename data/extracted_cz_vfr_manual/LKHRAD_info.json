@@ -1,0 +1,26 @@
+{
+    "icao_code": "LKHRAD",
+    "name": "Hrad\u010dany",
+    "full_address": "Aeroklub Hrad\u010dany nad Plou\u010dnic\u00ed, U cihelny 1094, 463 11 Liberec 30",
+    "city": "Liberec",
+    "airport_type": "Private",
+    "runways": [
+        {
+            "RWY": null,
+            "magnetic_direction": null,
+            "rwy_dimensions": null
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "50\u00b0 37  10  N",
+            "longitude": "14\u00b0 43  58  E"
+        }
+    ],
+    "elevation_ft": 912,
+    "elevation_m": 278,
+    "frequency": "134,815",
+    "operating_hours": "Year round",
+    "fuel": "NIL"
+}

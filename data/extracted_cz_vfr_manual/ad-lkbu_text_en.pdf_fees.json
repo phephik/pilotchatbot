@@ -1,0 +1,47 @@
+{
+    "operating_fees": [
+        {
+            "type": "Landing fees",
+            "amount": "100.0",
+            "info": null
+        },
+        {
+            "type": "Parking fees",
+            "amount": "50.0",
+            "info": "First day Aircraft up to 1500 kg MTOW"
+        },
+        {
+            "type": "Parking fees",
+            "amount": "100.0",
+            "info": "First day Aircraft over 1500 kg MTOW"
+        },
+        {
+            "type": "Parking fees",
+            "amount": "100.0",
+            "info": "Each initiated additional day Aircraft up to 1500 kg MTOW"
+        },
+        {
+            "type": "Parking fees",
+            "amount": "200.0",
+            "info": "Each initiated additional day Aircraft over 1500 kg MTOW"
+        },
+        {
+            "type": "Short term hangarage per day",
+            "amount": "200.0",
+            "info": "Aircraft up to 1500 kg MTOW"
+        },
+        {
+            "type": "Short term hangarage per day",
+            "amount": "400.0",
+            "info": "Aircraft over 1500 kg MTOW"
+        },
+        {
+            "type": "Charges for passenger service",
+            "amount": null,
+            "info": "NIL"
+        }
+    ],
+    "parking_fees": [],
+    "passanger_fees": [],
+    "other_information": "Because of grassy surface of RWY, the restricted operation after prolonged rains is possible."
+}

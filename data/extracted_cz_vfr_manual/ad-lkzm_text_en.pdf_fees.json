@@ -1,0 +1,18 @@
+{
+    "operating_fees": [
+        {
+            "type": "Landing",
+            "amount": "50,00",
+            "info": "Per aircraft"
+        }
+    ],
+    "parking_fees": [
+        {
+            "type": "Parking",
+            "amount": "3,00",
+            "info": "Per hour and tonne of MTOW"
+        }
+    ],
+    "passanger_fees": [],
+    "other_information": "NIL"
+}

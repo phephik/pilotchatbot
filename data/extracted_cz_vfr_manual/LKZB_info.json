@@ -1,0 +1,36 @@
+{
+    "icao_code": "LKZB",
+    "name": "Zbraslavice",
+    "full_address": "leti\u0161t\u011b 252, 285 21 Zbraslavice",
+    "city": "Zbraslavice",
+    "airport_type": "Public domestic aerodrome VFR day",
+    "runways": [
+        {
+            "RWY": "15",
+            "magnetic_direction": "154\u00b0",
+            "rwy_dimensions": "780 x 150"
+        },
+        {
+            "RWY": "33",
+            "magnetic_direction": "334\u00b0",
+            "rwy_dimensions": "780 x 150"
+        }
+    ],
+    "traffic": "Zbraslavice RADIO",
+    "geocoordinates": [
+        {
+            "latitude": "49\u00b0 48  51  N",
+            "longitude": "15\u00b0 12  06  E"
+        }
+    ],
+    "elevation_ft": 1618,
+    "elevation_m": 493,
+    "frequency": "126,630",
+    "operating_hours": "SAT, SUN, HOL 0600 1600",
+    "fuel": [
+        "AVGAS 100LL",
+        "NATURAL BA 95",
+        "AEROSHELL 100/W100",
+        "SAE 15W 40"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "icao_code": "LKPI",
+    "name": "P\u0159ibyslav",
+    "full_address": "Leti\u0161t\u011b 422, 582 22 P\u0159ibyslav",
+    "city": "P\u0159ibyslav",
+    "airport_type": "Public domestic aerodrome VFR day",
+    "runways": [
+        {
+            "RWY": "08",
+            "magnetic_direction": "077\u00b0",
+            "rwy_dimensions": "765 x 30"
+        },
+        {
+            "RWY": "26",
+            "magnetic_direction": "257\u00b0",
+            "rwy_dimensions": "765 x 30"
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "49\u00b0 34  51  N",
+            "longitude": "15\u00b0 45  46  E"
+        }
+    ],
+    "elevation_ft": 1742,
+    "elevation_m": 531,
+    "frequency": "125,610",
+    "operating_hours": "SAT, SUN, HOL 0700   1500",
+    "fuel": [
+        "AVGAS 100",
+        "Natural 95",
+        "TOTAL AERO D 100",
+        "M 8 AD"
+    ]
+}

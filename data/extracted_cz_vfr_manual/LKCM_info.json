@@ -1,0 +1,31 @@
+{
+    "icao_code": "LKCM",
+    "name": "Medl\u00e1nky",
+    "full_address": "Aeroklub Brno Medl\u00e1nky z.s. leti\u0161t\u011b Medl\u00e1nky, Turistick\u00e1 67, 621 00 Brno",
+    "city": "Brno",
+    "airport_type": "Public domestic aerodrome VFR day",
+    "runways": [
+        {
+            "RWY": "16",
+            "magnetic_direction": "155\u00b0",
+            "rwy_dimensions": "890 x 74"
+        },
+        {
+            "RWY": "34",
+            "magnetic_direction": "335\u00b0",
+            "rwy_dimensions": "890 x 74"
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "49\u00b0 14' 13\" N",
+            "longitude": "16\u00b0 33' 19\" E"
+        }
+    ],
+    "elevation_ft": 925,
+    "elevation_m": 282,
+    "frequency": "122,405",
+    "operating_hours": "Flights are allowed from 0700 to 1800 UTC only due to reduction of noise in airport vicinity.",
+    "fuel": "BA 95 Natural"
+}

@@ -1,0 +1,44 @@
+{
+    "icao_code": "LKTO",
+    "name": "Tou\u017eim",
+    "full_address": "364 01 Tou\u017eim",
+    "city": "Tou\u017eim",
+    "airport_type": "Public domestic aerodrome VFR day",
+    "runways": [
+        {
+            "RWY": "08R",
+            "magnetic_direction": "075\u00b0",
+            "rwy_dimensions": "1290 x 82"
+        },
+        {
+            "RWY": "26L",
+            "magnetic_direction": "255\u00b0",
+            "rwy_dimensions": "1290 x 82"
+        },
+        {
+            "RWY": "08L",
+            "magnetic_direction": "075\u00b0",
+            "rwy_dimensions": "1290 x 18"
+        },
+        {
+            "RWY": "26R",
+            "magnetic_direction": "255\u00b0",
+            "rwy_dimensions": "1290 x 18"
+        }
+    ],
+    "traffic": "Tou\u017eim RADIO",
+    "geocoordinates": [
+        {
+            "latitude": "50\u00b0 05  11  N",
+            "longitude": "12\u00b0 57  10  E"
+        }
+    ],
+    "elevation_ft": 2123,
+    "elevation_m": 647,
+    "frequency": "120,190",
+    "operating_hours": "SAT, SUN, HOL 0700   1400",
+    "fuel": [
+        "Natural 95",
+        "Aeroshell 100"
+    ]
+}

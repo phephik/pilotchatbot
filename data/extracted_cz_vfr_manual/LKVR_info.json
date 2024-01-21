@@ -1,0 +1,31 @@
+{
+    "icao_code": "LKVR",
+    "name": "Vrchlab\u00ed",
+    "full_address": "2,5 km E from the centre of the town Vrchlab\u00ed",
+    "city": "Vrchlab\u00ed",
+    "airport_type": "Public domestic aerodrome VFR day",
+    "runways": [
+        {
+            "RWY": "29",
+            "magnetic_direction": "292\u00b0",
+            "rwy_dimensions": "840 x 125"
+        },
+        {
+            "RWY": "11",
+            "magnetic_direction": "112\u00b0",
+            "rwy_dimensions": "840 x 125"
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "50\u00b0 37  27  N",
+            "longitude": "15\u00b0 38  47  E"
+        }
+    ],
+    "elevation_ft": 1611,
+    "elevation_m": 491,
+    "frequency": "125,330",
+    "operating_hours": "Within operating hours   +420 777 455 865",
+    "fuel": "AVGAS 100 LL   selfservice using TWINTRANS cards, without card within operating hours, otherwise O/R"
+}

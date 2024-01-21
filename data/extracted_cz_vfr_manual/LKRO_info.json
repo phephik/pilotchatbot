@@ -1,0 +1,44 @@
+{
+    "icao_code": "LKRO",
+    "name": "Roudnice",
+    "full_address": "2 km SW Roudnice nad Labem",
+    "city": "Roudnice nad Labem",
+    "airport_type": "Public domestic aerodrome / Private international aerodrome",
+    "runways": [
+        {
+            "RWY": "31L",
+            "magnetic_direction": "313\u00b0",
+            "rwy_dimensions": "1400 x 63"
+        },
+        {
+            "RWY": "13R",
+            "magnetic_direction": "133\u00b0",
+            "rwy_dimensions": "1400 x 63"
+        },
+        {
+            "RWY": "31R",
+            "magnetic_direction": "313\u00b0",
+            "rwy_dimensions": "840 x 30"
+        },
+        {
+            "RWY": "13L",
+            "magnetic_direction": "133\u00b0",
+            "rwy_dimensions": "840 x 30"
+        }
+    ],
+    "traffic": "VFR day/night, parachute jumping operation",
+    "geocoordinates": [
+        {
+            "latitude": "50\u00b0 24  38  N",
+            "longitude": "14\u00b0 13  34  E"
+        }
+    ],
+    "elevation_ft": 728,
+    "elevation_m": 222,
+    "frequency": "122,205",
+    "operating_hours": "SAT, SUN, HOL 0700   1500, otherwise O/R",
+    "fuel": [
+        "AVGAS 100LL",
+        "NATURAL 95"
+    ]
+}

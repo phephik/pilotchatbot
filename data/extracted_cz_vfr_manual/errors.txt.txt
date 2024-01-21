@@ -1,0 +1,514 @@
+An error occurred while processing ad-lkbe_text_en.pdf: Failed to parse Fees from completion ```yaml
+operating_fees:
+  - type: Landing fees
+    amount: 110,00
+    info: Per aeroplane up to 1500 kg MTOW
+  - type: Landing fees
+    amount: 200,00
+    info: Per aeroplane over 1500 kg MTOW
+  - type: Landing fees
+    amount: 70,00
+    info: Ultralight aircraft, powered gliders
+  - type: Landing fees
+    amount: 50,00
+    info: Glider
+  - type: Special charge
+    amount: 500,00
+    info: 
+      Value added tax is included in rates.
+parking_fees:
+  - up to 7 HR
+    amount: 60,00
+  - ultralight aircraft up to 7 HR
+    amount: 35,00
+  - from 7 HR up to 24 HR
+    amount: 120,00
+  - every other day
+    amount: 60,00
+  Value added tax is included in rates.
+passanger_fees: []
+other_information: The charge for dispatch of international flight is subject of a settlement with the aerodrome operator.
+```. Got: mapping values are not allowed here
+  in "<unicode string>", line 21, column 11:
+        amount: 60,00
+              ^
+An error occurred while processing ad-lkhv_text_en.pdf: Failed to parse Fees from completion ```yaml
+operating_fees:
+  - type: Ultralight aircraft
+    amount: 120,00
+    info: Landing charges
+  - type: Aircraft and helicopters up to 2000 kg MTOW
+    amount: 150,00
+    info: Landing charges
+  - type: Aircraft and helicopters over 2000 kg MTOW
+    amount: 270,00
+    info: Landing charges
+  - type: Aircraft and helicopters over 2000 kg MTOW
+    amount: 140,00
+    info: for each initiated tonne
+parking_fees:
+  - Per hour
+    amount: 140,00
+passanger_fees: []
+other_information: Landing charges (+VAT) may be paid via QR codes located near the tower. A one time fee of 10.000 CZK will be charged for using the aerodrome (landing or touch and go) without the prior consent of the operator, see sanctions in aerodrome regulations.
+```. Got: mapping values are not allowed here
+  in "<unicode string>", line 17, column 11:
+        amount: 140,00
+              ^
+
+-----
+-----
+An error occurred while processing ad-lkcebi_map_en.pdf: Failed to parse Airport from completion ```yaml
+icao_code: LKCEBI
+name: Čebín
+full_address: Čebínskokuřimský spolek aviatiků z.s., 1. Května 1306/4, 664 34 Kuřim
+city: Kuřim
+airport_type: Private
+runways:
+  - RWY: 
+    magnetic_direction: 
+    rwy_dimensions: 
+traffic: VFR
+geocoordinates:
+  - latitude: 49° 19  08  N
+    longitude: 16° 29  48  E
+elevation_ft: 1004
+elevation_m: 306
+frequency: 
+  ČEBÍN RADIO: 125,830
+  Group frequencyARP: 
+operating_hours: Year round
+fuel: NIL
+```. Got: 2 validation errors for Airport
+frequency -> Group frequencyARP
+  none is not an allowed value (type=type_error.none.not_allowed)
+frequency
+  str type expected (type=type_error.str)
+An error occurred while processing ad-lkcs_map_en.pdf: Failed to parse Airport from completion ```yaml
+- icao_code: LKCS
+  name: České Budějovice
+  full_address: U Zimního stadionu 1952/2, 370 01 ČESKÉ BUDĚJOVICE 7
+  city: České Budějovice
+  airport_type: Public domestic aerodrome / Private international aerodrome
+  runways:
+    - RWY: 27
+      magnetic_direction: 265°
+      rwy_dimensions: 2500 x 45
+    - RWY: 09
+      magnetic_direction: 085°
+      rwy_dimensions: 2500 x 45
+  traffic: VFR , IFR
+  geocoordinates:
+    - latitude: 48° 56  47  N
+      longitude: 14° 25  39  E
+  elevation_ft: 1417
+  elevation_m: 432
+  frequency: 135,930
+  operating_hours: MON SUN 0700 1600 (0600 1500) Otherwise O/R 24 HR in advance. Operational hours extension of AD published by NOTAM.
+  fuel: AVGAS 100LL, JET A1
+```. Got: 1 validation error for Airport
+__root__
+  Airport expected dict not list (type=type_error)
+An error occurred while processing ad-lkct_map_en.pdf: Failed to parse Airport from completion ```yaml
+- icao_code: LKCT
+  name: Chotěboř
+  full_address: Chotěboř   Počátky 67, 583 01 Chotěboř
+  city: Chotěboř
+  airport_type: Public domestic aerodrome VFR day
+  runways:
+    - RWY: 35
+      magnetic_direction: 345°
+      rwy_dimensions: 1010 x 50
+    - RWY: 17
+      magnetic_direction: 165°
+      rwy_dimensions: 1010 x 50
+  traffic: VFR
+  geocoordinates:
+    - latitude: 49° 41  09  N
+      longitude: 15° 40  34  E
+  elevation_ft: 1946
+  elevation_m: 593
+  frequency: 120,110
+  operating_hours: SAT, SUN, HOL 0700   1400
+  fuel: 
+    - AVGAS 100LL
+    - MOGAS 95
+    - Total D100
+    - 120
+    - Total XPD100
+```. Got: 1 validation error for Airport
+__root__
+  Airport expected dict not list (type=type_error)
+An error occurred while processing ad-lker_map_en.pdf: Failed to parse Airport from completion ```yaml
+- icao_code: LKER
+  name: Erpužice
+  full_address: Aeroklub Erpužice, z.s. letiště Erpužice, 349 01 Stříbro
+  city: Erpužice
+  airport_type: Private domestic aerodrome
+  runways:
+    - RWY: 11
+      magnetic_direction: 108°
+      rwy_dimensions: 860 x 40
+    - RWY: 29
+      magnetic_direction: 288°
+      rwy_dimensions: 860 x 40
+  traffic: VFR day, parachute jumping operation
+  geocoordinates:
+    - latitude: 49° 48' 10" N
+      longitude: 13° 02' 17" E
+  elevation_ft: 1568
+  elevation_m: 478
+  frequency: Erpužice RADIO 123.490 ARP
+  operating_hours: Providing information to known traffic SAT, SUN, HOL 0800-1600, otherwise O/R. 15 APR-15 OCT SAT, SUN, HOL 0800-1600 otherwise O/R
+  fuel: NIL
+```. Got: 1 validation error for Airport
+__root__
+  Airport expected dict not list (type=type_error)
+An error occurred while processing ad-lkhs_map_en.pdf: Failed to parse Airport from completion ```yaml
+- icao_code: LKHS
+  name: Hosín
+  full_address: letiště Hosín, 373 41 Hluboká nad Vltavou
+  city: České Budějovice
+  airport_type: Public domestic aerodrome
+  runways:
+    - RWY: 06R
+      magnetic_direction: 058°
+      rwy_dimensions: 1000 x 50
+    - RWY: 24L
+      magnetic_direction: 238°
+      rwy_dimensions: 1000 x 50
+    - RWY: 06L
+      magnetic_direction: 058°
+      rwy_dimensions: 800 x 24
+    - RWY: 24R
+      magnetic_direction: 238°
+      rwy_dimensions: 800 x 24
+  traffic: VFR day/night, parachute jumping operation
+  geocoordinates:
+    - latitude: 49° 02  24  N
+      longitude: 14° 29  42  E
+  elevation_ft: 1621
+  elevation_m: 494
+  frequency: 130,205
+  operating_hours: SAT, SUN, HOL 0700   1400
+  fuel: AVGAS 100LL, BA 98
+```. Got: 1 validation error for Airport
+__root__
+  Airport expected dict not list (type=type_error)
+An error occurred while processing ad-lklb_map_en.pdf: Failed to parse Airport from completion ```yaml
+- icao_code: LKLB
+  name: Liberec
+  full_address: Statutární město Liberec Nám. Dr. E. Beneše 1, 460 59 Liberec 1
+  city: Liberec
+  airport_type: Private international aerodrome
+  runways:
+    - RWY: 16
+      magnetic_direction: 162°
+      rwy_dimensions: 1020 x 50
+    - RWY: 34
+      magnetic_direction: 342°
+      rwy_dimensions: 900 x 50
+  traffic: VFR day, parachute jumping operation
+  geocoordinates:
+    - latitude: 50° 46  06  N
+      longitude: 15° 01  30  E
+  elevation_ft: 1329
+  elevation_m: 405
+  frequency: 122,605
+  operating_hours: NIL
+  fuel: TOTAL AERO D100
+```. Got: 1 validation error for Airport
+__root__
+  Airport expected dict not list (type=type_error)
+An error occurred while processing ad-lkmh_map_en.pdf: Failed to parse Airport from completion ```yaml
+- icao_code: LKMH
+  name: Mnichovo Hradiště
+  full_address: Hoškovice 64, 295 01 Mnichovo Hradiště
+  city: Mnichovo Hradiště
+  airport_type: Public international aerodrome VFR day
+  runways:
+    - RWY: 06
+      magnetic_direction: 062°
+      rwy_dimensions: 1970 x 30
+    - RWY: 24
+      magnetic_direction: 242°
+      rwy_dimensions: 1970 x 30
+    - RWY: 05
+      magnetic_direction: 062°
+      rwy_dimensions: 1000 x 30
+    - RWY: 23
+      magnetic_direction: 242°
+      rwy_dimensions: 1000 x 30
+  traffic: VFR
+  geocoordinates:
+    - latitude: 50° 32  24  N
+      longitude: 15° 00  24  E
+  elevation_ft: 801
+  elevation_m: 244
+  frequency: 120,405
+  operating_hours: 0700 1500 otherwise O/R
+  fuel: 
+    - AVGAS 100LL
+    - JET A1
+  habit: Using disposable water bottles for daily hydration.
+  sustainable_alternative: Switch to a reusable water bottle to reduce plastic waste and decrease your environmental footprint.
+```. Got: 1 validation error for Airport
+__root__
+  Airport expected dict not list (type=type_error)
+An error occurred while processing ad-lkmo_map_en.pdf: Failed to parse Airport from completion ```yaml
+- icao_code: LKMO
+  name: Most
+  full_address: Aeroklub Most, 434 01 Most
+  city: Most
+  airport_type: Public domestic aerodrome
+  runways:
+    - RWY: 02L
+      magnetic_direction: 018°
+      rwy_dimensions: 1130 x 30
+    - RWY: 20R
+      magnetic_direction: 198°
+      rwy_dimensions: 1130 x 30
+    - RWY: 02R
+      magnetic_direction: 018°
+      rwy_dimensions: 1130 x 70
+    - RWY: 20L
+      magnetic_direction: 198°
+      rwy_dimensions: 1130 x 70
+  traffic: VFR day/night, parachute jumping
+  geocoordinates:
+    - latitude: 50° 31  30  N
+      longitude: 13° 40  59  E
+  elevation_ft: 1086
+  elevation_m: 331
+  frequency: 118,760
+  operating_hours: SAT, SUN, HOL 0700   1500
+  fuel: aviation petrol 100 LL
+```. Got: 1 validation error for Airport
+__root__
+  Airport expected dict not list (type=type_error)
+An error occurred while processing ad-lkmt_map_en.pdf: Failed to parse Airport from completion ```yaml
+- icao_code: LKMT
+  name: OSTRAVA/Mošnov
+  full_address: 742 51 Mošnov, č.p. 401
+  city: Ostrava
+  airport_type: Public international aerodrome
+  runways:
+    - RWY: 04
+      magnetic_direction: 041°
+      rwy_dimensions: 11 x 63
+    - RWY: 22
+      magnetic_direction: 221°
+      rwy_dimensions: 11 x 63
+  traffic: IFR, VFR
+  geocoordinates:
+    - latitude: 49° 41  46  N
+      longitude: 18° 06  39  E
+  elevation_ft: 844
+  elevation_m: 257
+  frequency:
+    Mošnov ATIS: 118.055
+    Mošnov VĚŽ/TOWER: 120.805
+    PRAHA RADAR: 119.375
+  operating_hours: H24
+  fuel: Jet A 1, AVGAS 100 LL
+```. Got: 1 validation error for Airport
+__root__
+  Airport expected dict not list (type=type_error)
+An error occurred while processing ad-lkpd_map_en.pdf: Failed to parse Airport from completion ```yaml
+icao_code: LKPD
+name: Pardubice
+full_address: Pražská 179, 530 06 Pardubice 6
+city: Pardubice
+airport_type: Public international aerodrome
+runways:
+  - RWY: "09"
+    magnetic_direction: "089°"
+    rwy_dimensions: "2500 x 75"
+  - RWY: "27"
+    magnetic_direction: "269°"
+    rwy_dimensions: "2500 x 75"
+traffic: IFR, VFRARP
+geocoordinates:
+  - latitude: "50° 00  48  N"
+    longitude: "15° 44  18  E"
+elevation_ft: 741
+elevation_m: 226
+frequency:
+  Pardubice VĚŽ/TOWER: 
+    - 120.155
+    - 120.205
+  Pardubice RADAR: 128.365
+  Pardubice PŘESNÝ/PRECISION: 296.825
+  Altitudes in brackets are for night VFR flights: "123.300"
+operating_hours: MON-SUN 0700-1800 (0600-1700)
+fuel: 
+  - JET A1
+  - AVGAS 100 LL
+```. Got: 2 validation errors for Airport
+frequency -> Pardubice VĚŽ/TOWER
+  str type expected (type=type_error.str)
+frequency
+  str type expected (type=type_error.str)
+An error occurred while processing ad-lkpr_map_en.pdf: Failed to parse Airport from completion ```yaml
+- icao_code: LKPR
+  name: PRAHA/Ruzyně
+  full_address: K Letišti 6/1019, 160 08 Praha 6, Ruzyně
+  city: Prague
+  airport_type: Public international aerodrome
+  runways:
+    - RWY: 06
+      magnetic_direction: 060°
+      rwy_dimensions: 3715 x 45
+    - RWY: 24
+      magnetic_direction: 240°
+      rwy_dimensions: 3715 x 45
+    - RWY: 12
+      magnetic_direction: 122°
+      rwy_dimensions: 3250 x 45
+    - RWY: 30
+      magnetic_direction: 302°
+      rwy_dimensions: 3250 x 45
+  traffic: IFR, VFRARP
+  geocoordinates:
+    - latitude: 50° 06  03  N
+      longitude: 14° 15  36  E
+  elevation_ft: 1234
+  elevation_m: 376
+  frequency:
+    RUZYNĚ ATIS: 122,160
+    RUZYNĚ RADAR/INFORMATION: 118,310
+    PRAHA RADAR/APPROACH: 
+      - 120,530
+      - 127,580
+    RUZYNĚ TOWER: 134,560
+    RUZYNĚ GROUND: 121,910
+    RUZYNĚ DELIVERY: 120,060
+  operating_hours: H 24
+  fuel: 
+    - Turbo Fuel JET A 1
+    - AVGAS 100 LL
+```. Got: 1 validation error for Airport
+__root__
+  Airport expected dict not list (type=type_error)
+An error occurred while processing ad-lkra_map_en.pdf: Failed to parse Airport from completion ```yaml
+icao_code: LKRA
+name: Raná
+full_address: Aeroklub Raná u Loun
+letiště, Hrádek 1, 440 01 Louny
+city: Louny
+airport_type: Public domestic aerodrome VFR day
+runways:
+  - RWY: 23
+    magnetic_direction: 229°
+    rwy_dimensions: 750 x 100
+  - RWY: 05
+    magnetic_direction: 049°
+    rwy_dimensions: 750 x 100
+  - RWY: 11
+    magnetic_direction: 114°
+    rwy_dimensions: 850 x 70
+  - RWY: 29
+    magnetic_direction: 294°
+    rwy_dimensions: 850 x 70
+traffic: Pay increased attention to the paragliding traffic above the hillside of Raná mountain during the approach and departure.
+geocoordinates:
+  - latitude: 50° 24  14  N
+    longitude: 13° 45  07  E
+elevation_ft: 883
+elevation_m: 269
+frequency: 126,855
+operating_hours: SAT, SUN, HOL 0800   1500
+fuel: Aeroshell 100W
+```. Got: while scanning a simple key
+  in "<unicode string>", line 5, column 1:
+    letiště, Hrádek 1, 440 01 Louny
+    ^
+could not find expected ':'
+  in "<unicode string>", line 6, column 1:
+    city: Louny
+    ^
+An error occurred while processing ad-lktb_map_en.pdf: Failed to parse Airport from completion ```yaml
+- icao_code: LKTB
+  name: BRNO/Tuřany
+  full_address: Letiště Brno   Tuřany 904/1, 627 00 Brno
+  city: Brno
+  airport_type: Public international aerodrome
+  runways:
+    - RWY: 09
+      magnetic_direction: 093°
+      rwy_dimensions: 2650 x 60
+    - RWY: 27
+      magnetic_direction: 273°
+      rwy_dimensions: 2650 x 60
+    - RWY: 08
+      magnetic_direction: 093°
+      rwy_dimensions: 800 x 30
+    - RWY: 26
+      magnetic_direction: 273°
+      rwy_dimensions: 800 x 30
+  traffic: IFR, VFR
+  geocoordinates:
+    - latitude: 49° 09  05  N
+      longitude: 16° 41  38  E
+  elevation_ft: 778
+  elevation_m: 237
+  frequency: 
+    Tuřany ATIS: 131,105
+    Tuřany VĚŽ/TOWER: 119,605
+    PRAHA RADAR: 127,350
+    124,050: Altitudes in brackets are for night VFR flights
+  operating_hours: H24
+  fuel: Jet A1, AVGAS 100 LL
+```. Got: 1 validation error for Airport
+__root__
+  Airport expected dict not list (type=type_error)
+An error occurred while processing ad-lktd_map_en.pdf: Failed to parse Airport from completion ```yaml
+- icao_code: LKTD
+  name: Tachov
+  full_address: Kumpolec 3, 347 01 Tachov, ltachov@quick.cz
+  city: Tachov
+  airport_type: Private domestic aerodrome
+  runways:
+    - RWY: 27
+      magnetic_direction: 272°
+      rwy_dimensions: 1100 x 23
+    - RWY: 09
+      magnetic_direction: 092°
+      rwy_dimensions: 1100 x 23
+  traffic: VFR day, parachute jumping operation
+  geocoordinates:
+    - latitude: 49° 47  52  N
+      longitude: 12° 42  25  E
+  elevation_ft: 1639
+  elevation_m: 500
+  frequency: 123,405
+  operating_hours: 0700   1900 (0600   1800).O/R 24 HR in advance, otherwise according to AD operator needs
+  fuel: NIL
+```. Got: 1 validation error for Airport
+__root__
+  Airport expected dict not list (type=type_error)
+An error occurred while processing ad-lkza_map_en.pdf: Failed to parse Airport from completion ```yaml
+- icao_code: LKZA
+  name: Zábřeh
+  full_address: Slezský aeroklub Zábřeh, z.s. P.O. Box 20, 747 22 Dolní Benešov
+  city: Zábřeh
+  airport_type: Public domestic aerodrome VFR day, parachute jumping operation
+  runways:
+    - RWY: 10R
+      magnetic_direction: 097°
+      rwy_dimensions: 900 x 60
+    - RWY: 28L
+      magnetic_direction: 277°
+      rwy_dimensions: 900 x 60
+  traffic: Zábřeh RADIO
+  geocoordinates:
+    - latitude: 49° 55  42  N
+      longitude: 18° 04  42  E
+  elevation_ft: 794
+  elevation_m: 242
+  frequency: 123,605
+  operating_hours: SAT, SUN, HOL 0800  1500
+  fuel: aviation petrol 100 oct.
+```. Got: 1 validation error for Airport
+__root__
+  Airport expected dict not list (type=type_error)

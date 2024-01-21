@@ -1,0 +1,22 @@
+{
+    "operating_fees": [
+        {
+            "type": "Landing fees at airport",
+            "amount": "200,00",
+            "info": "Snow clearance is not provided in the winter season."
+        },
+        {
+            "type": "Parking fees at airport",
+            "amount": "150,00",
+            "info": "Parking area per day"
+        },
+        {
+            "type": "Passenger fees at airport",
+            "amount": "NIL",
+            "info": "Charges for passenger service NIL"
+        }
+    ],
+    "parking_fees": null,
+    "passanger_fees": null,
+    "other_information": "Providing information to known traffic in English language is O/R 48 hours in advance."
+}

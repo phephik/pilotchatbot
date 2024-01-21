@@ -1,0 +1,26 @@
+{
+    "icao_code": "LKOSTR",
+    "name": "Ostrov VFR",
+    "full_address": "Private SLZ field, Ostrov, Czech Republic",
+    "city": "Ostrov",
+    "airport_type": "VFR",
+    "runways": [
+        {
+            "RWY": null,
+            "magnetic_direction": null,
+            "rwy_dimensions": null
+        }
+    ],
+    "traffic": "RADIO 125,830",
+    "geocoordinates": [
+        {
+            "latitude": "50\u00b0 20  12  N",
+            "longitude": "12\u00b0 58  11  E"
+        }
+    ],
+    "elevation_ft": 1676,
+    "elevation_m": 511,
+    "frequency": "Group frequencyARP",
+    "operating_hours": "Year round",
+    "fuel": "NIL"
+}

@@ -1,0 +1,29 @@
+{
+    "icao_code": "LKRAMS",
+    "name": "Ram\u0161 VFR SLZ",
+    "full_address": "Aviatik Klub \u010cesk\u00e1 L\u00edpa leti\u0161t\u011b Ram\u0161, Dobranov 17, 471 21 \u010cesk\u00e1 L\u00edpa",
+    "city": "Czech Republic",
+    "airport_type": "Private SLZ field",
+    "runways": [
+        {
+            "RWY": null,
+            "magnetic_direction": null,
+            "rwy_dimensions": null
+        }
+    ],
+    "traffic": "NIL",
+    "geocoordinates": [
+        {
+            "latitude": "50\u00b0 38  30  N",
+            "longitude": "14\u00b0 32  29  E"
+        }
+    ],
+    "elevation_ft": 984,
+    "elevation_m": 300,
+    "frequency": {
+        "ARP": "125,830",
+        "RAM\u0160 RADIO": "125,830"
+    },
+    "operating_hours": "Year round",
+    "fuel": "NIL"
+}

@@ -1,0 +1,31 @@
+{
+    "icao_code": "LKCDUB",
+    "name": "\u010cesk\u00fd Dub VFR SLZ",
+    "full_address": "DUB RADIO 125,830",
+    "city": "\u010cesk\u00fd Dub",
+    "airport_type": "Private SLZ field",
+    "runways": [
+        {
+            "RWY": "17",
+            "magnetic_direction": "170\u00b0",
+            "rwy_dimensions": "1000m x 30m"
+        },
+        {
+            "RWY": "35",
+            "magnetic_direction": "350\u00b0",
+            "rwy_dimensions": "1000m x 30m"
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "50\u00b0 40' 41\" N",
+            "longitude": "14\u00b0 59' 59\" E"
+        }
+    ],
+    "elevation_ft": 1303,
+    "elevation_m": 397,
+    "frequency": "DUB RADIO 125,830",
+    "operating_hours": "Year round",
+    "fuel": "NIL"
+}

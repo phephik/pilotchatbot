@@ -1,0 +1,58 @@
+{
+    "icao_code": "LKBE",
+    "name": "Bene\u0161ov VFR AD",
+    "full_address": "Leti\u0161t\u011b Bene\u0161ov, p\u0159. org. m\u011bsta Byst\u0159ice, Nesva\u010dily 0145, 257 51 Byst\u0159ice",
+    "city": "Bene\u0161ov",
+    "airport_type": "Public domestic aerodrome / Private international aerodrome VFR day/night",
+    "runways": [
+        {
+            "RWY": "6",
+            "magnetic_direction": "060\u00b0",
+            "rwy_dimensions": "720 x 23"
+        },
+        {
+            "RWY": "24",
+            "magnetic_direction": "240\u00b0",
+            "rwy_dimensions": "720 x 23"
+        },
+        {
+            "RWY": "09R",
+            "magnetic_direction": "087\u00b0",
+            "rwy_dimensions": "750 x 18"
+        },
+        {
+            "RWY": "27L",
+            "magnetic_direction": "267\u00b0",
+            "rwy_dimensions": "750 x 18"
+        },
+        {
+            "RWY": "09L",
+            "magnetic_direction": "087\u00b0",
+            "rwy_dimensions": "750 x 40"
+        },
+        {
+            "RWY": "27R",
+            "magnetic_direction": "267\u00b0",
+            "rwy_dimensions": "750 x 40"
+        }
+    ],
+    "traffic": "In Aerodrome Traffic Zone (ATZ) avoid flying in a distance less than 300 m from villages or fly in MNM altitude 2 953 ft / 900 m AMSL.",
+    "geocoordinates": [
+        {
+            "latitude": "49\u00b0 44  27  N",
+            "longitude": "14\u00b0 38  41  E"
+        }
+    ],
+    "elevation_ft": 1322,
+    "elevation_m": 403,
+    "frequency": "118,005",
+    "operating_hours": "0800-1500 (1 APR - 31 OCT), 0900-1300 (1 NOV - 15 DEC), 0900-1300 (6 JAN - 31 MAR), otherwise O/R 24 HR in advance",
+    "fuel": [
+        "aviation petrol AVGAS 91 UL",
+        "AVGAS 100LL",
+        "TOTAL D100",
+        "TOTAL 15W50",
+        "AEROSHELL 15W50",
+        "AEROSHELL sport plus"
+    ]
+}

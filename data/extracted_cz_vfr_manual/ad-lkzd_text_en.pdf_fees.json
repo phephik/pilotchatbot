@@ -1,0 +1,17 @@
+{
+    "operating_fees": [
+        {
+            "type": "Ultralight aircraft",
+            "amount": "50,00",
+            "info": null
+        },
+        {
+            "type": "Aircraft",
+            "amount": "150,00",
+            "info": null
+        }
+    ],
+    "parking_fees": [],
+    "passanger_fees": [],
+    "other_information": "Communication in the Czech language only."
+}

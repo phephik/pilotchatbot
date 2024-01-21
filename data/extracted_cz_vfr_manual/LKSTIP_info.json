@@ -1,0 +1,26 @@
+{
+    "icao_code": "LKSTIP",
+    "name": "Zl\u00edn \u0160t\u00edpa",
+    "full_address": "Z\u00e1le\u0161n\u00e1 V/1307, 760 01 Zl\u00edn, Czech Republic",
+    "city": "Zl\u00edn",
+    "airport_type": "Private",
+    "runways": [
+        {
+            "RWY": "VFR",
+            "magnetic_direction": "SLZ",
+            "rwy_dimensions": "VOC"
+        }
+    ],
+    "traffic": "VFR Manual",
+    "geocoordinates": [
+        {
+            "latitude": "49\u00b0 16 22 N",
+            "longitude": "17\u00b0 44 47 E"
+        }
+    ],
+    "elevation_ft": 1102,
+    "elevation_m": 336,
+    "frequency": "\u0160T\u00cdPA RADIO 122,805",
+    "operating_hours": "Year round",
+    "fuel": "NIL"
+}

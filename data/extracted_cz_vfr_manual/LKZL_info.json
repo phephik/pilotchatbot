@@ -1,0 +1,41 @@
+{
+    "icao_code": "LKZL",
+    "name": "Zl\u00edn",
+    "full_address": "Je\u010dn\u00e1 550/1, Nov\u00e9 M\u011bsto, 120 00 Praha 2",
+    "city": "Zl\u00edn",
+    "airport_type": "Private domestic aerodrome VFR day",
+    "runways": [
+        {
+            "RWY": "17L",
+            "magnetic_direction": "167\u00b0",
+            "rwy_dimensions": "650 x 25"
+        },
+        {
+            "RWY": "35R",
+            "magnetic_direction": "347\u00b0",
+            "rwy_dimensions": "650 x 25"
+        },
+        {
+            "RWY": "17R",
+            "magnetic_direction": "167\u00b0",
+            "rwy_dimensions": "600 x 40"
+        },
+        {
+            "RWY": "35L",
+            "magnetic_direction": "347\u00b0",
+            "rwy_dimensions": "600 x 40"
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "49\u00b0 11  54  N",
+            "longitude": "17\u00b0 31  04  E"
+        }
+    ],
+    "elevation_ft": 604,
+    "elevation_m": 184,
+    "frequency": "118,755",
+    "operating_hours": "2000",
+    "fuel": "NIL"
+}

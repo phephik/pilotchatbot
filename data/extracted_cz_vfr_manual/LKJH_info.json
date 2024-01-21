@@ -1,0 +1,44 @@
+{
+    "icao_code": "LKJH",
+    "name": "Jind\u0159ich\u016fv Hradec",
+    "full_address": "Leti\u0161t\u011b 744/II, 377 01 Jind\u0159ich\u016fv Hradec",
+    "city": "Jind\u0159ich\u016fv Hradec",
+    "airport_type": "Public domestic aerodrome VFR day, parachute jumping operation",
+    "runways": [
+        {
+            "RWY": "07L",
+            "magnetic_direction": "068\u00b0",
+            "rwy_dimensions": "693 x 22"
+        },
+        {
+            "RWY": "25R",
+            "magnetic_direction": "248\u00b0",
+            "rwy_dimensions": "693 x 22"
+        },
+        {
+            "RWY": "07R",
+            "magnetic_direction": "068\u00b0",
+            "rwy_dimensions": "770 x 22"
+        },
+        {
+            "RWY": "25L",
+            "magnetic_direction": "248\u00b0",
+            "rwy_dimensions": "770 x 22"
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "49\u00b0 09  03  N",
+            "longitude": "14\u00b0 58  18  E"
+        }
+    ],
+    "elevation_ft": 1683,
+    "elevation_m": 513,
+    "frequency": "123,605",
+    "operating_hours": "SAT, SUN, HOL 0700 1500",
+    "fuel": [
+        "AVGAS 100",
+        "Natural 95"
+    ]
+}

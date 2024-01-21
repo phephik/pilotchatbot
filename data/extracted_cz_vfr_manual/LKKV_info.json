@@ -1,0 +1,47 @@
+{
+    "icao_code": "LKKV",
+    "name": "Karlovy Vary",
+    "full_address": "K Leti\u0161ti 132, 360 01 Karlovy Vary",
+    "city": "Karlovy Vary",
+    "airport_type": "Public international aerodrome",
+    "runways": [
+        {
+            "RWY": "29",
+            "magnetic_direction": "289\u00b0",
+            "rwy_dimensions": "2150 x 30"
+        },
+        {
+            "RWY": "11",
+            "magnetic_direction": "109\u00b0",
+            "rwy_dimensions": "2150 x 30"
+        },
+        {
+            "RWY": "30",
+            "magnetic_direction": "289\u00b0",
+            "rwy_dimensions": "800 x 18"
+        },
+        {
+            "RWY": "12",
+            "magnetic_direction": "109\u00b0",
+            "rwy_dimensions": "800 x 18"
+        }
+    ],
+    "traffic": "IFR, VFR",
+    "geocoordinates": [
+        {
+            "latitude": "50\u00b0 12  11  N",
+            "longitude": "12\u00b0 54  54  E"
+        }
+    ],
+    "elevation_ft": 1989,
+    "elevation_m": 606,
+    "frequency": {
+        "Vary V\u011a\u017d/TOWER": "121,230",
+        "PRAHA RADAR": "118,650"
+    },
+    "operating_hours": "MON   SUN (0600   1700) (UTC)",
+    "fuel": [
+        "JET A1",
+        "AVGAS 100 LL"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "icao_code": "LKPS",
+    "name": "Plasy",
+    "full_address": "leti\u0161t\u011b, 331 01 Plasy",
+    "city": "Plasy",
+    "airport_type": "Public domestic aerodrome",
+    "runways": [
+        {
+            "RWY": "3",
+            "magnetic_direction": "034\u00b0",
+            "rwy_dimensions": "840 x 100"
+        },
+        {
+            "RWY": "21",
+            "magnetic_direction": "214\u00b0",
+            "rwy_dimensions": "840 x 100"
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "49\u00b0 55  13  N",
+            "longitude": "13\u00b0 22  37  E"
+        }
+    ],
+    "elevation_ft": 1434,
+    "elevation_m": 437,
+    "frequency": "123,590",
+    "operating_hours": "SAT, SUN, HOL 0700   1400",
+    "fuel": [
+        "AVGAS 100LL",
+        "NATURAL 95"
+    ]
+}

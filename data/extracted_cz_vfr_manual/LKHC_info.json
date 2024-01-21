@@ -1,0 +1,31 @@
+{
+    "icao_code": "LKHC",
+    "name": "Ho\u0159ice",
+    "full_address": "Aeroklub Ho\u0159ice v Podkrkono\u0161\u00ed, z.s. leti\u0161t\u011b Ho\u0159ice, Holovousy 117, 508 01 Ho\u0159ice",
+    "city": "Ho\u0159ice",
+    "airport_type": "Public domestic aerodrome VFR day",
+    "runways": [
+        {
+            "RWY": "12",
+            "magnetic_direction": "125\u00b0",
+            "rwy_dimensions": "740 x 23"
+        },
+        {
+            "RWY": "30",
+            "magnetic_direction": "305\u00b0",
+            "rwy_dimensions": "740 x 23"
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "50\u00b0 21  24  N",
+            "longitude": "15\u00b0 34  38  E"
+        }
+    ],
+    "elevation_ft": 917,
+    "elevation_m": 280,
+    "frequency": "120,315",
+    "operating_hours": "SAT, SUN, HOL 0700   1400",
+    "fuel": "Natural 98"
+}

@@ -1,0 +1,35 @@
+{
+    "icao_code": "LKKR",
+    "name": "Krnov",
+    "full_address": "P.O. Box 57, 794 00 Krnov",
+    "city": "Krnov",
+    "airport_type": "Public domestic aerodrome",
+    "runways": [
+        {
+            "RWY": "12",
+            "magnetic_direction": "117\u00b0",
+            "rwy_dimensions": "756 x 18"
+        },
+        {
+            "RWY": "30",
+            "magnetic_direction": "297\u00b0",
+            "rwy_dimensions": "756 x 18"
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "50\u00b0 04  28  N",
+            "longitude": "17\u00b0 41  43  E"
+        }
+    ],
+    "elevation_ft": 1204,
+    "elevation_m": 367,
+    "frequency": "122,610",
+    "operating_hours": "SAT, SUN, HOL 0700 1400",
+    "fuel": [
+        "AVGAS 100",
+        "TOTAL AERO D 100",
+        "TOTAL 15W50"
+    ]
+}

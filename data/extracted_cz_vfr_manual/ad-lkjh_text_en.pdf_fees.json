@@ -1,0 +1,28 @@
+{
+    "operating_fees": [
+        {
+            "type": "SLZ up to 600 kg MTOW",
+            "amount": "50,00 CZK / 2,00 EUR",
+            "info": "Aircraft up to 1 tonne of MTOW"
+        },
+        {
+            "type": "Aircraft up to 1 tonne of MTOW",
+            "amount": "100,00 CZK / 4,00 EUR",
+            "info": "Rate per each additional initiated tonne MTOW"
+        }
+    ],
+    "parking_fees": [
+        {
+            "type": "Apron and parking area (price per night)",
+            "amount": "100,00 CZK / 4,00 EUR",
+            "info": null
+        },
+        {
+            "type": "Hangar area (price per night)",
+            "amount": "250,00 CZK / 10,00 EUR",
+            "info": null
+        }
+    ],
+    "passanger_fees": [],
+    "other_information": "Aborted approach same charges as in Art. 3.1 Chapter end"
+}

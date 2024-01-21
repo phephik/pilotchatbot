@@ -1,0 +1,31 @@
+{
+    "icao_code": "LKSR",
+    "name": "Strunkovice",
+    "full_address": "Strunkovice nad Blanic\u00ed 278, 384 26 Strunkovice nad Blanic\u00ed",
+    "city": "Strunkovice nad Blanic\u00ed",
+    "airport_type": "Public domestic aerodrome VFR day, parachute jumping operation",
+    "runways": [
+        {
+            "RWY": "15",
+            "magnetic_direction": "152\u00b0",
+            "rwy_dimensions": "900 x 23"
+        },
+        {
+            "RWY": "33",
+            "magnetic_direction": "332\u00b0",
+            "rwy_dimensions": "900 x 23"
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "49\u00b0 04  57  N",
+            "longitude": "14\u00b0 04  33  E"
+        }
+    ],
+    "elevation_ft": 1565,
+    "elevation_m": 477,
+    "frequency": "123,505",
+    "operating_hours": "SAT, SUN 0600 1600",
+    "fuel": "NATURAL BA 95"
+}

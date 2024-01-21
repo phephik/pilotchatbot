@@ -1,0 +1,33 @@
+{
+    "icao_code": "LKKRIZ",
+    "name": "K\u0159\u00ed\u017eenec VFR SLZ",
+    "full_address": "Private SLZ fieldK\u0158\u00cd\u017dENEC",
+    "city": "Plan\u00e1",
+    "airport_type": "VFR",
+    "runways": [
+        {
+            "RWY": "26",
+            "magnetic_direction": "2076 ft / 633 m",
+            "rwy_dimensions": "Forest located 1 km E of THR RWY 26. Plan\u00e1 village located 1,5 km W of THR RWY 08. After take off from RWY 26, yaw left to avoid Plan\u00e1 village. ATZ Tachov located SW of SLZ field K\u0159\u00ed\u017eenec. Taxiing is carried out on the RWY."
+        },
+        {
+            "RWY": "08",
+            "magnetic_direction": "2076 ft / 633 m",
+            "rwy_dimensions": "Forest located 1 km E of THR RWY 26. Plan\u00e1 village located 1,5 km W of THR RWY 08. After take off from RWY 26, yaw left to avoid Plan\u00e1 village. ATZ Tachov located SW of SLZ field K\u0159\u00ed\u017eenec. Taxiing is carried out on the RWY."
+        }
+    ],
+    "traffic": "NIL",
+    "geocoordinates": [
+        {
+            "latitude": "49\u00b0 52  15  N",
+            "longitude": "12\u00b0 46  26  E"
+        }
+    ],
+    "elevation_ft": 2076,
+    "elevation_m": 633,
+    "frequency": {
+        "ARP": "49\u00b0 52  15  N, 12\u00b0 46  26  E"
+    },
+    "operating_hours": "Year round",
+    "fuel": "NIL"
+}

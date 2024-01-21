@@ -1,0 +1,24 @@
+{
+    "operating_fees": [
+        {
+            "type": "Landing charges",
+            "amount": "40,00",
+            "info": "Per tonne of MTOW"
+        }
+    ],
+    "parking_fees": [
+        {
+            "type": "Parking charges",
+            "amount": "each additional hour 2,00",
+            "info": "first 2 hours free of charge"
+        }
+    ],
+    "passanger_fees": [
+        {
+            "type": "Charges for passenger service",
+            "amount": "NIL",
+            "info": null
+        }
+    ],
+    "other_information": "Snow clearance is not provided. RWYs are unserviceable after prolonged rains. The traffic circuits RWY 14 left RWY 32 right The traffic circuit altitude is 2330 ft/710 m AMSL. There is an telecommunication mast between crosswind turn and downwind turn for RWY 14L. Height 47 m AGL, coordination 50 33 34,42 N 016 22 00,42. Asphalt strip, which is part of airfield, is unusable. Outside operational hours arivals/departures to/from LKBR are allowed by prior agreement with the aerodrome operator only (check of movement area serviceability). Arrival/departure of an aircraft with length greater or equal than 9 m or with maximum fuselage width greater than 2 m is permitted only by prior agreement with the aerodrome operator (to arrange rescue and firefighting services)."
+}

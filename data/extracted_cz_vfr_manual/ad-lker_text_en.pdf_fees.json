@@ -1,0 +1,23 @@
+{
+    "operating_fees": [
+        {
+            "type": "Ultralight aircraft",
+            "amount": "50,00",
+            "info": null
+        },
+        {
+            "type": "Other aircraft",
+            "amount": "100,00",
+            "info": null
+        }
+    ],
+    "parking_fees": [
+        {
+            "type": "Hangar",
+            "amount": "100,00",
+            "info": null
+        }
+    ],
+    "passanger_fees": [],
+    "other_information": "Providing information to known traffic SAT, SUN, HOL 0800 1600, otherwise O/R."
+}

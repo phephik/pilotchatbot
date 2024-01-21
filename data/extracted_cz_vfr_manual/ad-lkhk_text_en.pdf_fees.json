@@ -1,0 +1,44 @@
+{
+    "operating_fees": [
+        {
+            "type": "Landing fees",
+            "amount": "140,00",
+            "info": "Hradec Kr\u00e1lov\u00e9 VFR AD LKHK TEXT"
+        },
+        {
+            "type": "Landing fees",
+            "amount": "270,00",
+            "info": "Hradec Kr\u00e1lov\u00e9 VFR AD LKHK TEXT"
+        },
+        {
+            "type": "Landing fees",
+            "amount": "270,00",
+            "info": "Hradec Kr\u00e1lov\u00e9 VFR AD LKHK TEXT"
+        }
+    ],
+    "parking_fees": [
+        {
+            "type": "Parking area",
+            "amount": "300,00",
+            "info": "Hradec Kr\u00e1lov\u00e9 VFR AD LKHK TEXT"
+        },
+        {
+            "type": "Parking area",
+            "amount": "250,00",
+            "info": "Hradec Kr\u00e1lov\u00e9 VFR AD LKHK TEXT"
+        }
+    ],
+    "passanger_fees": [
+        {
+            "type": "Custom and immigration clearance of passengers and flight crew for flights outside EU and Schengen area (physical check of crew, passengers and baggage) per person",
+            "amount": "250,00",
+            "info": "Hradec Kr\u00e1lov\u00e9 VFR AD LKHK TEXT"
+        },
+        {
+            "type": "Security clearance of the crew and passengers (physical check of crew, passengers and baggage) per person",
+            "amount": "300,00",
+            "info": "Hradec Kr\u00e1lov\u00e9 VFR AD LKHK TEXT"
+        }
+    ],
+    "other_information": "Charges are charged according to the rules stated in the applications. Increasing AD fire category (see L14, ch. 9) CAT 3 4 First hour (presence 30 min prior to planned departure/arrival) 2000,00 Each following initiated half hour 1500,00 CAT 5 7 First hour (presence 30 min prior to planned departure/arrival) 5000,00 Each following initiated half hour 3000,00 Chapter end"
+}

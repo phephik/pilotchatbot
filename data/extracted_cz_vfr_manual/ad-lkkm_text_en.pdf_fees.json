@@ -1,0 +1,24 @@
+{
+    "operating_fees": [
+        {
+            "type": "Landing",
+            "amount": "150,00",
+            "info": null
+        }
+    ],
+    "parking_fees": [
+        {
+            "type": "Parking",
+            "amount": "50,00",
+            "info": null
+        }
+    ],
+    "passanger_fees": [
+        {
+            "type": "Passenger",
+            "amount": null,
+            "info": "NIL"
+        }
+    ],
+    "other_information": "Snow clearance is not provided. RWYs can be unserviceable after prolonged rains. Traffic circuits RWY 02 right hand traffic circuits RWY 20 left hand traffic circuits. The traffic circuit altitude is 1600 ft / 488 m AMSL. After take off from RWY 02 slightly turn right to heading 045\u00b0 out of town estate Doln\u00ed Zahrady in a safety height. The road in the vicinity of THR RWY 20 shall be overflown due to safety at least 15 m from the lowest part of the aircraft or towed object. Service Providing information to known traffic in Czech language only. On working days it is recomended to call telephone numbers of head of air traffic or chairman of aeroclub, see contacts. All arrivals are possible only after telephone agreement with head of air traffic of Aeroclub Kromeriz. Arrival/departure of an aircraft with total length greater than or equal to 9 m or with maximum fuselage width greater than 2 m is permitted only by prior agreement with the aerodrome operator (to arrange rescue and firefighting services)."
+}

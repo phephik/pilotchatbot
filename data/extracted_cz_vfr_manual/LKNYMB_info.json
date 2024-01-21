@@ -1,0 +1,26 @@
+{
+    "icao_code": "LKNYMB",
+    "name": "Nymburk VFR SLZ",
+    "full_address": "Private SLZ field, NYMBURK, Czech Republic",
+    "city": "Nymburk",
+    "airport_type": "VFR",
+    "runways": [
+        {
+            "RWY": "09",
+            "magnetic_direction": "50\u00b0 10  09  N, 15\u00b0 03  08  E",
+            "rwy_dimensions": "ELEV   610 ft / 186 m"
+        }
+    ],
+    "traffic": "RADIO 123,465 ARP",
+    "geocoordinates": [
+        {
+            "latitude": "50\u00b0 10  09  N",
+            "longitude": "15\u00b0 03  08  E"
+        }
+    ],
+    "elevation_ft": 610,
+    "elevation_m": 186,
+    "frequency": "123,465",
+    "operating_hours": "Year round",
+    "fuel": "BA95"
+}

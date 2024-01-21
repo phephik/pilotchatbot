@@ -1,0 +1,28 @@
+{
+    "icao_code": "LKHATH",
+    "name": "Ha\u0165 u Hlu\u010d\u00edna",
+    "full_address": "L\u00edpov\u00e1 217, 747 16 Ha\u0165",
+    "city": "Hlu\u010d\u00edn",
+    "airport_type": "Private",
+    "runways": [
+        {
+            "RWY": "16/34",
+            "magnetic_direction": "160/340",
+            "rwy_dimensions": "800 x 30 m"
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "49\u00b0 57' 00'' N",
+            "longitude": "18\u00b0 15' 53'' E"
+        }
+    ],
+    "elevation_ft": 774,
+    "elevation_m": 236,
+    "frequency": {
+        "HA\u0164 RADIO": "125.830"
+    },
+    "operating_hours": "Year round",
+    "fuel": "NIL"
+}

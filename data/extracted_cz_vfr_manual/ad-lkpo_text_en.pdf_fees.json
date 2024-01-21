@@ -1,0 +1,63 @@
+{
+    "operating_fees": [
+        {
+            "type": "Ultralight aircraft",
+            "amount": "100,00",
+            "info": "One time charge is a charge for 1 landing at LKPO (applies to concrete and grass). The charge depends on the type and the tonnage of an aircraft."
+        },
+        {
+            "type": "Aircraft up to MTOW 1 t",
+            "amount": "150,00",
+            "info": "One time charge is a charge for 1 landing at LKPO (applies to concrete and grass). The charge depends on the type and the tonnage of an aircraft."
+        },
+        {
+            "type": "Aircraft up to MTOW 2 t",
+            "amount": "250,00",
+            "info": "One time charge is a charge for 1 landing at LKPO (applies to concrete and grass). The charge depends on the type and the tonnage of an aircraft."
+        },
+        {
+            "type": "Aircraft over MTOW 2 t (per each initiated tonne of MTOW)",
+            "amount": "200,00",
+            "info": "One time charge is a charge for 1 landing at LKPO (applies to concrete and grass). The charge depends on the type and the tonnage of an aircraft."
+        },
+        {
+            "type": "Helicopter on heliport (H1 3) up to MTOW 1 t",
+            "amount": "200,00",
+            "info": "One time charge is a charge for 1 landing at LKPO (applies to concrete and grass). The charge depends on the type and the tonnage of an aircraft."
+        },
+        {
+            "type": "Helicopter on heliport (H1 3) up to MTOW 2 t",
+            "amount": "400,00",
+            "info": "One time charge is a charge for 1 landing at LKPO (applies to concrete and grass). The charge depends on the type and the tonnage of an aircraft."
+        },
+        {
+            "type": "Helicopter on heliport (H1 3) over MTOW 2 t (per each initiated tonne of MTOW)",
+            "amount": "400,00",
+            "info": "One time charge is a charge for 1 landing at LKPO (applies to concrete and grass). The charge depends on the type and the tonnage of an aircraft."
+        }
+    ],
+    "parking_fees": [
+        {
+            "type": "Parking of aircraft up to MTOW 2 t per each day (first two hours free)",
+            "amount": "720,00",
+            "info": "The aforementioned charges for parking on APRON are valid only for parking up to 3 days. The price of long term parking will be determined based on contract."
+        },
+        {
+            "type": "Parking of aircraft over MTOW 2 t per each day (first two hours free)",
+            "amount": "1500,00",
+            "info": "The aforementioned charges for parking on APRON are valid only for parking up to 3 days. The price of long term parking will be determined based on contract."
+        },
+        {
+            "type": "Parking of aircraft in hangar up to MTOW 2 t per each day",
+            "amount": "1200,00",
+            "info": "The aforementioned charges for parking on APRON are valid only for parking up to 3 days. The price of long term parking will be determined based on contract."
+        },
+        {
+            "type": "Parking of aircraft in hangar over MTOW 2 t per each day",
+            "amount": "2400,00",
+            "info": "The aforementioned charges for parking on APRON are valid only for parking up to 3 days. The price of long term parking will be determined based on contract."
+        }
+    ],
+    "passanger_fees": [],
+    "other_information": "Providing information to known traffic in Czech and English language. Handling on request."
+}

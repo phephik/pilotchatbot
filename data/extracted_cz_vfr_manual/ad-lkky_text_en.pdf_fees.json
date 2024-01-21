@@ -1,0 +1,24 @@
+{
+    "operating_fees": [
+        {
+            "type": "Landing fees",
+            "amount": "50,00",
+            "info": "Per tonne of MTOW"
+        }
+    ],
+    "parking_fees": [
+        {
+            "type": "Parking fees",
+            "amount": "Per each additional initiated 24 hours",
+            "info": "100,00 First six hours free of charge"
+        }
+    ],
+    "passanger_fees": [
+        {
+            "type": "Passenger fees",
+            "amount": "NIL",
+            "info": null
+        }
+    ],
+    "other_information": "Arrival/departure of an aircraft with total length greater than or equal to 9 m or with maximum fuselage width greater than 2 m is permitted only by prior agreement with the aerodrome operator (to arrange rescue and firefighting services). Providing information to known traffic in English language O/R 48 HR in advance."
+}

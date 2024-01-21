@@ -1,0 +1,31 @@
+{
+    "icao_code": "LKCE",
+    "name": "\u010cesk\u00e1 L\u00edpa VFR AD",
+    "full_address": "Aeroklub \u010cesk\u00e1 L\u00edpa z.s. leti\u0161t\u011b Lada, P.O.Box 28, 470 01 \u010cesk\u00e1 L\u00edpa",
+    "city": "\u010cesk\u00e1 L\u00edpa",
+    "airport_type": "Public domestic aerodrome VFR day, parachute jumping operation",
+    "runways": [
+        {
+            "RWY": "31",
+            "magnetic_direction": "309\u00b0",
+            "rwy_dimensions": "700 x 40"
+        },
+        {
+            "RWY": "13",
+            "magnetic_direction": "129\u00b0",
+            "rwy_dimensions": "700 x 40"
+        }
+    ],
+    "traffic": "Providing information to known traffic",
+    "geocoordinates": [
+        {
+            "latitude": "50\u00b0 42  34  N",
+            "longitude": "14\u00b0 34  00  E"
+        }
+    ],
+    "elevation_ft": 929,
+    "elevation_m": 283,
+    "frequency": "L\u00edpa RADIO 122,140ARP",
+    "operating_hours": "SAT, SUN, HOL 0800 1600, otherwise O/R",
+    "fuel": "O/R, limited"
+}

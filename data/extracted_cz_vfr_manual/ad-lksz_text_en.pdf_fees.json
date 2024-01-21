@@ -1,0 +1,24 @@
+{
+    "operating_fees": [
+        {
+            "type": "Landing",
+            "amount": "100,00",
+            "info": "Per tonne of MTOW"
+        }
+    ],
+    "parking_fees": [
+        {
+            "type": "Parking",
+            "amount": "100,00",
+            "info": "Per day and tonne of MTOW"
+        }
+    ],
+    "passanger_fees": [
+        {
+            "type": "Passenger",
+            "amount": "NIL",
+            "info": null
+        }
+    ],
+    "other_information": "Snow clearance is not provided in the winter season. AD is located under TMA Vodochody. In operational hours of AD PRAHA/Vodochody MAX altitude in ATZ LKSZ without co ordination is 2000 ft AMSL. Arrivals and departures shall be carried out with regard to the vicinity of CTR Vodochody. The traffic circuits shall be flown to the east unless unit Providing information to known traffic determines otherwise. The traffic circuit altitude is 1600 ft / 488 m AMSL. By reason of noise abatement the arrivals, departure and traffic circuits of aeroplanes (including sporting flying equipment) have to be carried out to avoid villages Sazen\u00e1, Louck\u00e1 and Led\u010dice. Arrival without two way radio contact is possible only after previous arrangement with the aerodrome operator. Training flights along a traffic circuit are prohibited for extraneous operators without previous arrangement. Providing information to known traffic in English language O/R 24 HR in advance. Outside operational hours arrivals and departures are allowed only after previous consultation with the aerodrome operator (checking of manoeuvering areas serviceability). Usage of AD for VFR night is possible only after previous agreement with AD operator and after checking of AD serviceability, lighting system and after familiarization with the local traffic conditions. RWY 15L/33R is equipped for night traffic operation by runway edge lights. Usage on request. Arrival/departure of aircraft with total length of fuselage more than or equal to 9 m or maximum width of fuselage more than 2 m is permitted only after previous agreement with AD operator (arranging of rescue and firefighting service)."
+}

@@ -1,0 +1,31 @@
+{
+    "icao_code": "LKUL",
+    "name": "\u00dast\u00ed nad Labem",
+    "full_address": "Podho\u0159\u00ed 364/36, 400 10 \u00dast\u00ed nad Labem",
+    "city": "\u00dast\u00ed nad Labem",
+    "airport_type": "Private domestic aerodrome VFR day",
+    "runways": [
+        {
+            "RWY": "5",
+            "magnetic_direction": "051\u00b0",
+            "rwy_dimensions": "780 x 18"
+        },
+        {
+            "RWY": "23",
+            "magnetic_direction": "231\u00b0",
+            "rwy_dimensions": "780 x 18"
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "50\u00b0 41  59  N",
+            "longitude": "13\u00b0 58  11  E"
+        }
+    ],
+    "elevation_ft": 787,
+    "elevation_m": 240,
+    "frequency": "123,405",
+    "operating_hours": "NIL",
+    "fuel": "Unleaded automotive petrol BA 95."
+}

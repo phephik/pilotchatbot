@@ -1,0 +1,43 @@
+{
+    "operating_fees": [
+        {
+            "type": "Ultralight aircraft",
+            "amount": "50,00",
+            "info": "The rates are with the value added tax."
+        },
+        {
+            "type": "Aircraft up to 1 t of MTOW (including)",
+            "amount": "75,00 (150,00)",
+            "info": "The rates in brackets are valid for the period 1 NOV 31 MAR."
+        },
+        {
+            "type": "Aircraft up to 2 t of MTOW (including)",
+            "amount": "150,00 (300,00)",
+            "info": "The rates in brackets are valid for the period 1 NOV 31 MAR."
+        },
+        {
+            "type": "Aircraft over 2 t of MTOW (per each initiated tonne of MTOW)",
+            "amount": "100,00",
+            "info": "The rates are with the value added tax."
+        }
+    ],
+    "parking_fees": [
+        {
+            "type": "Aircraft up to 2 t (per day)",
+            "amount": "100,00",
+            "info": "First three hours free of charge"
+        },
+        {
+            "type": "Aircraft over 2 t (per day)",
+            "amount": "200,00",
+            "info": null
+        },
+        {
+            "type": null,
+            "amount": null,
+            "info": "Charge for dispatching international flight (per aircraft) 300,00"
+        }
+    ],
+    "passanger_fees": null,
+    "other_information": null
+}

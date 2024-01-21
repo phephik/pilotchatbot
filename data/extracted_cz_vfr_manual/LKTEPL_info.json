@@ -1,0 +1,26 @@
+{
+    "icao_code": "LKTEPL",
+    "name": "Teplice",
+    "full_address": "Straky 1, 411 71 Zabru\u0161any",
+    "city": "Teplice",
+    "airport_type": "Public SLZ field",
+    "runways": [
+        {
+            "RWY": null,
+            "magnetic_direction": null,
+            "rwy_dimensions": null
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "50\u00b0 37  15  N",
+            "longitude": "13\u00b0 48  38  E"
+        }
+    ],
+    "elevation_ft": 1148,
+    "elevation_m": 350,
+    "frequency": "122,410",
+    "operating_hours": "Year round",
+    "fuel": "NIL"
+}

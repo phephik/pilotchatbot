@@ -1,0 +1,28 @@
+{
+    "icao_code": "LKHLAS",
+    "name": "Hl\u00e1ska",
+    "full_address": "Hl\u00e1ska 9, 384 11 Ol\u0161ovice",
+    "city": "Ol\u0161ovice",
+    "airport_type": "Private",
+    "runways": [
+        {
+            "RWY": null,
+            "magnetic_direction": null,
+            "rwy_dimensions": null
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "49\u00b0 04  01  N",
+            "longitude": "14\u00b0 14  29  E"
+        }
+    ],
+    "elevation_ft": 1430,
+    "elevation_m": 436,
+    "frequency": {
+        "ARP": "125,830"
+    },
+    "operating_hours": "Year round",
+    "fuel": "NIL"
+}

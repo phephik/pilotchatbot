@@ -1,0 +1,26 @@
+{
+    "icao_code": "KRAMOL\u00cdN",
+    "name": "Kramol\u00edn",
+    "full_address": "T\u0159eb\u00edzsk\u00e9ho 976/21, 370 06 \u010cesk\u00e9 Bud\u011bjovice",
+    "city": "Czech Republic",
+    "airport_type": "Public SLZ field",
+    "runways": [
+        {
+            "RWY": "VFR",
+            "magnetic_direction": "122,405 ARP",
+            "rwy_dimensions": "48\u00b0 54  54  N, 14\u00b0 43  35  E"
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "48\u00b0 54  54  N",
+            "longitude": "14\u00b0 43  35  E"
+        }
+    ],
+    "elevation_ft": 1650,
+    "elevation_m": 503,
+    "frequency": "RADIO 122,405",
+    "operating_hours": "Year round",
+    "fuel": "NIL"
+}

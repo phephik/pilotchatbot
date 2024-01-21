@@ -1,0 +1,29 @@
+{
+    "operating_fees": [
+        {
+            "type": "Landing",
+            "amount": "200,00",
+            "info": null
+        },
+        {
+            "type": "Parking",
+            "amount": "20,00",
+            "info": null
+        }
+    ],
+    "parking_fees": [
+        {
+            "type": "Parking",
+            "amount": "20,00",
+            "info": null
+        }
+    ],
+    "passanger_fees": [
+        {
+            "type": "Passenger",
+            "amount": "200,00",
+            "info": null
+        }
+    ],
+    "other_information": "The operator provides in ATZ only information to known traffic in accordance with Appendix S of regulation L 11."
+}

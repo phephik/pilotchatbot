@@ -1,0 +1,26 @@
+{
+    "icao_code": "LKPAVL",
+    "name": "Velk\u00e9 Pavlovice",
+    "full_address": "Zelnice 8, 691 06 Velk\u00e9 Pavlovice",
+    "city": "Velk\u00e9 Pavlovice",
+    "airport_type": "Private",
+    "runways": [
+        {
+            "RWY": "TBD",
+            "magnetic_direction": "TBD",
+            "rwy_dimensions": "TBD"
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "48\u00b0 52  50  N",
+            "longitude": "16\u00b0 49  30  E"
+        }
+    ],
+    "elevation_ft": 564,
+    "elevation_m": 172,
+    "frequency": "130,555",
+    "operating_hours": "Year round",
+    "fuel": "NIL"
+}

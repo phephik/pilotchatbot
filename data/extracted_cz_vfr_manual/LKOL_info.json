@@ -1,0 +1,54 @@
+{
+    "icao_code": "LKOL",
+    "name": "Olomouc",
+    "full_address": "Statut\u00e1rn\u00ed m\u011bsto Olomouc, Odbor dopravy a \u00fazemn\u00edho rozvoje MMOI, Horn\u00ed n\u00e1m\u011bst\u00ed 583, 779 11 Olomouc",
+    "city": "Olomouc",
+    "airport_type": "Public domestic aerodrome VFR day, parachute jumping operation",
+    "runways": [
+        {
+            "RWY": "09L",
+            "magnetic_direction": "093\u00b0",
+            "rwy_dimensions": "760 x 30"
+        },
+        {
+            "RWY": "27R",
+            "magnetic_direction": "273\u00b0",
+            "rwy_dimensions": "760 x 30"
+        },
+        {
+            "RWY": "09R",
+            "magnetic_direction": "093\u00b0",
+            "rwy_dimensions": "760 x 30"
+        },
+        {
+            "RWY": "27L",
+            "magnetic_direction": "273\u00b0",
+            "rwy_dimensions": "760 x 30"
+        },
+        {
+            "RWY": "10",
+            "magnetic_direction": "093\u00b0",
+            "rwy_dimensions": "420 x 40"
+        },
+        {
+            "RWY": "28",
+            "magnetic_direction": "273\u00b0",
+            "rwy_dimensions": "420 x 40"
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "49\u00b0 35' 14\" N",
+            "longitude": "17\u00b0 12' 36\" E"
+        }
+    ],
+    "elevation_ft": 869,
+    "elevation_m": 265,
+    "frequency": "118.005",
+    "operating_hours": "1 APR - 30 APR\nTHU - SUN, HOL 0600 - 1600\n1 MAY - 30 SEP\nMON - SUN, HOL 0500 - 1800\n1 OCT - 31 OCT\nTHU - SUN, HOL 0600 - 1600\n1 NOV - 31 MAR\nSAT, SUN, HOL 0800 - 1500\notherwise O/R\n",
+    "fuel": [
+        "AVGAS 100LL",
+        "TOTAL 15W 50"
+    ]
+}

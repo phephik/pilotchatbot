@@ -1,0 +1,45 @@
+{
+    "icao_code": "LKKT",
+    "name": "Klatovy",
+    "full_address": "Chaloupky 573, 339 01 Klatovy",
+    "city": "Klatovy",
+    "airport_type": "Public domestic aerodrome",
+    "runways": [
+        {
+            "RWY": "09L",
+            "magnetic_direction": "087\u00b0",
+            "rwy_dimensions": "820 x 75"
+        },
+        {
+            "RWY": "27R",
+            "magnetic_direction": "267\u00b0",
+            "rwy_dimensions": "820 x 75"
+        },
+        {
+            "RWY": "09R",
+            "magnetic_direction": "087\u00b0",
+            "rwy_dimensions": "820 x 25"
+        },
+        {
+            "RWY": "27L",
+            "magnetic_direction": "267\u00b0",
+            "rwy_dimensions": "820 x 25"
+        }
+    ],
+    "traffic": "VFR day/night, parachute jumping operation",
+    "geocoordinates": [
+        {
+            "latitude": "49\u00b0 25  06  N",
+            "longitude": "13\u00b0 19  19  E"
+        }
+    ],
+    "elevation_ft": 1299,
+    "elevation_m": 396,
+    "frequency": "122,210",
+    "operating_hours": "SAT, SUN, HOL 0800   1500",
+    "fuel": [
+        "aviation petrol AVGAS 100 LL",
+        "aviation kerosene JET A1",
+        "TOTAL 100D"
+    ]
+}

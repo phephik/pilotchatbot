@@ -1,0 +1,31 @@
+{
+    "icao_code": "LKPJ",
+    "name": "Prost\u011bjov",
+    "full_address": "3 km SE from centre of the town Prost\u011bjov",
+    "city": "Prost\u011bjov",
+    "airport_type": "Private domestic aerodrome",
+    "runways": [
+        {
+            "RWY": "12",
+            "magnetic_direction": "122\u00b0",
+            "rwy_dimensions": "1000 x 60"
+        },
+        {
+            "RWY": "30",
+            "magnetic_direction": "302\u00b0",
+            "rwy_dimensions": "1000 x 60"
+        }
+    ],
+    "traffic": "Arrival/departure to/from the aerodrome Prostejov with respect to area LKTRA6. Information about activation of LKTRA6 can be obtained from FIC Praha.",
+    "geocoordinates": [
+        {
+            "latitude": "49\u00b0 26  52  N",
+            "longitude": "17\u00b0 08  02  E"
+        }
+    ],
+    "elevation_ft": 702,
+    "elevation_m": 214,
+    "frequency": "126,905",
+    "operating_hours": "O/R",
+    "fuel": "AVGAS 100 LL"
+}

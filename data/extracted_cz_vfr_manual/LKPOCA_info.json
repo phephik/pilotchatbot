@@ -1,0 +1,28 @@
+{
+    "icao_code": "LKPOCA",
+    "name": "Horn\u00ed Po\u010daply",
+    "full_address": "Horn\u00ed Po\u010daply 33, 277 03 Horn\u00ed Po\u010daply",
+    "city": "Horn\u00ed Po\u010daply",
+    "airport_type": "Private",
+    "runways": [
+        {
+            "RWY": "VFR",
+            "magnetic_direction": "SLZ",
+            "rwy_dimensions": "VOC"
+        }
+    ],
+    "traffic": "Manual",
+    "geocoordinates": [
+        {
+            "latitude": "50\u00b0 25  05  N",
+            "longitude": "14\u00b0 23  03  E"
+        }
+    ],
+    "elevation_ft": 524,
+    "elevation_m": 160,
+    "frequency": {
+        "ARP": "125,830"
+    },
+    "operating_hours": "Year round",
+    "fuel": "NIL"
+}

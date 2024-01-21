@@ -1,0 +1,26 @@
+{
+    "icao_code": "LKTRBH",
+    "name": "T\u0159ebiho\u0161\u0165",
+    "full_address": "T\u0159ebiho\u0161\u0165 201, 544 01 T\u0159ebiho\u0161\u0165",
+    "city": "T\u0159ebiho\u0161\u0165",
+    "airport_type": "Private SLZ field",
+    "runways": [
+        {
+            "RWY": "21",
+            "magnetic_direction": "NIL",
+            "rwy_dimensions": "NIL"
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "50\u00b0 26  07  N",
+            "longitude": "15\u00b0 41  35  E"
+        }
+    ],
+    "elevation_ft": 1624,
+    "elevation_m": 495,
+    "frequency": "120,865",
+    "operating_hours": "Year round",
+    "fuel": "NIL"
+}

@@ -1,0 +1,41 @@
+{
+    "icao_code": "LKCB",
+    "name": "Cheb",
+    "full_address": "Aeroklub Karlovy Vary, o.s. K Leti\u0161ti 197, 360 01 Karlovy Vary",
+    "city": "Cheb",
+    "airport_type": "Public domestic aerodrome VFR day",
+    "runways": [
+        {
+            "RWY": "5",
+            "magnetic_direction": "053\u00b0",
+            "rwy_dimensions": "1000 x 25"
+        },
+        {
+            "RWY": "23",
+            "magnetic_direction": "233\u00b0",
+            "rwy_dimensions": "1000 x 25"
+        },
+        {
+            "RWY": "6",
+            "magnetic_direction": "053\u00b0",
+            "rwy_dimensions": "1000 x 18"
+        },
+        {
+            "RWY": "24",
+            "magnetic_direction": "233\u00b0",
+            "rwy_dimensions": "1000 x 18"
+        }
+    ],
+    "traffic": "Cheb RADIO",
+    "geocoordinates": [
+        {
+            "latitude": "50\u00b0 03  59  N",
+            "longitude": "12\u00b0 24  46  E"
+        }
+    ],
+    "elevation_ft": 1585,
+    "elevation_m": 483,
+    "frequency": "120,610",
+    "operating_hours": "SAT, SUN, HOL 0700 1400 and further during aeroclub operation, otherwise O/R 24 HR in advance",
+    "fuel": "AVGAS 100LL, Natural 95, limited TOTAL AERO 100D"
+}

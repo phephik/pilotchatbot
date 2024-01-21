@@ -1,0 +1,26 @@
+{
+    "icao_code": "LKMLAD",
+    "name": "Mlad\u00e1",
+    "full_address": "Private SLZ field, MLAD\u00c1, Czech Republic",
+    "city": "Mlad\u00e1",
+    "airport_type": "VFR",
+    "runways": [
+        {
+            "RWY": "19",
+            "magnetic_direction": "125",
+            "rwy_dimensions": "830"
+        }
+    ],
+    "traffic": "RADIO",
+    "geocoordinates": [
+        {
+            "latitude": "50\u00b0 14 37 N",
+            "longitude": "14\u00b0 51 20 E"
+        }
+    ],
+    "elevation_ft": 738,
+    "elevation_m": 225,
+    "frequency": "Group frequencyARP",
+    "operating_hours": "Year round",
+    "fuel": "On request"
+}

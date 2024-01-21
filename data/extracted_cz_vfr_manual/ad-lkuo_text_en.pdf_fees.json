@@ -1,0 +1,28 @@
+{
+    "operating_fees": [
+        {
+            "type": "Landing",
+            "amount": "50,00",
+            "info": "Per tonne of MTOW"
+        },
+        {
+            "type": "Ultralight aircraft",
+            "amount": "50,00",
+            "info": null
+        }
+    ],
+    "parking_fees": [
+        {
+            "type": "Parking area",
+            "amount": "30,00",
+            "info": "Per day"
+        },
+        {
+            "type": "In hangar",
+            "amount": "50,00",
+            "info": "Per day"
+        }
+    ],
+    "passanger_fees": [],
+    "other_information": "Providing information to known traffic in English and German language can be agreed with Aeroclub Ust\u00ed nad Orlici minimally 24 HR in advance. Arrival/departure of an aircraft with total length greater than or equal to 9 m or with maximum fuselage width greater than 2 m is permitted only by prior agreement with the aerodrome operator (to arrange rescue and firefighting services)."
+}

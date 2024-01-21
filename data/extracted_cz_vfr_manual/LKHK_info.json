@@ -1,0 +1,41 @@
+{
+    "icao_code": "LKHK",
+    "name": "Hradec Kr\u00e1lov\u00e9",
+    "full_address": "4 km NE from the centre of town, east of the Labe river",
+    "city": "Hradec Kr\u00e1lov\u00e9",
+    "airport_type": "Public domestic aerodrome / Private international aerodrome",
+    "runways": [
+        {
+            "RWY": "33L",
+            "magnetic_direction": "331\u00b0",
+            "rwy_dimensions": "800 x 25"
+        },
+        {
+            "RWY": "15R",
+            "magnetic_direction": "151\u00b0",
+            "rwy_dimensions": "800 x 25"
+        },
+        {
+            "RWY": "33R",
+            "magnetic_direction": "331\u00b0",
+            "rwy_dimensions": "2400 x 60"
+        },
+        {
+            "RWY": "15L",
+            "magnetic_direction": "151\u00b0",
+            "rwy_dimensions": "2400 x 60"
+        }
+    ],
+    "traffic": "Flights of powered aircraft above local villages below 1800 ft / 550 m AMSL are prohibited. Flights through ATZ at MNM 2500 ft / 830 m AMSL.",
+    "geocoordinates": [
+        {
+            "latitude": "50\u00b0 15  12  N",
+            "longitude": "15\u00b0 50  43  E"
+        }
+    ],
+    "elevation_ft": 791,
+    "elevation_m": 241,
+    "frequency": "122,005",
+    "operating_hours": "MON FRI 0700 TE (0600 TE (MAX 1800)) SAT, SUN, HOL 0800 TE (0700 TE (MAX 1800)) except 24 26 DEC, 31 DEC 1 JAN, Easter Monday; otherwise O/R",
+    "fuel": "AVGAS 100LL during operational hours; JET A1 during operational hours"
+}

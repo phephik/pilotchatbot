@@ -1,0 +1,35 @@
+{
+    "icao_code": "LKVL",
+    "name": "Vla\u0161im",
+    "full_address": "M\u011bsto Vla\u0161im, Jana Masaryka 302, 258 01 Vla\u0161im",
+    "city": "Vla\u0161im",
+    "airport_type": "Public domestic aerodrome VFR day",
+    "runways": [
+        {
+            "RWY": "13",
+            "magnetic_direction": "132\u00b0",
+            "rwy_dimensions": "850 x 40"
+        },
+        {
+            "RWY": "31",
+            "magnetic_direction": "312\u00b0",
+            "rwy_dimensions": "850 x 40"
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "49\u00b0 43' 44'' N",
+            "longitude": "14\u00b0 52' 44'' E"
+        }
+    ],
+    "elevation_ft": 1421,
+    "elevation_m": 433,
+    "frequency": "119.655",
+    "operating_hours": "SAT, SUN, HOL 0700 - 1400, otherwise O/R",
+    "fuel": [
+        "Natural BA95",
+        "Avgas 100 LL",
+        "Aeroshell 100/100W"
+    ]
+}

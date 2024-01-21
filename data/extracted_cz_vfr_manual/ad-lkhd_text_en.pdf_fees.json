@@ -1,0 +1,23 @@
+{
+    "operating_fees": [
+        {
+            "type": "Landing",
+            "amount": "50,00",
+            "info": "Per tonne of MTOW"
+        }
+    ],
+    "parking_fees": [
+        {
+            "type": "Out of hangar",
+            "amount": "40,00",
+            "info": null
+        },
+        {
+            "type": "In hangar over night",
+            "amount": "90,00",
+            "info": null
+        }
+    ],
+    "passanger_fees": [],
+    "other_information": "Communication in English only on request 48 hours in advance. Risk of severe turbulence in strong winds. Electric fence built along the west and east part of RWY far enough, outside the strip."
+}

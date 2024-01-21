@@ -1,0 +1,29 @@
+{
+    "operating_fees": [
+        {
+            "type": "Landing fees at airport",
+            "amount": "50,00",
+            "info": "Per tonne of MTOW"
+        }
+    ],
+    "parking_fees": [
+        {
+            "type": "Parking fees at airport",
+            "amount": "3,50",
+            "info": "Per hour and tonne of MTOW"
+        },
+        {
+            "type": "First 2,5 hours free of charge",
+            "amount": null,
+            "info": null
+        }
+    ],
+    "passanger_fees": [
+        {
+            "type": "Passenger fees at airport",
+            "amount": "NIL",
+            "info": null
+        }
+    ],
+    "other_information": "Outside operational hours arrivals at the aerodrome are allowed only after previous consultation with the aerodrome operator (check of serviceability of maneuvering areas)."
+}

@@ -1,0 +1,31 @@
+{
+    "icao_code": "LKEXCA",
+    "name": "Hat\u011b Excalibur",
+    "full_address": "Excalibur Aero s.r.o., Chvalovice, Hat\u011b 182, 669 02 Znojmo",
+    "city": "Znojmo",
+    "airport_type": "Private",
+    "runways": [
+        {
+            "RWY": "13",
+            "magnetic_direction": "130",
+            "rwy_dimensions": "800m x 30m"
+        },
+        {
+            "RWY": "31",
+            "magnetic_direction": "310",
+            "rwy_dimensions": "800m x 30m"
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "48\u00b045'42''N",
+            "longitude": "16\u00b003'19''E"
+        }
+    ],
+    "elevation_ft": 777,
+    "elevation_m": 237,
+    "frequency": "HAT\u011a RADIO 122.805",
+    "operating_hours": "Year round",
+    "fuel": "O/R from a nearby petrol station."
+}

@@ -1,0 +1,36 @@
+{
+    "icao_code": "LKBA",
+    "name": "B\u0159eclav",
+    "full_address": "Aeroklub B\u0159eclav, z.s. Leti\u0161t\u011b 3486/2, 690 03 B\u0159eclav",
+    "city": "B\u0159eclav",
+    "airport_type": "Public domestic aerodrome",
+    "runways": [
+        {
+            "RWY": "08",
+            "magnetic_direction": "080\u00b0",
+            "rwy_dimensions": "740 x 60"
+        },
+        {
+            "RWY": "26",
+            "magnetic_direction": "260\u00b0",
+            "rwy_dimensions": "740 x 60"
+        }
+    ],
+    "traffic": "VFR day, parachute jumping operation, glider launch",
+    "geocoordinates": [
+        {
+            "latitude": "48\u00b0 47  27  N",
+            "longitude": "16\u00b0 53  33  E"
+        }
+    ],
+    "elevation_ft": 525,
+    "elevation_m": 160,
+    "frequency": "119,655",
+    "operating_hours": "SAT, SUN, HOL 0700   1400, otherwise O/R 24 HR in advance",
+    "fuel": [
+        "AVGAS 100",
+        "NATURAL 95",
+        "TOTAL AERO D100",
+        "AEROSHELL SPORT PLUS 4"
+    ]
+}

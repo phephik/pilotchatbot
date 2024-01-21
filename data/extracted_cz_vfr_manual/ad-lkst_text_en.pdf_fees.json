@@ -1,0 +1,28 @@
+{
+    "operating_fees": [
+        {
+            "type": "Landing charges",
+            "amount": "100,00",
+            "info": "Aircraft"
+        },
+        {
+            "type": "Landing charges",
+            "amount": "50,00",
+            "info": "UL"
+        }
+    ],
+    "parking_fees": [
+        {
+            "type": "Parking charges",
+            "amount": "50,00",
+            "info": "Parking area per day"
+        },
+        {
+            "type": "Parking charges",
+            "amount": "100,00",
+            "info": "In hangar per day"
+        }
+    ],
+    "passanger_fees": [],
+    "other_information": "Providing information to known traffic in English language O/R 24HR in advance. Arrival/departure of an aircraft with total length greater than or equal to 9 m or with maximum fuselage width greater than 2 m is permitted only by prior agreement with the aerodrome operator (to arrange rescue and firefighting services)."
+}

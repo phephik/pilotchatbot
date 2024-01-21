@@ -1,0 +1,31 @@
+{
+    "icao_code": "LKUO",
+    "name": "\u00dast\u00ed nad Orlic\u00ed",
+    "full_address": "2,5 km E from centre of the town \u00dast\u00ed nad Orlic\u00ed",
+    "city": "\u00dast\u00ed nad Orlic\u00ed",
+    "airport_type": "Public domestic aerodrome VFR day, parachute jumping operation",
+    "runways": [
+        {
+            "RWY": "32",
+            "magnetic_direction": "323\u00b0",
+            "rwy_dimensions": "887 x 100"
+        },
+        {
+            "RWY": "14",
+            "magnetic_direction": "143\u00b0",
+            "rwy_dimensions": "887 x 100"
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "49\u00b0 58  43  N",
+            "longitude": "16\u00b0 25  35  E"
+        }
+    ],
+    "elevation_ft": 1342,
+    "elevation_m": 409,
+    "frequency": "122,210",
+    "operating_hours": "SAT, SUN, HOL 0600   1300",
+    "fuel": "AEROSHELL W 100"
+}

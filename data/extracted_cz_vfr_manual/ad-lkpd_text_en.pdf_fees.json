@@ -1,0 +1,44 @@
+{
+    "operating_fees": [
+        {
+            "type": "Landing",
+            "amount": "240.0",
+            "info": "Domestic flights (per tonne of MTOW)"
+        },
+        {
+            "type": "Landing",
+            "amount": "240.0",
+            "info": "International flights (per tonne of MTOW)"
+        }
+    ],
+    "parking_fees": [
+        {
+            "type": "In time 0500-1900",
+            "amount": "14.0",
+            "info": "(per hour and tonne of MTOW)"
+        },
+        {
+            "type": "In time 1900-0500",
+            "amount": "7.0",
+            "info": "(per hour and tonne of MTOW)"
+        }
+    ],
+    "passanger_fees": [
+        {
+            "type": "Domestic flights",
+            "amount": "320.0",
+            "info": "(per passenger)"
+        },
+        {
+            "type": "International flights",
+            "amount": "320.0",
+            "info": "(per passenger)"
+        },
+        {
+            "type": "Security charge",
+            "amount": "60.0",
+            "info": "(per passenger)"
+        }
+    ],
+    "other_information": "The airport is a military airport with civil air traffic."
+}

@@ -1,0 +1,26 @@
+{
+    "icao_code": "LKMIST",
+    "name": "M\u00cdSTEK",
+    "full_address": "RADIO 122,590 ARP   49\u00b0 39  10  N, 18\u00b0 20  45  E",
+    "city": "M\u00cdSTEK",
+    "airport_type": "Private SLZ field",
+    "runways": [
+        {
+            "RWY": null,
+            "magnetic_direction": null,
+            "rwy_dimensions": null
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "49\u00b0 39  10  N",
+            "longitude": "18\u00b0 20  45  E"
+        }
+    ],
+    "elevation_ft": 1066,
+    "elevation_m": 325,
+    "frequency": "122,590",
+    "operating_hours": "Year round",
+    "fuel": "NIL"
+}

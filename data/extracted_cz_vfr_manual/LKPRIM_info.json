@@ -1,0 +1,26 @@
+{
+    "icao_code": "LKPRIM",
+    "name": "Horn\u00ed P\u0159\u00edm",
+    "full_address": "Horn\u00ed P\u0159\u00edm 22, 503 15",
+    "city": "Czech Republic",
+    "airport_type": "Private SLZ field",
+    "runways": [
+        {
+            "RWY": "16",
+            "magnetic_direction": "NIL",
+            "rwy_dimensions": "NIL"
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "50\u00b0 13  46  N",
+            "longitude": "15\u00b0 42  13  E"
+        }
+    ],
+    "elevation_ft": 885,
+    "elevation_m": 270,
+    "frequency": "P\u0158\u00cdM RADIO 125,830",
+    "operating_hours": "Year round",
+    "fuel": "NIL"
+}

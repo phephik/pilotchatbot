@@ -1,0 +1,41 @@
+{
+    "icao_code": "LKPO",
+    "name": "P\u0159erov",
+    "full_address": "leti\u0161t\u011b P\u0159erov, Na Leti\u0161ti 406/147, 750 02 Bocho\u0159",
+    "city": "P\u0159erov",
+    "airport_type": "Public domestic aerodrome / Private international aerodrome",
+    "runways": [
+        {
+            "RWY": "6",
+            "magnetic_direction": "062\u00b0",
+            "rwy_dimensions": "2500 x 60"
+        },
+        {
+            "RWY": "24",
+            "magnetic_direction": "242\u00b0",
+            "rwy_dimensions": "2500 x 60"
+        },
+        {
+            "RWY": "5",
+            "magnetic_direction": "062\u00b0",
+            "rwy_dimensions": "840 x 30"
+        },
+        {
+            "RWY": "23",
+            "magnetic_direction": "242\u00b0",
+            "rwy_dimensions": "840 x 30"
+        }
+    ],
+    "traffic": "VFR day, VFR night (only for helicopters)",
+    "geocoordinates": [
+        {
+            "latitude": "49\u00b0 25  33  N",
+            "longitude": "17\u00b0 24  17  E"
+        }
+    ],
+    "elevation_ft": 676,
+    "elevation_m": 206,
+    "frequency": "127,780",
+    "operating_hours": "1 APR   31 MAY  0700 1600 UTC, 1 JUN   30 SEP  0800 1700 UTC, 1 OCT   31 OCT  0700 1600 UTC, otherwise O/R 24 HR in advance. In case of arrivals/departures outside of the Schengen Area 48 HR O/R SAT, SUN, HOL.",
+    "fuel": "JET A 1 (NATO F 34), AVGAS LL 100, outside of operational hours on request 24 HR in advance Shell W100, Shell mineral, Aeroshell 100, W15W50, TOTAL 100, D100 limited"
+}

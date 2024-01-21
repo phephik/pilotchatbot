@@ -1,0 +1,39 @@
+{
+    "operating_fees": [
+        {
+            "type": "Landing",
+            "amount": "100,00",
+            "info": "Snow removal is not provided in winter season."
+        },
+        {
+            "type": "Parking",
+            "amount": "10,00",
+            "info": "Hangar per hour and tonne of MTOW"
+        },
+        {
+            "type": "Parking",
+            "amount": "3,00",
+            "info": "Stand per hour and tonne of MTOW"
+        }
+    ],
+    "parking_fees": [
+        {
+            "type": "Hangar",
+            "amount": "10,00",
+            "info": "Hangar per hour and tonne of MTOW"
+        },
+        {
+            "type": "Stand",
+            "amount": "3,00",
+            "info": "Stand per hour and tonne of MTOW"
+        }
+    ],
+    "passanger_fees": [
+        {
+            "type": "Passenger",
+            "amount": "50,00",
+            "info": "Charges for passenger service"
+        }
+    ],
+    "other_information": "Arrival/departure of an aircraft with total fuselage length greater than or equal to 9 m or with maximum fuselage width greater than 2 m is permitted only by prior agreement with the aerodrome operator (to arrange rescue and firefighting services) at least 48 hours in advance."
+}

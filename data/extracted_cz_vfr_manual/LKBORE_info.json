@@ -1,0 +1,26 @@
+{
+    "icao_code": "LKBORE",
+    "name": "Borek VFR SLZ",
+    "full_address": "Private SLZ field",
+    "city": "BOREK",
+    "airport_type": "Private",
+    "runways": [
+        {
+            "RWY": "NIL",
+            "magnetic_direction": "NIL",
+            "rwy_dimensions": "NIL"
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "50\u00b0 12  39  N",
+            "longitude": "14\u00b0 39  27  E"
+        }
+    ],
+    "elevation_ft": 557,
+    "elevation_m": 170,
+    "frequency": "RADIO 118,740",
+    "operating_hours": "Do not overfly Borek after take off. MCTR Kbely is 2,5 km SE from the sport flying equipment field. The filed is situated under TMA VIII Praha and TMA II Vodochody.",
+    "fuel": "NIL"
+}

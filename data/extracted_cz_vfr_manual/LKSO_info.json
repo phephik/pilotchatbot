@@ -1,0 +1,44 @@
+{
+    "icao_code": "LKSO",
+    "name": "Sob\u011bslav",
+    "full_address": "1,5 km SSW Sob\u011bslav",
+    "city": "Sob\u011bslav",
+    "airport_type": "Public domestic aerodrome VFR day, parachute jumping operation",
+    "runways": [
+        {
+            "RWY": "18",
+            "magnetic_direction": "182\u00b0",
+            "rwy_dimensions": "740 x 30"
+        },
+        {
+            "RWY": "36",
+            "magnetic_direction": "002\u00b0",
+            "rwy_dimensions": "740 x 30"
+        },
+        {
+            "RWY": "08",
+            "magnetic_direction": "084\u00b0",
+            "rwy_dimensions": "607 x 24"
+        },
+        {
+            "RWY": "26",
+            "magnetic_direction": "264\u00b0",
+            "rwy_dimensions": "607 x 24"
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "49\u00b0 14  48  N",
+            "longitude": "14\u00b0 42  49  E"
+        }
+    ],
+    "elevation_ft": 1335,
+    "elevation_m": 407,
+    "frequency": "122,190",
+    "operating_hours": "SAT, SUN, HOL 0630   1330",
+    "fuel": [
+        "AVGAS 100 LL",
+        "NATURAL 95"
+    ]
+}

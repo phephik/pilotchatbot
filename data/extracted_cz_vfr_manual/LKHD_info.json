@@ -1,0 +1,35 @@
+{
+    "icao_code": "LKHD",
+    "name": "Hodkovice",
+    "full_address": "Aeroklub Hodkovice nad Mohelkou, z.s. Leti\u0161t\u011b 579, 463 42 Hodkovice nad Mohelkou (postal address P.O.Box 10, 463 42 Hodkovice nad Mohelkou)",
+    "city": "Hodkovice nad Mohelkou",
+    "airport_type": "Public domestic aerodrome",
+    "runways": [
+        {
+            "RWY": "1",
+            "magnetic_direction": "008\u00b0",
+            "rwy_dimensions": "980 x 100"
+        },
+        {
+            "RWY": "19",
+            "magnetic_direction": "188\u00b0",
+            "rwy_dimensions": "980 x 100"
+        }
+    ],
+    "traffic": "VFR day, parachute jumping operation (except basic training)",
+    "geocoordinates": [
+        {
+            "latitude": "50\u00b0 39' 26\" N",
+            "longitude": "15\u00b0 04' 40\" E"
+        }
+    ],
+    "elevation_ft": 1480,
+    "elevation_m": 451,
+    "frequency": "120.905",
+    "operating_hours": "SAT, SUN, HOL 0700 - 1400, otherwise O/R",
+    "fuel": [
+        "AVGAS 100 LL",
+        "BA 95",
+        "AERO D 100"
+    ]
+}

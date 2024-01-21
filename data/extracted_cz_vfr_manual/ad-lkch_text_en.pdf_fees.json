@@ -1,0 +1,22 @@
+{
+    "operating_fees": [
+        {
+            "type": "Landing charges",
+            "amount": "Per each initiated tonne 50,00",
+            "info": "Ultralight aircraft 40,00"
+        },
+        {
+            "type": "Parking charges",
+            "amount": "For every additional hour 10,00",
+            "info": "Hangar (by agreement) 250,00 First three hours free of charge"
+        },
+        {
+            "type": "Charges for passenger service",
+            "amount": "Passenger 10,00",
+            "info": "Per passenger on international flight departure 200,00 For customs and immigration clearance on flight outside the EU and Schengen area (per passenger)120,00"
+        }
+    ],
+    "parking_fees": [],
+    "passanger_fees": [],
+    "other_information": "Handling NIL Chapter end"
+}

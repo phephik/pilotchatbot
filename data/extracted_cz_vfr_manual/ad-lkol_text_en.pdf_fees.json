@@ -1,0 +1,22 @@
+{
+    "operating_fees": [
+        {
+            "type": "Landing fees",
+            "amount": "100,00",
+            "info": "Actual information is provided by Providing information to known traffic in AD operational hours."
+        },
+        {
+            "type": "Parking fees",
+            "amount": "30,00",
+            "info": "Per each initiated hour and tonne of MTOW (first 3 hours free)"
+        },
+        {
+            "type": "Passanger fees",
+            "amount": "NIL",
+            "info": "NIL"
+        }
+    ],
+    "parking_fees": null,
+    "passanger_fees": null,
+    "other_information": "All mentioned rates include value added tax."
+}

@@ -1,0 +1,31 @@
+{
+    "icao_code": "LKJIRI",
+    "name": "K\u0159elovice Ji\u0159i\u010dky",
+    "full_address": "Ji\u0159i\u010dky VFR SLZ",
+    "city": "JI\u0158I\u010cKY",
+    "airport_type": "Private SLZ field",
+    "runways": [
+        {
+            "RWY": "34",
+            "magnetic_direction": "Increased attention in case of W wind above 20 kt, possibility of turbulence when landing on THR RWY",
+            "rwy_dimensions": "Possibility of turbulence when landing on RWY 34 in stronger N and NNE winds."
+        },
+        {
+            "RWY": "16",
+            "magnetic_direction": "In strong W winds, RWY 16 for landing and RWY 34 for take off are recommended.",
+            "rwy_dimensions": "right circuits, RWY 34   left circuits   outside the village of Ji\u0159i\u010dky."
+        }
+    ],
+    "traffic": "RADIO 125,825 ARP",
+    "geocoordinates": [
+        {
+            "latitude": "49\u00b0 33  08  N",
+            "longitude": "15\u00b0 09  20  E"
+        }
+    ],
+    "elevation_ft": 1683,
+    "elevation_m": 513,
+    "frequency": "Transmitter K\u0159e\u0161\u00edn 6 km NW 2592 ft AMSL.",
+    "operating_hours": "Beware of passing cars on road no. 13032 when landing on RWY 34, landing strictly on RWY. Fly over the communication in min. height 15 m AGL.",
+    "fuel": "NIL"
+}

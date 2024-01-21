@@ -1,0 +1,24 @@
+{
+    "operating_fees": [
+        {
+            "type": "Landing fees at airport",
+            "amount": "Per tonne of MTOW 80,00",
+            "info": "Training flights (per tonne of MTOW) 40,00"
+        }
+    ],
+    "parking_fees": [
+        {
+            "type": "Parking fees at airport",
+            "amount": "Per hour and tonne of MTOW 5,00",
+            "info": null
+        }
+    ],
+    "passanger_fees": [
+        {
+            "type": "Passenger fees at airport",
+            "amount": "NIL",
+            "info": null
+        }
+    ],
+    "other_information": "Providing information to known traffic in English language O/R 24 HR in advance. Use of AD for night VFR flights is possible only after previous agreement with AD operator and after check of serviceability and familiarization with local traffic conditions. RWY 03R/21L is equipped for night traffic operation with two rows of lights. Usage on request. Use of AD outside operational hours is possible only after prior agreement with AD operator (serviceability of moving area). Model aircraft operation outside operational hours possible in vicinity of RWY THR 03L/21R. At the RWY THR 03L/21R, 10 meters sideways to the left of the runway 03L, 10 meters sideways to the right of the runway 21R, a model strip 7 meters wide and 50 meters long is marked using orange white cones 50 centimeters high."
+}

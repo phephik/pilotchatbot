@@ -1,0 +1,33 @@
+{
+    "operating_fees": [
+        {
+            "type": "Aircraft up to 5000 kg",
+            "amount": "100,00",
+            "info": ""
+        },
+        {
+            "type": "Aircraft over 5000 kg",
+            "amount": "200,00",
+            "info": ""
+        },
+        {
+            "type": "Ultralight aircraft",
+            "amount": "50,00",
+            "info": ""
+        }
+    ],
+    "parking_fees": [
+        {
+            "type": "On open area rate per each initiated day",
+            "amount": "100,00",
+            "info": ""
+        },
+        {
+            "type": "Hangar rate per each initiated day",
+            "amount": "200,00",
+            "info": ""
+        }
+    ],
+    "passanger_fees": [],
+    "other_information": "Providing information to known traffic in english language is O/R in advance."
+}

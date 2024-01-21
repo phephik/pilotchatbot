@@ -1,0 +1,34 @@
+{
+    "operating_fees": [
+        {
+            "type": "Landing charges",
+            "amount": "100,00",
+            "info": "Per aircraft"
+        },
+        {
+            "type": "Landing charges",
+            "amount": "50,00",
+            "info": "Per ultralight aircraft"
+        }
+    ],
+    "parking_fees": [
+        {
+            "type": "Parking charges",
+            "amount": "20,00",
+            "info": "Per every additional hour"
+        },
+        {
+            "type": "Parking charges",
+            "amount": "First two hours free of charge",
+            "info": null
+        }
+    ],
+    "passanger_fees": [
+        {
+            "type": "Charges for passenger service",
+            "amount": "100,00",
+            "info": null
+        }
+    ],
+    "other_information": "Arrivals and departures outside operational hours are allowed only after previous arrangement with AD operator. Arrivals without two way radio contact are possible only after previous arrangement with AD operator."
+}

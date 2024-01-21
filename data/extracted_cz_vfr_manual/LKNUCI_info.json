@@ -1,0 +1,28 @@
+{
+    "icao_code": "LKNUCI",
+    "name": "Nu\u010dice VFR SLZ",
+    "full_address": "Vojick\u00e1 979/40, 193 00 Praha 9 Horn\u00ed Po\u010dernice",
+    "city": "Prague",
+    "airport_type": "Private",
+    "runways": [
+        {
+            "RWY": "24",
+            "magnetic_direction": "49\u00b0 57' 04'' N, 14\u00b0 52' 12'' E",
+            "rwy_dimensions": "1374 ft / 419 m"
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "49\u00b0 57' 04'' N",
+            "longitude": "14\u00b0 52' 12'' E"
+        }
+    ],
+    "elevation_ft": 1374,
+    "elevation_m": 419,
+    "frequency": {
+        "ARP": "125,830"
+    },
+    "operating_hours": "Year round",
+    "fuel": "NIL"
+}

@@ -1,0 +1,35 @@
+{
+    "icao_code": "LKVY",
+    "name": "Vy\u0161kov",
+    "full_address": "Aeroklub Vy\u0161kov, \u010d.p. 725, 682 01 Vy\u0161kov P\u0159edm\u011bst\u00ed",
+    "city": "Vy\u0161kov",
+    "airport_type": "Public domestic aerodrome VFR day",
+    "runways": [
+        {
+            "RWY": "02",
+            "magnetic_direction": "017\u00b0",
+            "rwy_dimensions": "1280 x 60"
+        },
+        {
+            "RWY": "20",
+            "magnetic_direction": "197\u00b0",
+            "rwy_dimensions": "1280 x 60"
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "49\u00b0 18  01  N",
+            "longitude": "17\u00b0 01  31  E"
+        }
+    ],
+    "elevation_ft": 915,
+    "elevation_m": 279,
+    "frequency": "120,330",
+    "operating_hours": "SAT, SUN, HOL 0800 1500 otherwise O/R 24 HR in advance",
+    "fuel": [
+        "gasoline Natural 95",
+        "AEROSHELL W120",
+        "AEROSHELL 15W50"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "operating_fees": [
+        {
+            "type": "Airplanes",
+            "amount": "500,00",
+            "info": null
+        },
+        {
+            "type": "Ultralight aircraft",
+            "amount": "100,00",
+            "info": null
+        },
+        {
+            "type": "Out of published aerodrome operational hours",
+            "amount": "1000,00",
+            "info": null
+        }
+    ],
+    "parking_fees": [
+        {
+            "type": "Per hour and tonne of MTOW",
+            "amount": "3,00",
+            "info": null
+        }
+    ],
+    "passanger_fees": [
+        {
+            "type": "Passenger",
+            "amount": "60,00",
+            "info": null
+        }
+    ],
+    "other_information": "Providing information to known traffic in English language O/R in advance. Outside operational hours arrivals to LKSN are allowed only by prior arrangement with the aerodrome operator (check of movement area serviceability). Arrival/departure of an aircraft with total length of fuselage greater than or equal to 9 m or with maximum fuselage width greater than 2 m is permitted only by prior agreement with the aerodrome operator (to arrange rescue and firefighting services)."
+}

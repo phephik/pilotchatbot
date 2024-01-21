@@ -1,0 +1,41 @@
+{
+    "icao_code": "LKPL",
+    "name": "Letkov",
+    "full_address": "Letkov 200, 326 00",
+    "city": "Plze\u0148",
+    "airport_type": "Public domestic aerodrome VFR day, parachute jumping operation",
+    "runways": [
+        {
+            "RWY": "08L",
+            "magnetic_direction": "083\u00b0",
+            "rwy_dimensions": "700 x 30"
+        },
+        {
+            "RWY": "26R",
+            "magnetic_direction": "263\u00b0",
+            "rwy_dimensions": "700 x 30"
+        },
+        {
+            "RWY": "08R",
+            "magnetic_direction": "083\u00b0",
+            "rwy_dimensions": "460 x 50"
+        },
+        {
+            "RWY": "26L",
+            "magnetic_direction": "263\u00b0",
+            "rwy_dimensions": "460 x 50"
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "49\u00b0 43  23  N",
+            "longitude": "13\u00b0 27  08  E"
+        }
+    ],
+    "elevation_ft": 1374,
+    "elevation_m": 419,
+    "frequency": "130,610",
+    "operating_hours": "SAT, SUN, HOL 0700   1500, otherwise O/R, HO",
+    "fuel": "AVGAS 100, NATURAL 95"
+}

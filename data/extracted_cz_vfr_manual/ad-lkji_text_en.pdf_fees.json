@@ -1,0 +1,54 @@
+{
+    "operating_fees": [
+        {
+            "type": "Single engine aircraft up to 500 kg, glider, ultralight aircraft",
+            "amount": "50,00",
+            "info": ""
+        },
+        {
+            "type": "Single engine aircraft 500 2500 kg, per each initiated tonne",
+            "amount": "100,00",
+            "info": ""
+        },
+        {
+            "type": "Double engine aircraft and aircraft over 2500 kg, per each initiated tonne",
+            "amount": "200,00",
+            "info": ""
+        }
+    ],
+    "parking_fees": [
+        {
+            "type": "Out of hangar each additional hour and each initiated tonne",
+            "amount": "3,00",
+            "info": ""
+        },
+        {
+            "type": "Hangar per each initiated day and tonne",
+            "amount": "140,00",
+            "info": ""
+        },
+        {
+            "type": "Out of hangar first two hours free of charge",
+            "amount": "",
+            "info": ""
+        }
+    ],
+    "passanger_fees": [
+        {
+            "type": "Passenger",
+            "amount": "50,00",
+            "info": ""
+        },
+        {
+            "type": "Parachutist per jump",
+            "amount": "50,00",
+            "info": ""
+        },
+        {
+            "type": "Parachutist per tandem jump",
+            "amount": "100,00",
+            "info": null
+        }
+    ],
+    "other_information": "Intentionally left blank"
+}

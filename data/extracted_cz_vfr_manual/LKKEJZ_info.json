@@ -1,0 +1,26 @@
+{
+    "icao_code": "LKKEJZ",
+    "name": "Kej\u017elice",
+    "full_address": "Ing. Milo\u0161 Kov\u00e1\u0159, U Mark\u00e9ty 128, 104 00 Praha 10 H\u00e1je",
+    "city": "Prague",
+    "airport_type": "Private",
+    "runways": [
+        {
+            "RWY": "35",
+            "magnetic_direction": "27",
+            "rwy_dimensions": "After take off from RWY 35 turn left. The field is under the LKTSA27."
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "49\u00b0 35 32 N",
+            "longitude": "15\u00b0 24 05 E"
+        }
+    ],
+    "elevation_ft": 1594,
+    "elevation_m": 486,
+    "frequency": "134,815",
+    "operating_hours": "Year round",
+    "fuel": "TOTALAERO D100, Castrol"
+}

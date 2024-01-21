@@ -1,0 +1,38 @@
+{
+    "operating_fees": [
+        {
+            "type": "Ultralight aircraft",
+            "amount": "80,00",
+            "info": null
+        },
+        {
+            "type": "Aircraft and helicopters up to MTOW 1000 kg",
+            "amount": "100,00",
+            "info": null
+        },
+        {
+            "type": "Aircraft and helicopters over MTOW 1000 kg",
+            "amount": "200,00",
+            "info": null
+        }
+    ],
+    "parking_fees": [
+        {
+            "type": "Outside parking per 24 hours",
+            "amount": "100,00",
+            "info": null
+        },
+        {
+            "type": "Hangar (after prior consent) per 24 hours",
+            "amount": "300,00",
+            "info": null
+        },
+        {
+            "type": "Outside parking up to 2 hours",
+            "amount": "free of charge",
+            "info": null
+        }
+    ],
+    "passanger_fees": [],
+    "other_information": "Providing information to known traffic in English language O/R in advance. Arrival/departure of motorized aircraft or aircraft with a total length greater than or equal to 9 m or a maximum fuselage width greater than 2 m is permitted only after prior agreement with the AD operator (provision of rescue and firefighting services)."
+}

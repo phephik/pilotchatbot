@@ -1,0 +1,28 @@
+{
+    "icao_code": "LKBRTO",
+    "name": "Br\u0165ov",
+    "full_address": "\u0160erkovice 86, 666 01 Ti\u0161nov",
+    "city": "Ti\u0161nov",
+    "airport_type": "Private",
+    "runways": [
+        {
+            "RWY": null,
+            "magnetic_direction": null,
+            "rwy_dimensions": null
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "49\u00b0 24  39  N",
+            "longitude": "16\u00b0 29  58  E"
+        }
+    ],
+    "elevation_ft": 1610,
+    "elevation_m": 491,
+    "frequency": {
+        "ARP": "125,830"
+    },
+    "operating_hours": "Year round",
+    "fuel": "NIL"
+}

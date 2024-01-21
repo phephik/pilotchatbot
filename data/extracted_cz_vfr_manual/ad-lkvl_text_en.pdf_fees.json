@@ -1,0 +1,18 @@
+{
+    "operating_fees": [
+        {
+            "type": "Landing",
+            "amount": "70 K\u010d per tonne of MTOW",
+            "info": "First landing free of charge, every other in the same day"
+        }
+    ],
+    "parking_fees": [
+        {
+            "type": "Per hour",
+            "amount": "5,00",
+            "info": "Per hour and tonne of MTOW"
+        }
+    ],
+    "passanger_fees": [],
+    "other_information": "NIL"
+}

@@ -1,0 +1,36 @@
+{
+    "icao_code": "LKHB",
+    "name": "Havl\u00ed\u010dk\u016fv Brod",
+    "full_address": "2,4 km SW Havl\u00ed\u010dk\u016fv Brod",
+    "city": "Havl\u00ed\u010dk\u016fv Brod",
+    "airport_type": "Public domestic aerodrome / Private international aerodrome VFR day, parachute jumping operation",
+    "runways": [
+        {
+            "RWY": "11",
+            "magnetic_direction": "111\u00b0",
+            "rwy_dimensions": "800 x 50"
+        },
+        {
+            "RWY": "29",
+            "magnetic_direction": "291\u00b0",
+            "rwy_dimensions": "800 x 50"
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "49\u00b0 35  50  N",
+            "longitude": "15\u00b0 32  57  E"
+        }
+    ],
+    "elevation_ft": 1519,
+    "elevation_m": 463,
+    "frequency": "128,905",
+    "operating_hours": "SAT, SUN, HOL 0700   1400",
+    "fuel": [
+        "AVGAS 100 LL",
+        "Natural BA 95 MOGAS",
+        "TOTAL 100 D",
+        "AeroShell Sport PLUS 4"
+    ]
+}

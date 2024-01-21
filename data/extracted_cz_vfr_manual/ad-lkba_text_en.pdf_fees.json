@@ -1,0 +1,24 @@
+{
+    "operating_fees": [
+        {
+            "type": "Landing",
+            "amount": "50,00",
+            "info": "Per tonne of MTOW"
+        }
+    ],
+    "parking_fees": [
+        {
+            "type": "Parking",
+            "amount": "5,00",
+            "info": "Per hour and tonne of MTOW"
+        }
+    ],
+    "passanger_fees": [
+        {
+            "type": "Passenger",
+            "amount": "NIL",
+            "info": null
+        }
+    ],
+    "other_information": "Charges for aerodromes: Landing charges - Per tonne of MTOW 50,00, Parking charges - Per hour and tonne of MTOW 5,00, Charges for passenger service - NIL"
+}

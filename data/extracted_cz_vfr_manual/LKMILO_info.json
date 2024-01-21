@@ -1,0 +1,31 @@
+{
+    "icao_code": "LKMILO",
+    "name": "Milovice",
+    "full_address": "Kone\u010dn\u00e1 3120, 289 24 Milovice",
+    "city": "Milovice",
+    "airport_type": "Private",
+    "runways": [
+        {
+            "RWY": "28",
+            "magnetic_direction": "280",
+            "rwy_dimensions": "950x60 m"
+        },
+        {
+            "RWY": "10",
+            "magnetic_direction": "100",
+            "rwy_dimensions": "950x60 m"
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "50\u00b0 14  16  N",
+            "longitude": "14\u00b0 54  37  E"
+        }
+    ],
+    "elevation_ft": 652,
+    "elevation_m": 199,
+    "frequency": "130,540",
+    "operating_hours": "Year round",
+    "fuel": "BA95"
+}

@@ -1,0 +1,31 @@
+{
+    "icao_code": "LKPA",
+    "name": "Poli\u010dka",
+    "full_address": "2 km N Poli\u010dka",
+    "city": "Poli\u010dka",
+    "airport_type": "Public domestic aerodrome VFR day",
+    "runways": [
+        {
+            "RWY": "15",
+            "magnetic_direction": "154\u00b0",
+            "rwy_dimensions": "1050 x 35"
+        },
+        {
+            "RWY": "33",
+            "magnetic_direction": "334\u00b0",
+            "rwy_dimensions": "1050 x 35"
+        }
+    ],
+    "traffic": "Aerodrome Traffic Zone (ATZ) is bounded by prohibited area LKP7 on the south.",
+    "geocoordinates": [
+        {
+            "latitude": "49\u00b0 44  22  N",
+            "longitude": "16\u00b0 15  32  E"
+        }
+    ],
+    "elevation_ft": 1978,
+    "elevation_m": 603,
+    "frequency": "122,590",
+    "operating_hours": "SAT, SUN, HOL 0700   1400 UTC",
+    "fuel": "NATURAL 98 limited"
+}

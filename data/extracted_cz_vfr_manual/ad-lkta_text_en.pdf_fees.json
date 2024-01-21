@@ -1,0 +1,28 @@
+{
+    "operating_fees": [
+        {
+            "type": "Landing",
+            "amount": "100,00",
+            "info": "Per each initiated tonne of MTOW"
+        }
+    ],
+    "parking_fees": [
+        {
+            "type": "Out of hangar",
+            "amount": "50,00",
+            "info": "Per each initiated 24 hours"
+        },
+        {
+            "type": "In hangar",
+            "amount": "100,00",
+            "info": "Per each initiated 24 hours"
+        },
+        {
+            "type": "Free",
+            "amount": "0,00",
+            "info": "First 2 hours free of charge"
+        }
+    ],
+    "passanger_fees": [],
+    "other_information": "Charges for aerodromes: Landing charges - Per each initiated tonne of MTOW 100,00, Parking charges - Out of hangar (per each initiated 24 hours) 50,00, In hangar (per each initiated 24 hours) 100,00, First 2 hours free of charge, Charges for passenger service - NIL"
+}

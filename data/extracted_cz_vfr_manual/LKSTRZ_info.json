@@ -1,0 +1,28 @@
+{
+    "icao_code": "LKSTRZ",
+    "name": "Str\u00e1\u017enice",
+    "full_address": "Vinohradsk\u00e1 66, 696 62 Str\u00e1\u017enice",
+    "city": "Str\u00e1\u017enice",
+    "airport_type": "Private",
+    "runways": [
+        {
+            "RWY": "VOC",
+            "magnetic_direction": "125,830",
+            "rwy_dimensions": "48\u00b0 53  16  N, 17\u00b0 17  40  E"
+        }
+    ],
+    "traffic": "VFR",
+    "geocoordinates": [
+        {
+            "latitude": "48\u00b0 53  16  N",
+            "longitude": "17\u00b0 17  40  E"
+        }
+    ],
+    "elevation_ft": 613,
+    "elevation_m": 187,
+    "frequency": {
+        "ARP": "125,830"
+    },
+    "operating_hours": "Year round",
+    "fuel": "NIL"
+}
